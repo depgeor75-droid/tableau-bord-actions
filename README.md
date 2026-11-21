@@ -2,7 +2,9 @@
 
 Une application web gratuite qui rassemble **tous les facteurs qui influencent le cours de l'action Aedifica**, avec leur évolution sur 1 mois, 1 an, 5 ans et 10 ans. Elle est hébergée sur GitHub Pages et se lit sur GSM comme sur PC.
 
-**Adresse une fois en ligne :** `https://VOTRE-COMPTE.github.io/tableau-bord-actions/`, où `VOTRE-COMPTE` est le nom du compte GitHub qui héberge le projet. Aucun nom de compte n'est écrit dans le projet : il fonctionne tel quel sur n'importe quel compte.
+**Adresse du tableau de bord :** https://depgeor75-droid.github.io/tableau-bord-actions/
+
+**Dépôt :** https://github.com/depgeor75-droid/tableau-bord-actions (en ligne depuis le 21/11/2026)
 
 > Outil personnel d'information — pas un conseil en investissement.
 
@@ -18,9 +20,19 @@ GitHub Actions (Python)  ─►  data/aedifica/*.json  ─►  GitHub Pages (sit
 - Si une source tombe en panne, les autres continuent. L'application garde la dernière valeur valide, l'affiche avec sa date et passe la pastille à l'orange. **Aucune donnée n'est jamais inventée** : une valeur manquante s'affiche « n.d. » avec la raison.
 - Les fondamentaux (NTA, endettement, dividende…) viennent des rapports officiels d'Aedifica. Chaque chiffre porte le lien vers son rapport et le numéro de page.
 
+## Envoyer une modification
+
+Le dossier du projet sur le PC est relié au dépôt GitHub. Après une modification (un nouveau rapport trimestriel, un réglage), demandez à Claude Code « envoie les modifications sur GitHub ». Le site est republié une minute plus tard.
+
+La collecte ajoute chaque soir de nouvelles données dans le dépôt. Avant tout envoi, il faut donc d'abord récupérer ces données (`git pull --rebase`), ce que Claude Code fait de lui-même.
+
+Sur ce PC, Git est connecté au compte `depgeor75-droid` pour ce dossier. Si GitHub redemande une connexion, utilisez ce compte-là.
+
 ## Mise en ligne, pas à pas
 
-À faire une seule fois. Comptez un quart d'heure.
+**Déjà fait le 21/11/2026** sur le compte `depgeor75-droid`. Cette section ne sert plus que pour réinstaller le tableau de bord ailleurs : remplacez alors `VOTRE-COMPTE` par le nom du compte. Aucun nom de compte n'est écrit dans le code, qui fonctionne tel quel sur n'importe quel compte.
+
+Comptez un quart d'heure.
 
 ### 1. Créer le dépôt
 
@@ -29,14 +41,13 @@ GitHub Actions (Python)  ─►  data/aedifica/*.json  ─►  GitHub Pages (sit
 3. *Repository name* : `tableau-bord-actions`. Visibilité : **Public** (obligatoire pour que GitHub Pages soit gratuit).
 4. Ne cochez rien d'autre (pas de README, pas de .gitignore), puis **Create repository**.
 
-### 2. Régler GitHub Pages et les droits d'écriture
+### 2. Régler GitHub Pages
 
 Dans le dépôt, onglet **Settings** :
 
 1. Menu de gauche **Pages** → *Build and deployment* → *Source* : choisissez **GitHub Actions**.
    C'est indispensable : avec l'autre choix (« Deploy from a branch »), les données collectées chaque soir ne seraient pas republiées et le site resterait figé.
-2. Menu de gauche **Actions** → **General** → tout en bas, *Workflow permissions* : cochez **Read and write permissions**, puis **Save**.
-   La collecte a besoin de ce droit pour enregistrer les nouvelles données dans le dépôt.
+2. Rien d'autre à régler : la collecte demande elle-même le droit d'enregistrer les données dans le dépôt (vérifié le 21/11/2026). Seulement si elle échouait avec un refus d'écriture : menu **Actions** → **General** → *Workflow permissions* → **Read and write permissions** → **Save**.
 
 ### 3. Envoyer les fichiers
 
@@ -129,7 +140,7 @@ Tout ce qui est propre à Aedifica vit dans `societes/aedifica.json` et dans `da
 1. Copiez `societes/aedifica.json` vers `societes/nouvelle.json`. Adaptez l'identifiant, le nom, le symbole Yahoo, l'ISIN, les pairs, les locataires, les mots-clés et la page des communiqués. Supprimez `ajustements_cours` (il est propre à l'action Aedifica).
 2. Créez `data/nouvelle/fondamentaux.json` sur le modèle de celui d'Aedifica (valeur comptable par action, nombre d'actions, dividendes par exercice). Sans ce fichier, l'application fonctionne, mais la décote, le rendement et le multiple s'affichent « n.d. ».
 3. Envoyez sur GitHub et lancez **Mise à jour des données** en cochant « Recharger tout l'historique ».
-4. Ouvrez `https://VOTRE-COMPTE.github.io/tableau-bord-actions/?societe=nouvelle`.
+4. Ouvrez `https://depgeor75-droid.github.io/tableau-bord-actions/?societe=nouvelle`.
 
 Le plus sûr reste de le demander à Claude Code (« ajoute la société X »), qui vérifiera les sources et les chiffres dans les rapports officiels.
 
