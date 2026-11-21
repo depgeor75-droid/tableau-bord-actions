@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21T11:23:08+01:00",
+ "genere_le": "2026-11-21T15:44:29+01:00",
  "date_parts": "2026-06-30",
  "source_parts": {
   "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
@@ -260,6 +260,26 @@
    "veille_actualites": true,
    "actualites": [
     {
+     "id": "9d28aab0f7e5",
+     "date": "2026-11-17",
+     "titre": "L'action Emeis lâche 28,5 % sur trois mois et repasse sous sa MM20",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmNjQzNxTkY4UWl3MXJOeDVVTG1MRVlvbURWUkRtSFpDeXVxeU00NFhkNDdVQklCUDBrQWxLUDJTLXJ0U2M2Y3hReUFmWUJvSEt2bVBYU0hLMExxOUZKSlhBQ25wQ255ai1OaGxoQzRNT2NXUS0ydmdmT1BpNkIyODdDVVJVc0RNbEstMDEyYldXc1Nna3kxVjRsSlBjMmhSalNXQ210OWlXaGtJZUZzSTJTSk1iR2FR?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "5159ee889149",
+     "date": "2026-11-05",
+     "titre": "L'action Emeis reprend 5,8 % sur un mois et repasse au-dessus de sa MM20",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2QxaWlYM3Z6NGNfcU1iN0lxNFhraFBfd19JS0o5aS1ORWFaWmo1UkdIZU83X1Zmb2pNaVVZa2ZzTTFwWmhoQXV5eEFjRTNhWUVPRHdkNzRRNEtiOW5xa3JXcjcyMk1ISWFNYVYyek04ZWJOTTN0dWxEYzRpU2t3V01ENTd0Q2hHUGVRLXZyOW9nR05tdVZ6Z1U5TjVlTzNoT19kc2swcFJxczZxenRnS3N0TzkzUzY2aHRkeFRmSFc?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
      "id": "b9b868159acc",
      "date": "2026-11-04",
      "titre": "L'action Emeis rebondit de 3 % mais reste à -27 % sur le trimestre",
@@ -290,6 +310,16 @@
      "mots_risque": []
     },
     {
+     "id": "a182711e30f2",
+     "date": "2026-10-30",
+     "titre": "SBF 120 - Les actions à suivre vendredi: Axa, Bouygues, Capgemini, Crédit Agricole SA, Eutelsat, Emeis, Imerys, Sanofi, Scor, TF1",
+     "source": "Investir Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOXzgydldkVlR0dGF2QkJ0bGVkOWZnWjVmbENLZUJsN1c4eU9fQ2dFLVdxeDFjSG16Z2hWd2NHYUh6WWdZcWFzUUF1c0Y5cDJyWWFzbzdYZ0FfOVJHMlVjQU5yR0hJNVJLLUVENzVMckVRRndjRVhqcTJtdXFmaklZSUJuaDZZZHloTVpTX3NsVnU5T2thTnpTY3hRMUVPdGVLUHMtQlEyQzFKUHNrME9jSTFmUVZlX09KZ0JMbDBSMGhqUTFlbFc3YVVKV0F5RFJ2WWVrdnlhV2NJT0JQTkNDd2pBT3ptbTJodnM4VHpWYXpuWDBxTDJsUS1GNE1IQ2llU1B6OC1EblRyeDlXQlJuM3htMkEtWUwxVUE?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
      "id": "af7477e5b1ca",
      "date": "2026-10-29",
      "titre": "SBF 120 - Les actions à suivre vendredi: Axa, Eutelsat, Emeis, Engie, Imerys, TF1, Vusion",
@@ -306,36 +336,6 @@
      "source": "Idéal Investisseur",
      "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWF3dlBKRkt6NUdWWTdTd2Q3TXRUODEtNTZaUUdRVGFWOHBBUjVHNWVOWFBKTDVSOWM3Z1VzakYzV1hhOUozcTVWdW5mM0NwNE5iWS10ajR5MFlwdGV6bm02Uk1pZmxGWFhoV0xhV21iMVJQM3o2d3FOeTdnb2dLUWV3YjhpZHFSdlJ0UThpRlJKV3Y3SUFLYnhvbm5QM0RuYU5Fd04tZFJ3dmNwUzBiX0gtQks5QjFuTnJfSEtXbzJBY2RTbWd0ZzJ4T3BKWWs?oc=5",
      "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "1773887b4e8a",
-     "date": "2026-10-28",
-     "titre": "L'action Emeis repasse au-dessus des 10 € avant son point d'activité du T3",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHR2YlFTaDU1MGk2VHJYeGJfa2VKdVoxZDU5bmRfLVI3cERYNlVSamgtT09PSFQtRTRuWk54Q3RMamcxOERhY0o5elFTSzZCSGQ0bTZFR1lHaXE3R2RDakJURThUeXdMRUxOVnZGZlBXam0xQVRUSVhXV0RYcGJWQjd0dTByamY0N3NGTmVGT25pMWplWkZhelR5VXQ4ZFkycHhzWTFFSmsyRWVsS1hRbEhuU3FFWEFvcTdhVmR1Vk5wb0U?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "0d47bf6c670a",
-     "date": "2026-10-23",
-     "titre": "L'action Emeis repasse sous les 9,78 €, un plancher inédit en un an",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMU02bGxCblVNRDhMYldRYnkyRGhpUEFHMEJvdmxORmNwLVhDdnNiYkx1WE1FOW4tcjNDMXNJbmJRUWc4V3NoYndrMGtvWm9JdVkyTjVHZzVTNXQ5bXhuVVV2djhQNzRDc2pOckxvZ1FzUnUzR0k4QWFRMnRhR21xc1J3alptRUU4S01OaWpIU2dMN2Z3Q2Y2aHI4Vlp0RnNfWDYzZ2NEYzJPQmp2cGhNckl3Mm1oSTBf?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "8376128f8759",
-     "date": "2026-10-23",
-     "titre": "Leeg woonzorgcentrum Vordenstein kost Emeis maandelijks 105.000 euro: vakbond spreekt van 'wurgcontract'",
-     "source": "GVA",
-     "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdldyWXRWc1BXRXlpSVpSejd4QjRhNEVRaTVaU3oyblo0QXR4bzROYVRmNGpINURsSGxJQl80NWg4TDlQSFdLU1dwOWNFWmF1ei1mWW93dTI2UlhZSEdhNVdZUnFRQXpDYVhJaUdiRm9XMDJYTFlBUkR3U3RsZGdSMkVkZXFHS0ZxczZqS2dUeU1aUFFVd2FKLXA0b1N1emczTFlCY0xkeUZFREU5VW5VUkxzOG5GajRkdUd1d3BuQVAtTGJ0a0FuMmRXX3U1MDM3N2UwTHduRDZkTmpScU9SOWNZSFdiZDktNGUzTnNfZkxnaFlyT1IxSm5jY0VGT3oxYndHd3Bn?oc=5",
-     "langue": "nl",
      "risque": false,
      "mots_risque": []
     }

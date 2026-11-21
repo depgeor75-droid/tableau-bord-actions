@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21T14:07:23+01:00",
+ "genere_le": "2026-11-21T15:44:16+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -14,7 +14,7 @@
  "synthese": {
   "debut": "2026-05-21",
   "fin": "2026-11-21",
-  "total": 85,
+  "total": 86,
   "officiels": 15,
   "compteurs": {
    "resultats": 13,
@@ -24,7 +24,7 @@
    "financement": 8,
    "locataires": 0,
    "cofinimmo": 11,
-   "autres": 27
+   "autres": 28
   },
   "par_mois": [
    {
@@ -98,14 +98,14 @@
    {
     "mois": "2026-11",
     "libelle": "nov. 26",
-    "total": 20,
+    "total": 21,
     "officiels": 2,
     "par_categorie": {
      "resultats": 8,
      "dividende": 1,
      "financement": 2,
      "cofinimmo": 1,
-     "autres": 8
+     "autres": 9
     }
    }
   ],
@@ -258,6 +258,18 @@
    "source": "Global Banking & Finance Review",
    "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWU25oMkhkX3ZpQ2thbUxNM2tVa2FEWjN6Ykw4OEczY0dfWTNQSXBKMjg2akZ2NWlSQVliVWxKZmRuTHBiandOWkcxRENYYmpHQ19kaUp0ZENvTk9pcXVtVmVIZnFrRUdqUXRibDRCRjJ1WjRJbUZISGRxVi0tZw?oc=5",
    "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-21"
+  },
+  {
+   "id": "d996d021562c",
+   "date": "2026-11-19",
+   "titre": "Beursblik: KBC Securities verlaagt koersdoel Aedifica",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0s2X0ZneFI0Z0hFU2YtOFZGMWVEdEp3V25MZWRIYl9ZSU1Td0xjNmRGQTBab1FfSWxQVjdSR0Vsc1puMks0S001bC1yVkpkcTRBTzAyOEk0MnFteV82SGZMcmNjUWtkandYZENrdEt0LTF2Q2daT1B6eC1MY1BPNUMyOVgwcGd6U1BKSVBqeEVudk9TQkFtdWNNaU51RGM?oc=5",
+   "langue": "nl",
    "extrait": "",
    "officiel": false,
    "categorie": "autres",
