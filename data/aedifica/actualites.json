@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21T11:56:12+01:00",
+ "genere_le": "2026-11-21T14:07:23+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -14,7 +14,7 @@
  "synthese": {
   "debut": "2026-05-21",
   "fin": "2026-11-21",
-  "total": 84,
+  "total": 85,
   "officiels": 15,
   "compteurs": {
    "resultats": 13,
@@ -24,18 +24,18 @@
    "financement": 8,
    "locataires": 0,
    "cofinimmo": 11,
-   "autres": 26
+   "autres": 27
   },
   "par_mois": [
    {
     "mois": "2026-05",
     "libelle": "mai 26",
-    "total": 4,
+    "total": 5,
     "officiels": 0,
     "par_categorie": {
      "resultats": 1,
      "acquisitions": 1,
-     "autres": 2
+     "autres": 3
     }
    },
    {
@@ -303,8 +303,8 @@
    "id": "d96f3c6ef3df",
    "date": "2026-11-18",
    "titre": "Aedifica NV/SA: Interim financial report - Q3 2026",
-   "source": "www.marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkZfemtmemFvUTNGYlp0QXd2Mmw4MVR4Vk9Oak9zS2h5bWpESldlVVMtVXdsVEprdUszT0dmODhMWWVMamVUUXNic2N5cWE3NWJ3RnRHNmp5VHdfLUpQbDNXRVQxdkhsYTlncEViSVE4Z1Jqay1zNW8zc0VQRmRrVTllYXlHc1dFdHR1d0NtX1hfai1hSXBWd0hNSURLZkRqWUE?oc=5",
+   "source": "GlobeNewswire",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlNGRnRHTnBqTVRCTUhZRUtlQ0UyRHd6WVVmRnRUblRLMExwZU5CNkFNMnQzUmU5TWdna1U5VkxfT0w4cHlEUGY1UGRGNE5MSlpIVjRYa0VuUmlySV96aGFLTFE3QTJQQzYyemg2SGxaMlZicWN3amF1QWtLWFlNdTBRUHlRZ1FPUFJKOU81cHkxb2JjUG1Uc2RLZ1dfNlFpcEZlWjh3TXpHa2l4aC1GSmYxaGVVUE9mSzBv?oc=5",
    "langue": "en",
    "extrait": "",
    "officiel": false,
@@ -735,8 +735,8 @@
    "id": "41343428e3ad",
    "date": "2026-09-01",
    "titre": "Aedifica NV/SA: 2026 half year financial report",
-   "source": "Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MM3lHZnYwRlVGWlhRNmNGNTVNczVwWEExRW5DTi1lWm5iWlU4Q24tVUFjZGs3dzJzSGQ2U2l4X3NEaDlqSXc1SVNxWlI3VUVEcGxYUFVnaDd4c3JDNWg4dms4Y1FVc0RHdjJYOUZVQTRjOVo1Z2RVRzlUWDRBdw?oc=5",
+   "source": "GlobeNewswire",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3lJS3pUVFR1Wm5LckpMZ3ZFZWFlaU91aWNaY2ZoXzlXVzdBOGQwNFJMQ0RTWFhCc291ZEpzZGY1Rk5xT2FERHA0WHNPY0JvOU1PN284T1ItQXpFY0pEZE9jVFpJZDByLVBLY0lYYWpOR01Oel83c1V4Q2JuOUhkSTczaVhVeTdVbGM3TS11Sm9qMWFQWUdNdl9fUUJCMmQtR20zbHhPWldBZnZkcTBYYkRrZlV4NklPSUE?oc=5",
    "langue": "en",
    "extrait": "",
    "officiel": false,
@@ -1077,6 +1077,18 @@
    "extrait": "",
    "officiel": false,
    "categorie": "cofinimmo",
+   "vu_le": "2026-11-21"
+  },
+  {
+   "id": "c42062a44530",
+   "date": "2026-05-30",
+   "titre": "Aedifica, notre nouveau favori à long terme",
+   "source": "Trends-Tendances",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wX1RodnMyaHk5Vmg1Q3YxQnpwU3FIQmNEdHBySXo4UEdyNGd5S2dUUHk0SjJEZ3hHcWFvTlJYc2IteldvU0xZOXphd2l3V0pPbDJzSjR2Qmp0Y0IyYWhWd1hYSXZZdlRvY3VOWDdPRjF4Z2pjMTF1Z0t0MklGODA?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
    "vu_le": "2026-11-21"
   },
   {
@@ -2640,6 +2652,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "170c94d545ff",
+   "date": "2025-05-13",
+   "titre": "Le marché mise sur un léger relèvement de l'offre d'Aedifica sur Cofinimmo",
+   "source": "La Libre.be",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMnppWWxxcGhwLVdheElZTGV6ZkhfUm41ajcxeVNnQjRGeGpwbHA1R0JUYnh6UVQ0YjlLd3JnMXJhT2xFd3c3WDJIdzA2MjdiUk16NTJ5VUVuTks1MjVZbHphdGNQNFlhRy05dGxrRlNBcHBVQ2N2d0xrWUxhUV9aZHYxbDR1ZzdCT3VUZlY2N0FaaVBiTGZrdlJyTHAxd3BPODV2SDlkTHVTOGE1dHFuWkdNZVRldVBUSnlRRVU0bDdabmI1NU5vZUJ1bjg2SDZuTTFoSjQtVDBIbExhRTU1VGJqTDJsYllrYldZcDFxa2tlZ0ZJZHc?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-21"
+  },
+  {
    "id": "43241b60ed21",
    "date": "2025-05-10",
    "titre": "Cette opération dont le CEO d'Aedifica rêvait",
@@ -2673,6 +2697,18 @@
    "extrait": "",
    "officiel": false,
    "categorie": "cofinimmo",
+   "vu_le": "2026-11-21"
+  },
+  {
+   "id": "2509d40c8c25",
+   "date": "2025-05-09",
+   "titre": "Cofinimmo houdt Aedifica op afstand, ondanks ‘strategische logica’ overnamebod",
+   "source": "Trends.be",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWZmTGpjek9KZjc4WHhXN2E0OXhjVXhFLTZ4dEloMWkxWlo5ZVNKdXRsZk55MlNXNjZ0SUY3NFN2R1NtSXc0V1BQY1NWVU9JTlN0ZkZzLURIczN1TEhWa19NT3hhNWxsQlA3bkpNdHJ3M2I4WFQ2N2Z4YnN1cVhvUHJhNEc1MWFXVVJnOWZyX0FYRHFWLU1PM1F6amtTZ3c3Q3kycUUtZEJoYXJsYlE?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
    "vu_le": "2026-11-21"
   },
   {
