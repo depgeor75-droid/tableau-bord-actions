@@ -4,7 +4,7 @@
 
 ## En bref
 
-- **Toutes les sources principales répondent** depuis un PC. Une seule source de secours ne répond pas : FRED, troisième recours pour le VIX. Reste à confirmer le tout depuis GitHub Actions (voir « À faire » plus bas) : Yahoo Finance bloque parfois les serveurs de GitHub.
+- **Toutes les sources principales répondent**, depuis un PC comme depuis les serveurs de GitHub (essai du 21/11/2026 à 14:11, après la mise en ligne : même résultat qu'en local, 39 sources utilisées sur 40). Une seule source de secours ne répond pas : FRED, troisième recours pour le VIX. Yahoo Finance, qui bloque parfois les serveurs de GitHub, a répondu pour ses dix séries.
 - La collecte complète (16 séries de marché, actualités, locataires, rapports) prend **moins d'une minute**.
 - Six points du cahier des charges ont dû être adaptés après essai. Ils sont détaillés ci-dessous, avec la source de remplacement retenue.
 
@@ -84,10 +84,14 @@ Limite connue : pour les deux ou trois séances qui entourent chacune des cinq a
 
 L'écart de quelques points de base est normal : la BCE retient un taux à maturité constante, la Bundesbank le rendement de l'obligation de référence du moment.
 
-## À faire après la mise en ligne
+## Contrôle après la mise en ligne
 
-1. Dans l'onglet **Actions** du dépôt, lancer le workflow **« Test des sources de données »** (bouton « Run workflow »). Il ajoute ci-dessous un second tableau, « GitHub Actions ».
-2. Comparer les deux tableaux. Si Yahoo est bloqué depuis GitHub (erreur 429 ou réponse vide), la collecte bascule seule sur le site d'Euronext pour tout ce qui y est coté : cours AED, Bel 20, ETF immobilier, Care Property Invest, Clariane, emeis, AB InBev (cours identiques à ceux de Yahoo sur les séances récentes, vérifié le 21/11/2026). Seuls trois indicateurs n'ont pas de secours et afficheraient alors leur dernière valeur connue, marquée « ancien » : le rendement total d'Aedifica, Welltower et Attendo.
+Fait le 21/11/2026. Le workflow **« Test des sources de données »** a tourné sur les serveurs de GitHub : son tableau, « GitHub Actions », est en bas de page et donne le même résultat que l'essai en local. La première collecte lancée sur GitHub (14:07) a obtenu 26 séries sur 26, toutes par leur source principale, en 1 min 20 publication du site comprise.
+
+À refaire si une source tombe en panne durablement :
+
+1. Dans l'onglet **Actions** du dépôt, lancer **« Test des sources de données »** (bouton « Run workflow »). Il remplace le tableau « GitHub Actions » ci-dessous.
+2. Comparer avec le tableau « en local ». Si Yahoo est bloqué depuis GitHub (erreur 429 ou réponse vide), la collecte bascule seule sur le site d'Euronext pour tout ce qui y est coté : cours AED, Bel 20, ETF immobilier, Care Property Invest, Clariane, emeis, AB InBev (cours identiques à ceux de Yahoo sur les séances récentes, vérifié le 21/11/2026). Seuls trois indicateurs n'ont pas de secours et afficheraient alors leur dernière valeur connue, marquée « ancien » : le rendement total d'Aedifica, Welltower et Attendo.
 
 ## Résultats détaillés
 
