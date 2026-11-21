@@ -143,3 +143,56 @@ L'écart de quelques points de base est normal : la BCE retient un taux à matur
 | EUR/GBP | contrôle | Yahoo Finance (EURGBP=X) | ✅ OK | 3356 | 01/01/2014 | 20/11/2026 | 0,838 | 0.0 |
 
 <!-- fin:local -->
+
+<!-- essai:actions -->
+### Essai du 21/11/2026 à 14:11 — GitHub Actions
+
+**39 sources utilisées sur 40 répondent** (les sources « écartées » sont testées pour mémoire).
+
+| Indicateur | Rôle | Source | État | Points | Première date | Dernière date | Dernière valeur / erreur | Durée (s) |
+|---|---|---|---|---|---|---|---|---|
+| Cours de clôture AED | principale | Yahoo Finance (AED.BR), corrigé des augmentations de capital | ✅ OK | 3298 | 02/01/2014 | 20/11/2026 | 63,6 | 1.4 |
+| Cours de clôture AED | secours 1 | Euronext Bruxelles (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 63,6 | 1.0 |
+| Cours AED ajusté des dividendes | principale | Yahoo Finance (AED.BR, cours ajusté) | ✅ OK | 3298 | 02/01/2014 | 20/11/2026 | 63,6 | 0.0 |
+| Taux de dépôt BCE | principale | BCE (taux de la facilité de dépôt) | ✅ OK | 4708 | 01/01/2014 | 21/11/2026 | 2,5 | 1.7 |
+| €STR | principale | BCE (€STR, taux pondéré) | ✅ OK | 1829 | 01/10/2019 | 19/11/2026 | 2,441 | 1.4 |
+| Euribor 3 mois | principale | BCE (Euribor 3 mois, moyenne mensuelle) | ✅ OK | 154 | 31/01/2014 | 31/10/2026 | 2,6347 | 2.6 |
+| Bund 10 ans | principale | Bundesbank (rendement du Bund à 10 ans de référence) | ✅ OK | 3269 | 02/01/2014 | 20/11/2026 | 3,32 | 1.5 |
+| Bund 10 ans | secours 1 | Bundesbank (rendement à maturité constante 10 ans, courbe des taux) | ✅ OK | 3270 | 02/01/2014 | 20/11/2026 | 3,37 | 1.0 |
+| Bund 10 ans | secours 2 | Bundesbank (taux zéro-coupon 10 ans, courbe des taux) | ✅ OK | 3270 | 02/01/2014 | 20/11/2026 | 3,39 | 0.8 |
+| Bund 10 ans | secours 3 | BCE (taux long allemand, moyenne mensuelle) | ✅ OK | 154 | 31/01/2014 | 31/10/2026 | 3,416 | 1.4 |
+| Taux long allemand (moyenne mensuelle) | principale | BCE (taux long allemand, moyenne mensuelle) | ✅ OK | 154 | 31/01/2014 | 31/10/2026 | 3,416 | 0.4 |
+| OLO 10 ans (Belgique) | principale | BCE (taux long belge, moyenne mensuelle) | ✅ OK | 154 | 31/01/2014 | 31/10/2026 | 4,38 | 1.1 |
+| VIX | principale | Cboe (historique officiel du VIX) | ✅ OK | 3275 | 02/01/2014 | 20/11/2026 | 35,89 | 0.2 |
+| VIX | secours 1 | Yahoo Finance (^VIX) | ✅ OK | 3244 | 02/01/2014 | 20/11/2026 | 35,89 | 0.3 |
+| VIX | secours 2 | FRED (VIXCLS) | ❌ KO | 0 | — | — | SourceErreur : pas de réponse de fred.stlouisfed.org (ReadTimeout) | 93.3 |
+| VSTOXX | principale | STOXX (historique officiel du VSTOXX) | ✅ OK | 3282 | 02/01/2014 | 20/11/2026 | 28,3629 | 0.9 |
+| Bel 20 | principale | Yahoo Finance (^BFX) | ✅ OK | 3298 | 02/01/2014 | 20/11/2026 | 5 797,75 | 0.3 |
+| Bel 20 | secours 1 | Euronext Bruxelles (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 5 797,75 | 0.9 |
+| Immobilier coté européen (ETF iShares) | principale | Yahoo Finance (IQQP.DE, Xetra) | ✅ OK | 3272 | 02/01/2014 | 20/11/2026 | 27,18 | 0.4 |
+| Immobilier coté européen (ETF iShares) | secours 1 | Yahoo Finance (IPRP.AS, Amsterdam) | ✅ OK | 3297 | 02/01/2014 | 20/11/2026 | 27,23 | 0.3 |
+| Immobilier coté européen (ETF iShares) | secours 2 | Euronext Amsterdam (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 27,23 | 0.7 |
+| Care Property Invest | principale | Yahoo Finance (CPINV.BR) | ✅ OK | 3298 | 02/01/2014 | 20/11/2026 | 12,56 | 0.3 |
+| Care Property Invest | secours 1 | Euronext Bruxelles (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 12,56 | 0.7 |
+| Welltower (États-Unis) | principale | Yahoo Finance (WELL) | ✅ OK | 3242 | 02/01/2014 | 20/11/2026 | 240,34 | 0.3 |
+| EUR/GBP | principale | BCE (cours de référence euro/livre) | ✅ OK | 3299 | 02/01/2014 | 20/11/2026 | 0,8374 | 1.1 |
+| EUR/GBP | secours 1 | Yahoo Finance (EURGBP=X) | ✅ OK | 3356 | 01/01/2014 | 20/11/2026 | 0,838 | 0.3 |
+| Inflation zone euro (IPCH, sur un an) | principale | Eurostat (IPCH, variation annuelle) | ✅ OK | 154 | 31/01/2014 | 31/10/2026 | 4 | 0.6 |
+| Inflation zone euro (IPCH, sur un an) | secours 1 | BCE (IPCH, ancienne série arrêtée fin 2025) | ✅ OK | 144 | 31/01/2014 | 31/12/2025 | 1,9 | 1.1 |
+| Locataire : Groupe Clariane | principale | Yahoo Finance (CLARI.PA) | ✅ OK | 3300 | 02/01/2014 | 20/11/2026 | 3,264 | 0.3 |
+| Locataire : Groupe Clariane | secours 1 | Euronext (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 3,264 | 0.6 |
+| Locataire : AB InBev | principale | Yahoo Finance (ABI.BR) | ✅ OK | 3298 | 02/01/2014 | 20/11/2026 | 73 | 0.4 |
+| Locataire : AB InBev | secours 1 | Euronext (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 73 | 0.4 |
+| Locataire : Groupe emeis (ex-Orpea) | principale | Yahoo Finance (EMEIS.PA) | ✅ OK | 3300 | 02/01/2014 | 20/11/2026 | 9,93 | 0.2 |
+| Locataire : Groupe emeis (ex-Orpea) | secours 1 | Euronext (site officiel) | ✅ OK | 509 | 22/11/2024 | 20/11/2026 | 9,93 | 0.6 |
+| Locataire : Attendo | principale | Yahoo Finance (ATT.ST) | ✅ OK | 2760 | 30/11/2015 | 20/11/2026 | 133,1 | 0.3 |
+| Communiqués officiels | principale | https://aedifica.eu/fr/communiques-de-presse/ | ✅ OK | 573 | 25/08/2006 | 18/11/2026 | Rapport financier intermédiaire Q3 2026 | 1.4 |
+| Presse (fr) | principale | Google Actualités (RSS) | ✅ OK | 44 | 20/11/2020 | 19/11/2026 |  | 0.6 |
+| Presse (nl) | principale | Google Actualités (RSS) | ✅ OK | 52 | 29/11/2016 | 20/11/2026 |  | 4.0 |
+| Presse (en) | principale | Google Actualités (RSS) | ✅ OK | 20 | 13/05/2017 | 20/11/2026 |  | 0.4 |
+| Cours AED | écartée | Stooq (aed.be) | ❌ KO | 0 | — | — | SourceErreur : Stooq ne renvoie plus de CSV sans clé (page HTML à la place) | 4.3 |
+| VSTOXX | écartée | Yahoo Finance (^V2TX) | ❌ KO | 0 | — | — | SourceErreur : Yahoo n'a renvoyé aucune donnée pour ^V2TX (blocage ou symbole inconnu) | 4.0 |
+| Inflation zone euro | écartée | Eurostat prc_hicp_manr (ancienne série) | ✅ OK | 144 | 31/01/2014 | 31/12/2025 | 2 | 0.5 |
+| EUR/GBP | contrôle | Yahoo Finance (EURGBP=X) | ✅ OK | 3356 | 01/01/2014 | 20/11/2026 | 0,838 | 0.0 |
+
+<!-- fin:actions -->
