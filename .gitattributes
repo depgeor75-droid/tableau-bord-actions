@@ -1,0 +1,3 @@
+# Fins de ligne identiques sur le PC (Windows) et sur les serveurs de GitHub (Linux) :
+# évite que les fichiers de données paraissent « modifiés » d'un système à l'autre.
+* text=auto eol=lf

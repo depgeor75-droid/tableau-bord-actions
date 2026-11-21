@@ -1,0 +1,511 @@
+{
+ "genere_le": "2026-11-21T11:56:30+01:00",
+ "duree_secondes": 42.3,
+ "resume": {
+  "ok": 26,
+  "ko": 0,
+  "total": 26
+ },
+ "sources": [
+  {
+   "id": "cours",
+   "libelle": "Cours de clôture AED",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (AED.BR), corrigé des augmentations de capital",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (AED.BR), corrigé des augmentations de capital",
+     "etat": "OK"
+    }
+   ],
+   "points": 3298,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 63.6,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:49+01:00",
+   "derniere_reussite": "2026-11-21T11:55:49+01:00"
+  },
+  {
+   "id": "cours_ajuste",
+   "libelle": "Cours AED ajusté des dividendes",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (AED.BR, cours ajusté)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (AED.BR, cours ajusté)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3298,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 63.6,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:49+01:00",
+   "derniere_reussite": "2026-11-21T11:55:49+01:00"
+  },
+  {
+   "id": "taux_depot_bce",
+   "libelle": "Taux de dépôt BCE",
+   "etat": "OK",
+   "source_utilisee": "BCE (taux de la facilité de dépôt)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "BCE (taux de la facilité de dépôt)",
+     "etat": "OK"
+    }
+   ],
+   "points": 4708,
+   "premiere_date": "2014-01-01",
+   "derniere_date": "2026-11-21",
+   "derniere_valeur": 2.5,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:51+01:00",
+   "derniere_reussite": "2026-11-21T11:55:51+01:00"
+  },
+  {
+   "id": "estr",
+   "libelle": "€STR",
+   "etat": "OK",
+   "source_utilisee": "BCE (€STR, taux pondéré)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "BCE (€STR, taux pondéré)",
+     "etat": "OK"
+    }
+   ],
+   "points": 1829,
+   "premiere_date": "2019-10-01",
+   "derniere_date": "2026-11-19",
+   "derniere_valeur": 2.441,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:52+01:00",
+   "derniere_reussite": "2026-11-21T11:55:52+01:00"
+  },
+  {
+   "id": "euribor3m",
+   "libelle": "Euribor 3 mois",
+   "etat": "OK",
+   "source_utilisee": "BCE (Euribor 3 mois, moyenne mensuelle)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "BCE (Euribor 3 mois, moyenne mensuelle)",
+     "etat": "OK"
+    }
+   ],
+   "points": 154,
+   "premiere_date": "2014-01-31",
+   "derniere_date": "2026-10-31",
+   "derniere_valeur": 2.634682,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:54+01:00",
+   "derniere_reussite": "2026-11-21T11:55:54+01:00"
+  },
+  {
+   "id": "bund10",
+   "libelle": "Bund 10 ans",
+   "etat": "OK",
+   "source_utilisee": "Bundesbank (rendement du Bund à 10 ans de référence)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Bundesbank (rendement du Bund à 10 ans de référence)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3269,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 3.32,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:55+01:00",
+   "derniere_reussite": "2026-11-21T11:55:55+01:00"
+  },
+  {
+   "id": "bund10_mensuel",
+   "libelle": "Taux long allemand (moyenne mensuelle)",
+   "etat": "OK",
+   "source_utilisee": "BCE (taux long allemand, moyenne mensuelle)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "BCE (taux long allemand, moyenne mensuelle)",
+     "etat": "OK"
+    }
+   ],
+   "points": 154,
+   "premiere_date": "2014-01-31",
+   "derniere_date": "2026-10-31",
+   "derniere_valeur": 3.416,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:56+01:00",
+   "derniere_reussite": "2026-11-21T11:55:56+01:00"
+  },
+  {
+   "id": "olo10",
+   "libelle": "OLO 10 ans (Belgique)",
+   "etat": "OK",
+   "source_utilisee": "BCE (taux long belge, moyenne mensuelle)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "BCE (taux long belge, moyenne mensuelle)",
+     "etat": "OK"
+    }
+   ],
+   "points": 154,
+   "premiere_date": "2014-01-31",
+   "derniere_date": "2026-10-31",
+   "derniere_valeur": 4.38,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:58+01:00",
+   "derniere_reussite": "2026-11-21T11:55:58+01:00"
+  },
+  {
+   "id": "vix",
+   "libelle": "VIX",
+   "etat": "OK",
+   "source_utilisee": "Cboe (historique officiel du VIX)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Cboe (historique officiel du VIX)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3275,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 35.89,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:55:59+01:00",
+   "derniere_reussite": "2026-11-21T11:55:59+01:00"
+  },
+  {
+   "id": "vstoxx",
+   "libelle": "VSTOXX",
+   "etat": "OK",
+   "source_utilisee": "STOXX (historique officiel du VSTOXX)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "STOXX (historique officiel du VSTOXX)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3282,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 28.3629,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:00+01:00",
+   "derniere_reussite": "2026-11-21T11:56:00+01:00"
+  },
+  {
+   "id": "bel20",
+   "libelle": "Bel 20",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (^BFX)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (^BFX)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3298,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 5797.75,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:00+01:00",
+   "derniere_reussite": "2026-11-21T11:56:00+01:00"
+  },
+  {
+   "id": "immo_europe",
+   "libelle": "Immobilier coté européen (ETF iShares)",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (IQQP.DE, Xetra)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (IQQP.DE, Xetra)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3272,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 27.18,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:00+01:00",
+   "derniere_reussite": "2026-11-21T11:56:00+01:00"
+  },
+  {
+   "id": "care_property",
+   "libelle": "Care Property Invest",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (CPINV.BR)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (CPINV.BR)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3298,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 12.56,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:00+01:00",
+   "derniere_reussite": "2026-11-21T11:56:00+01:00"
+  },
+  {
+   "id": "welltower",
+   "libelle": "Welltower (États-Unis)",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (WELL)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (WELL)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3242,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 240.34,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:00+01:00",
+   "derniere_reussite": "2026-11-21T11:56:00+01:00"
+  },
+  {
+   "id": "eur_gbp",
+   "libelle": "EUR/GBP",
+   "etat": "OK",
+   "source_utilisee": "BCE (cours de référence euro/livre)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "BCE (cours de référence euro/livre)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3299,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 0.83735,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:01+01:00",
+   "derniere_reussite": "2026-11-21T11:56:01+01:00"
+  },
+  {
+   "id": "inflation",
+   "libelle": "Inflation zone euro (IPCH, sur un an)",
+   "etat": "OK",
+   "source_utilisee": "Eurostat (IPCH, variation annuelle)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Eurostat (IPCH, variation annuelle)",
+     "etat": "OK"
+    }
+   ],
+   "points": 154,
+   "premiere_date": "2014-01-31",
+   "derniere_date": "2026-10-31",
+   "derniere_valeur": 4.0,
+   "ancienne": false,
+   "categorie": "marche",
+   "verifie_le": "2026-11-21T11:56:01+01:00",
+   "derniere_reussite": "2026-11-21T11:56:01+01:00"
+  },
+  {
+   "id": "officiel_fr",
+   "libelle": "Aedifica — communiqué officiel",
+   "categorie": "actualites",
+   "etat": "OK",
+   "message": "",
+   "elements": 61,
+   "verifie_le": "2026-11-21T11:56:12+01:00",
+   "derniere_reussite": "2026-11-21T11:56:12+01:00"
+  },
+  {
+   "id": "presse_fr",
+   "libelle": "Presse (FR) — Google Actualités",
+   "categorie": "actualites",
+   "etat": "OK",
+   "message": "",
+   "elements": 84,
+   "verifie_le": "2026-11-21T11:56:12+01:00",
+   "derniere_reussite": "2026-11-21T11:56:12+01:00"
+  },
+  {
+   "id": "presse_nl",
+   "libelle": "Presse (NL) — Google Actualités",
+   "categorie": "actualites",
+   "etat": "OK",
+   "message": "",
+   "elements": 106,
+   "verifie_le": "2026-11-21T11:56:12+01:00",
+   "derniere_reussite": "2026-11-21T11:56:12+01:00"
+  },
+  {
+   "id": "presse_en",
+   "libelle": "Presse (EN) — Google Actualités",
+   "categorie": "actualites",
+   "etat": "OK",
+   "message": "",
+   "elements": 73,
+   "verifie_le": "2026-11-21T11:56:12+01:00",
+   "derniere_reussite": "2026-11-21T11:56:12+01:00"
+  },
+  {
+   "id": "loc_clariane",
+   "libelle": "Cours de Groupe Clariane",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (CLARI.PA)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (CLARI.PA)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3300,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 3.264,
+   "ancienne": false,
+   "categorie": "locataires",
+   "verifie_le": "2026-11-21T11:56:12+01:00",
+   "derniere_reussite": "2026-11-21T11:56:12+01:00"
+  },
+  {
+   "id": "loc_abinbev",
+   "libelle": "Cours de AB InBev",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (ABI.BR)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (ABI.BR)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3298,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 73.0,
+   "ancienne": false,
+   "categorie": "locataires",
+   "verifie_le": "2026-11-21T11:56:18+01:00",
+   "derniere_reussite": "2026-11-21T11:56:18+01:00"
+  },
+  {
+   "id": "loc_emeis",
+   "libelle": "Cours de Groupe emeis (ex-Orpea)",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (EMEIS.PA)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (EMEIS.PA)",
+     "etat": "OK"
+    }
+   ],
+   "points": 3300,
+   "premiere_date": "2014-01-02",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 9.93,
+   "ancienne": false,
+   "categorie": "locataires",
+   "verifie_le": "2026-11-21T11:56:18+01:00",
+   "derniere_reussite": "2026-11-21T11:56:18+01:00"
+  },
+  {
+   "id": "loc_attendo",
+   "libelle": "Cours de Attendo",
+   "etat": "OK",
+   "source_utilisee": "Yahoo Finance (ATT.ST)",
+   "secours_utilise": false,
+   "message": "",
+   "tentatives": [
+    {
+     "source": "Yahoo Finance (ATT.ST)",
+     "etat": "OK"
+    }
+   ],
+   "points": 2760,
+   "premiere_date": "2015-11-30",
+   "derniere_date": "2026-11-20",
+   "derniere_valeur": 133.1,
+   "ancienne": false,
+   "categorie": "locataires",
+   "verifie_le": "2026-11-21T11:56:28+01:00",
+   "derniere_reussite": "2026-11-21T11:56:28+01:00"
+  },
+  {
+   "id": "locataires_actus",
+   "libelle": "Actualités des locataires — Google Actualités",
+   "categorie": "locataires",
+   "etat": "OK",
+   "elements": 34,
+   "message": "",
+   "verifie_le": "2026-11-21T11:56:30+01:00",
+   "derniere_reussite": "2026-11-21T11:56:30+01:00"
+  },
+  {
+   "id": "rapports",
+   "libelle": "Page des rapports financiers de la société",
+   "categorie": "rapports",
+   "etat": "OK",
+   "elements": 0,
+   "verifie_le": "2026-11-21T11:56:30+01:00",
+   "message": "",
+   "derniere_reussite": "2026-11-21T11:56:30+01:00"
+  }
+ ]
+}

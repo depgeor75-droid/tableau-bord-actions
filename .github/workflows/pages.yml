@@ -1,0 +1,41 @@
+name: Publication du site
+
+# Met le site en ligne sur GitHub Pages (Paramètres → Pages → Source : « GitHub Actions »).
+# - à chaque modification du dépôt (push sur main) ;
+# - à la fin de chaque collecte (appelé par maj.yml) : les commits faits par un
+#   workflow ne déclenchent PAS de republication automatique, il faut donc publier
+#   explicitement, sinon le site resterait sur d'anciennes données.
+on:
+  push:
+    branches: [main]
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency: # une seule publication à la fois ; la suivante attend son tour
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }} # dernière version de la branche, données fraîches comprises
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: .
+
+      - id: deploiement
+        uses: actions/deploy-pages@v5

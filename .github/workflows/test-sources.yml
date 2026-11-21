@@ -1,0 +1,41 @@
+name: Test des sources de données
+
+# Phase 0 du cahier des charges : vérifie que chaque source répond AUSSI depuis les
+# serveurs de GitHub (Yahoo, par exemple, les bloque parfois). À lancer à la main
+# depuis l'onglet Actions ; le résultat s'ajoute à RAPPORT_SOURCES.md.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Interroger toutes les sources
+        run: python collecte/test_sources.py
+
+      - name: Enregistrer le rapport
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add RAPPORT_SOURCES.md
+          if git diff --cached --quiet; then
+            echo "Rapport inchangé."
+          else
+            git commit -m "Rapport des sources (essai GitHub Actions) $(TZ=Europe/Brussels date '+%Y-%m-%d %H:%M')"
+            git pull --rebase --autostash
+            git push
+          fi

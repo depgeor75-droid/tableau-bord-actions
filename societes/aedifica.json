@@ -1,0 +1,1136 @@
+{
+  "id": "aedifica",
+  "nom": "Aedifica",
+  "description": "SIR belge spécialisée en immobilier de santé (Euronext Bruxelles et Amsterdam)",
+  "ticker_yahoo": "AED.BR",
+  "symbole": "AED",
+  "isin": "BE0003851681",
+  "devise": "EUR",
+  "page_investisseurs": "https://aedifica.eu/fr/investisseurs/",
+  "page_cours_euronext": "https://live.euronext.com/fr/product/equities/BE0003851681-XBRU",
+  "precompte_mobilier": 0.3,
+  "precompte_note": "30 % depuis le 1er janvier 2026 (source : rapport financier intermédiaire T1 2026, p. 20). De 2017 à 2025, le taux réduit de 15 % s'appliquait (SIR investie à plus de 80 % en immobilier de santé dans l'Espace économique européen) ; le régime transitoire qui permettait de compter les actifs britanniques a pris fin avec l'exercice 2025.",
+  "historique_depuis": "2014-01-01",
+  "ajustements_cours": {
+    "explication": "Yahoo Finance recalcule ses cours historiques à chaque augmentation de capital avec droits de préférence : ses cours anciens sont plus bas que ceux réellement cotés à l'époque. Pour retrouver le cours réellement coté, on divise le cours Yahoo par le facteur cumulé ci-dessous (dates antérieures à « avant_le »). Facteurs calibrés sur 24 cours de clôture officiels publiés dans les rapports d'Aedifica (voir RAPPORT_SOURCES.md) : l'écart résiduel est nul au centime près. Après une future augmentation de capital avec droits, ajouter une ligne ici n'est nécessaire qu'en cas de rechargement complet (--complet) : au quotidien, l'historique déjà enregistré n'est jamais réécrit.",
+    "facteurs_cumules": [
+      {
+        "avant_le": "2015-06-11",
+        "facteur": 0.812862,
+        "motif": "Augmentation de capital avec droits de juin 2015 (et suivantes)"
+      },
+      {
+        "avant_le": "2017-03-16",
+        "facteur": 0.888233,
+        "motif": "Augmentation de capital avec droits de mars 2017 (et suivantes)"
+      },
+      {
+        "avant_le": "2019-04-24",
+        "facteur": 0.913273,
+        "motif": "Augmentation de capital avec droits d'avril-mai 2019 (et suivantes)"
+      },
+      {
+        "avant_le": "2020-10-13",
+        "facteur": 0.952462,
+        "motif": "Augmentation de capital avec droits d'octobre 2020 (et suivante)"
+      },
+      {
+        "avant_le": "2023-06-22",
+        "facteur": 0.976985,
+        "motif": "Augmentation de capital avec droits de juin-juillet 2023"
+      }
+    ]
+  },
+  "series": [
+    {
+      "id": "cours",
+      "libelle": "Cours de clôture AED",
+      "court": "Cours AED",
+      "type": "cours",
+      "unite": "€",
+      "decimales": 2,
+      "sens_favorable": "hausse",
+      "frequence": "jour",
+      "historique_fige": true,
+      "glossaire": "cours-de-cloture",
+      "pourquoi": "Base de tout. C'est le cours réellement coté à la date (non corrigé des dividendes) : ce que vous voyiez à l'époque.",
+      "sources": [
+        {
+          "type": "yahoo",
+          "symbole": "AED.BR",
+          "colonne": "cours",
+          "desajuster_droits": true,
+          "nom": "Yahoo Finance (AED.BR), corrigé des augmentations de capital"
+        },
+        {
+          "type": "euronext",
+          "isin": "BE0003851681",
+          "marche": "XBRU",
+          "nom": "Euronext Bruxelles (site officiel)"
+        }
+      ]
+    },
+    {
+      "id": "cours_ajuste",
+      "libelle": "Cours AED ajusté des dividendes",
+      "interne": true,
+      "type": "cours",
+      "unite": "€",
+      "decimales": 2,
+      "frequence": "jour",
+      "reajustable": true,
+      "sources": [
+        {
+          "type": "yahoo",
+          "symbole": "AED.BR",
+          "colonne": "cours_ajuste",
+          "nom": "Yahoo Finance (AED.BR, cours ajusté)"
+        }
+      ]
+    },
+    {
+      "id": "taux_depot_bce",
+      "libelle": "Taux de dépôt BCE",
+      "court": "Dépôt BCE",
+      "type": "taux",
+      "unite": "%",
+      "decimales": 2,
+      "sens_favorable": "baisse",
+      "frequence": "jour",
+      "glossaire": "bce",
+      "pourquoi": "Taux directeur de la BCE : il pilote les taux courts, donc le coût de la dette à taux variable.",
+      "sources": [
+        {
+          "type": "bce",
+          "flux": "FM",
+          "cle": "D.U2.EUR.4F.KR.DFR.LEV",
+          "nom": "BCE (taux de la facilité de dépôt)"
+        }
+      ]
+    },
+    {
+      "id": "estr",
+      "libelle": "€STR",
+      "court": "€STR",
+      "type": "taux",
+      "unite": "%",
+      "decimales": 3,
+      "sens_favorable": "baisse",
+      "frequence": "jour",
+      "delai_jours": 6,
+      "glossaire": "estr",
+      "pourquoi": "Taux court du marché au jour le jour. Il existe depuis octobre 2019 seulement.",
+      "sources": [
+        {
+          "type": "bce",
+          "flux": "EST",
+          "cle": "B.EU000A2X2A25.WT",
+          "nom": "BCE (€STR, taux pondéré)"
+        }
+      ]
+    },
+    {
+      "id": "euribor3m",
+      "libelle": "Euribor 3 mois",
+      "court": "Euribor 3 m",
+      "type": "taux",
+      "unite": "%",
+      "decimales": 3,
+      "sens_favorable": "baisse",
+      "frequence": "mois",
+      "glossaire": "euribor-3-mois",
+      "pourquoi": "Référence du coût de la dette à taux variable. Moyenne mensuelle publiée par la BCE.",
+      "sources": [
+        {
+          "type": "bce",
+          "flux": "FM",
+          "cle": "M.U2.EUR.RT.MM.EURIBOR3MD_.HSTA",
+          "nom": "BCE (Euribor 3 mois, moyenne mensuelle)"
+        }
+      ]
+    },
+    {
+      "id": "bund10",
+      "libelle": "Bund 10 ans",
+      "court": "Bund 10 ans",
+      "type": "taux",
+      "unite": "%",
+      "decimales": 2,
+      "sens_favorable": "baisse",
+      "frequence": "jour",
+      "glossaire": "bund",
+      "pourquoi": "Indicateur n° 1. Quand le taux long allemand monte, le dividende d'une SIR devient moins attractif et la valeur des immeubles peut baisser.",
+      "sources": [
+        {
+          "type": "bundesbank",
+          "flux": "BBSSY",
+          "cle": "D.REN.EUR.A630.000000WT1010.A",
+          "nom": "Bundesbank (rendement du Bund à 10 ans de référence)"
+        },
+        {
+          "type": "bundesbank",
+          "flux": "BBSIS",
+          "cle": "D.I.ZAR.ZI.EUR.S1311.B.A604.R10XX.R.A.A._Z._Z.A",
+          "nom": "Bundesbank (rendement à maturité constante 10 ans, courbe des taux)"
+        },
+        {
+          "type": "bundesbank",
+          "flux": "BBSIS",
+          "cle": "D.I.ZST.ZI.EUR.S1311.B.A604.R10XX.R.A.A._Z._Z.A",
+          "nom": "Bundesbank (taux zéro-coupon 10 ans, courbe des taux)"
+        },
+        {
+          "type": "bce",
+          "flux": "IRS",
+          "cle": "M.DE.L.L40.CI.0000.EUR.N.Z",
+          "nom": "BCE (taux long allemand, moyenne mensuelle)"
+        }
+      ]
+    },
+    {
+      "id": "bund10_mensuel",
+      "libelle": "Taux long allemand (moyenne mensuelle)",
+      "interne": true,
+      "type": "taux",
+      "unite": "%",
+      "decimales": 2,
+      "frequence": "mois",
+      "sources": [
+        {
+          "type": "bce",
+          "flux": "IRS",
+          "cle": "M.DE.L.L40.CI.0000.EUR.N.Z",
+          "nom": "BCE (taux long allemand, moyenne mensuelle)"
+        }
+      ]
+    },
+    {
+      "id": "olo10",
+      "libelle": "OLO 10 ans (Belgique)",
+      "court": "OLO 10 ans",
+      "type": "taux",
+      "unite": "%",
+      "decimales": 2,
+      "sens_favorable": "baisse",
+      "frequence": "mois",
+      "glossaire": "olo",
+      "pourquoi": "Taux long de l'État belge : mesure le risque propre à la Belgique. Moyenne mensuelle publiée par la BCE.",
+      "sources": [
+        {
+          "type": "bce",
+          "flux": "IRS",
+          "cle": "M.BE.L.L40.CI.0000.EUR.N.Z",
+          "nom": "BCE (taux long belge, moyenne mensuelle)"
+        }
+      ]
+    },
+    {
+      "id": "vix",
+      "libelle": "VIX",
+      "court": "VIX",
+      "type": "indice",
+      "unite": "",
+      "decimales": 2,
+      "sens_favorable": "baisse",
+      "frequence": "jour",
+      "glossaire": "vix",
+      "pourquoi": "« Indice de la peur » de la bourse américaine. Au-dessus de 25 : marchés nerveux.",
+      "sources": [
+        {
+          "type": "cboe",
+          "indice": "VIX",
+          "nom": "Cboe (historique officiel du VIX)"
+        },
+        {
+          "type": "yahoo",
+          "symbole": "^VIX",
+          "nom": "Yahoo Finance (^VIX)"
+        },
+        {
+          "type": "fred",
+          "identifiant": "VIXCLS",
+          "nom": "FRED (VIXCLS)"
+        }
+      ]
+    },
+    {
+      "id": "vstoxx",
+      "libelle": "VSTOXX",
+      "court": "VSTOXX",
+      "type": "indice",
+      "unite": "",
+      "decimales": 2,
+      "sens_favorable": "baisse",
+      "frequence": "jour",
+      "glossaire": "vstoxx",
+      "pourquoi": "« Indice de la peur » européen (Euro Stoxx 50). Au-dessus de 25 : marchés nerveux.",
+      "sources": [
+        {
+          "type": "stoxx",
+          "symbole": "v2tx",
+          "nom": "STOXX (historique officiel du VSTOXX)"
+        }
+      ]
+    },
+    {
+      "id": "bel20",
+      "libelle": "Bel 20",
+      "court": "Bel 20",
+      "type": "indice",
+      "unite": "",
+      "decimales": 0,
+      "sens_favorable": "hausse",
+      "frequence": "jour",
+      "glossaire": "bel-20",
+      "pourquoi": "Baromètre du marché belge : permet de voir si Aedifica fait mieux ou moins bien que la bourse de Bruxelles.",
+      "sources": [
+        {
+          "type": "yahoo",
+          "symbole": "^BFX",
+          "nom": "Yahoo Finance (^BFX)"
+        },
+        {
+          "type": "euronext",
+          "isin": "BE0389555039",
+          "marche": "XBRU",
+          "nom": "Euronext Bruxelles (site officiel)"
+        }
+      ]
+    },
+    {
+      "id": "immo_europe",
+      "libelle": "Immobilier coté européen (ETF iShares)",
+      "court": "Immo coté Europe",
+      "type": "cours",
+      "unite": "€",
+      "decimales": 2,
+      "sens_favorable": "hausse",
+      "frequence": "jour",
+      "glossaire": "indice-immobilier-cote-europeen",
+      "pourquoi": "Compare Aedifica à son secteur : cours de l'ETF iShares European Property Yield, qui réplique un indice de foncières cotées européennes.",
+      "sources": [
+        {
+          "type": "yahoo",
+          "symbole": "IQQP.DE",
+          "nom": "Yahoo Finance (IQQP.DE, Xetra)"
+        },
+        {
+          "type": "yahoo",
+          "symbole": "IPRP.AS",
+          "nom": "Yahoo Finance (IPRP.AS, Amsterdam)"
+        },
+        {
+          "type": "euronext",
+          "isin": "IE00B0M63284",
+          "marche": "XAMS",
+          "nom": "Euronext Amsterdam (site officiel)"
+        }
+      ]
+    },
+    {
+      "id": "care_property",
+      "libelle": "Care Property Invest",
+      "court": "Care Property",
+      "type": "cours",
+      "unite": "€",
+      "decimales": 2,
+      "sens_favorable": "hausse",
+      "frequence": "jour",
+      "glossaire": "pairs",
+      "pourquoi": "Autre SIR belge d'immobilier de santé : si elle baisse aussi, le mouvement touche tout le secteur.",
+      "sources": [
+        {
+          "type": "yahoo",
+          "symbole": "CPINV.BR",
+          "nom": "Yahoo Finance (CPINV.BR)"
+        },
+        {
+          "type": "euronext",
+          "isin": "BE0974273055",
+          "marche": "XBRU",
+          "nom": "Euronext Bruxelles (site officiel)"
+        }
+      ]
+    },
+    {
+      "id": "welltower",
+      "libelle": "Welltower (États-Unis)",
+      "court": "Welltower",
+      "type": "cours",
+      "unite": "$",
+      "decimales": 2,
+      "sens_favorable": "hausse",
+      "frequence": "jour",
+      "glossaire": "pairs",
+      "pourquoi": "Plus grande foncière de santé cotée au monde (New York) : donne le ton du secteur.",
+      "sources": [
+        {
+          "type": "yahoo",
+          "symbole": "WELL",
+          "nom": "Yahoo Finance (WELL)"
+        }
+      ]
+    },
+    {
+      "id": "eur_gbp",
+      "libelle": "EUR/GBP",
+      "court": "EUR/GBP",
+      "type": "cours",
+      "unite": "£",
+      "decimales": 4,
+      "sens_favorable": "baisse",
+      "frequence": "jour",
+      "glossaire": "eur-gbp",
+      "pourquoi": "Une partie des loyers est payée en livres sterling (Royaume-Uni). Si l'euro monte face à la livre, ces loyers valent moins en euros.",
+      "sources": [
+        {
+          "type": "bce",
+          "flux": "EXR",
+          "cle": "D.GBP.EUR.SP00.A",
+          "nom": "BCE (cours de référence euro/livre)"
+        },
+        {
+          "type": "yahoo",
+          "symbole": "EURGBP=X",
+          "nom": "Yahoo Finance (EURGBP=X)"
+        }
+      ]
+    },
+    {
+      "id": "inflation",
+      "libelle": "Inflation zone euro (IPCH, sur un an)",
+      "court": "Inflation",
+      "type": "taux",
+      "unite": "%",
+      "decimales": 1,
+      "sens_favorable": "neutre",
+      "frequence": "mois",
+      "glossaire": "ipch",
+      "pourquoi": "Les loyers sont indexés sur l'inflation (bon pour les revenus), mais une inflation élevée pousse aussi les taux à la hausse.",
+      "sources": [
+        {
+          "type": "eurostat",
+          "jeu": "prc_hicp_minr",
+          "filtres": {
+            "geo": "EA",
+            "unit": "RCH_A",
+            "coicop18": "TOTAL"
+          },
+          "nom": "Eurostat (IPCH, variation annuelle)"
+        },
+        {
+          "type": "bce",
+          "flux": "ICP",
+          "cle": "M.U2.N.000000.4.ANR",
+          "nom": "BCE (IPCH, ancienne série arrêtée fin 2025)"
+        }
+      ]
+    }
+  ],
+  "calculs": [
+    {
+      "id": "rendement_total",
+      "libelle": "Rendement total (dividendes réinvestis)",
+      "court": "Rendement total",
+      "type": "rendement_total",
+      "unite": "%",
+      "decimales": 1,
+      "sens_favorable": "hausse",
+      "glossaire": "rendement-total",
+      "pourquoi": "Pour une SIR, le dividende pèse lourd dans le gain : ce chiffre additionne la variation du cours et les dividendes réinvestis."
+    },
+    {
+      "id": "capitalisation",
+      "libelle": "Capitalisation boursière",
+      "court": "Capitalisation",
+      "type": "montant",
+      "unite": "M€",
+      "decimales": 0,
+      "sens_favorable": "hausse",
+      "glossaire": "capitalisation-boursiere",
+      "pourquoi": "Taille de la société en bourse : cours × nombre d'actions."
+    },
+    {
+      "id": "decote_nta",
+      "libelle": "Décote / prime sur NTA",
+      "court": "Décote / prime",
+      "type": "ratio",
+      "unite": "%",
+      "decimales": 1,
+      "signe": true,
+      "sens_favorable": "neutre",
+      "glossaire": "decote-prime",
+      "pourquoi": "Cher ou bon marché ? Écart entre le cours et la valeur comptable par action (EPRA NTA). Négatif = décote."
+    },
+    {
+      "id": "rendement_dividende",
+      "libelle": "Rendement du dividende (brut)",
+      "court": "Rendement dividende",
+      "type": "ratio",
+      "unite": "%",
+      "decimales": 2,
+      "sens_favorable": "neutre",
+      "glossaire": "rendement-du-dividende",
+      "pourquoi": "Revenu annuel par rapport au cours : dividende brut de l'exercice ÷ cours."
+    },
+    {
+      "id": "multiple",
+      "libelle": "Multiple de résultat (cours ÷ EPRA EPS)",
+      "court": "Multiple",
+      "type": "multiple",
+      "unite": "×",
+      "decimales": 1,
+      "sens_favorable": "neutre",
+      "glossaire": "multiple",
+      "pourquoi": "Nombre d'années de bénéfice récurrent que l'on paie en achetant l'action."
+    },
+    {
+      "id": "ecart_olo_bund",
+      "libelle": "Écart OLO – Bund",
+      "court": "Écart OLO – Bund",
+      "type": "ecart",
+      "unite": "pt",
+      "decimales": 2,
+      "sens_favorable": "baisse",
+      "glossaire": "ecart-olo-bund",
+      "pourquoi": "Prime que la Belgique paie par rapport à l'Allemagne pour emprunter à 10 ans : mesure le risque belge."
+    },
+    {
+      "id": "ecart_dividende_bund",
+      "libelle": "Écart dividende – Bund",
+      "court": "Écart div. – Bund",
+      "type": "ecart",
+      "unite": "pt",
+      "decimales": 2,
+      "sens_favorable": "hausse",
+      "glossaire": "ecart-dividende-bund",
+      "pourquoi": "Prime de risque : supplément de rendement offert par l'action par rapport à un placement sans risque. Indicateur de valorisation clé."
+    }
+  ],
+  "tuiles": [
+    "decote_nta",
+    "rendement_dividende",
+    "bund10",
+    "ecart_dividende_bund"
+  ],
+  "groupes": [
+    {
+      "id": "action",
+      "libelle": "Action Aedifica",
+      "indicateurs": [
+        "cours",
+        "rendement_total",
+        "capitalisation",
+        "decote_nta",
+        "rendement_dividende",
+        "multiple"
+      ]
+    },
+    {
+      "id": "taux",
+      "libelle": "Taux",
+      "indicateurs": [
+        "taux_depot_bce",
+        "estr",
+        "euribor3m",
+        "bund10",
+        "olo10",
+        "ecart_olo_bund",
+        "ecart_dividende_bund"
+      ]
+    },
+    {
+      "id": "marche",
+      "libelle": "Peur et marché",
+      "indicateurs": [
+        "vix",
+        "vstoxx",
+        "bel20",
+        "immo_europe",
+        "care_property",
+        "welltower"
+      ]
+    },
+    {
+      "id": "autres",
+      "libelle": "Autres",
+      "indicateurs": [
+        "eur_gbp",
+        "inflation"
+      ]
+    }
+  ],
+  "seuils_alertes": {
+    "bund_hausse_1m_points": 0.25,
+    "decote_ecart_moyenne_points": 10,
+    "vix": 25,
+    "vstoxx": 25,
+    "communique_recent_jours": 7,
+    "resultats_proches_jours": 14,
+    "source_panne_jours": 3,
+    "actu_risque_jours": 30
+  },
+  "actualites": {
+    "requetes": [
+      "Aedifica",
+      "Aedifica Cofinimmo"
+    ],
+    "langues": [
+      "fr",
+      "nl",
+      "en"
+    ],
+    "mots_obligatoires": [
+      "aedifica",
+      "cofinimmo"
+    ],
+    "sources_ignorees": [
+      "Yahoo Finance",
+      "Yahoo",
+      "Investing.com",
+      "TradingView",
+      "Simply Wall St",
+      "MarketBeat",
+      "Stock Titan",
+      "Defense World",
+      "Ticker Report"
+    ],
+    "titres_ignores": [
+      "stock price",
+      "quote & history",
+      "share price today",
+      "koers aandeel",
+      "cours de l'action",
+      "cotation"
+    ],
+    "mois_affiches": 6,
+    "mois_archive": 24,
+    "officiels_depuis": "2025-01-01",
+    "flux_officiels": [
+      {
+        "type": "publications",
+        "url": "https://aedifica.eu/fr/communiques-de-presse/",
+        "langue": "fr",
+        "source": "Aedifica — communiqué officiel"
+      }
+    ]
+  },
+  "mots_cles_categories": {
+    "resultats": [
+      "résultats",
+      "résultat",
+      "rapport financier",
+      "déclaration intermédiaire",
+      "rapport annuel",
+      "bénéfice",
+      "loyers en hausse",
+      "perspectives",
+      "resultaten",
+      "halfjaar",
+      "jaarresultaten",
+      "kwartaal",
+      "tussentijdse",
+      "winst",
+      "huurinkomsten",
+      "jaarcijfers",
+      "results",
+      "interim financial",
+      "half year",
+      "annual report",
+      "earnings",
+      "trading update",
+      "profit",
+      "rents up",
+      "guidance",
+      "trimestr",
+      "semestr"
+    ],
+    "dividende": [
+      "dividende",
+      "dividend",
+      "coupon",
+      "détachement"
+    ],
+    "cessions": [
+      "cession",
+      "cède",
+      "céder",
+      "désinvestissement",
+      "vente",
+      "vend ",
+      "vendu",
+      "verkoop",
+      "verkocht",
+      "desinvest",
+      "divestment",
+      "divest",
+      "disposal",
+      "sells",
+      "sale of",
+      "sold"
+    ],
+    "acquisitions": [
+      "acquisition",
+      "acquiert",
+      "acquis ",
+      "investit",
+      "investissement",
+      "projet",
+      "développement",
+      "construction",
+      "réception",
+      "overname",
+      "acquireert",
+      "investeert",
+      "investering",
+      "project",
+      "ontwikkeling",
+      "oplevering",
+      "acquires",
+      "invests",
+      "investment",
+      "development",
+      "completion",
+      "pipeline",
+      "to build",
+      "care home",
+      "deal",
+      "bouwt",
+      "construit"
+    ],
+    "financement": [
+      "financement",
+      "obligation",
+      "obligataire",
+      "emprunt",
+      "dette",
+      "notation",
+      "crédit",
+      "augmentation de capital",
+      "placement privé",
+      "financiering",
+      "obligatie",
+      "schuld",
+      "rating",
+      "kapitaalverhoging",
+      "bond",
+      "debt",
+      "financing",
+      "credit",
+      "capital increase",
+      "moody",
+      "s&p",
+      "standard & poor",
+      "sustainability bond"
+    ],
+    "locataires": [
+      "locataire",
+      "exploitant",
+      "opérateur",
+      "huurder",
+      "uitbater",
+      "operator",
+      "tenant",
+      "clariane",
+      "korian",
+      "emeis",
+      "orpea",
+      "attendo",
+      "colisée",
+      "colisee",
+      "armonea",
+      "vulpia",
+      "faillite",
+      "insolvabilité",
+      "failliet",
+      "bankrupt",
+      "insolvency"
+    ],
+    "cofinimmo": [
+      "cofinimmo",
+      "fusion",
+      "offre d'échange",
+      "offre publique",
+      "intégration",
+      "fusie",
+      "ruilbod",
+      "overnamebod",
+      "integratie",
+      "merger",
+      "exchange offer",
+      "integration",
+      "autorité belge de la concurrence",
+      "mededingingsautoriteit",
+      "competition authority"
+    ]
+  },
+  "libelles_categories": {
+    "resultats": "Résultats",
+    "dividende": "Dividende",
+    "cessions": "Cessions",
+    "acquisitions": "Acquisitions / Projets",
+    "financement": "Financement / Dette / Notation",
+    "locataires": "Locataires / Exploitants",
+    "cofinimmo": "Intégration Cofinimmo",
+    "autres": "Autres"
+  },
+  "mots_cles_risque": [
+    "faillite",
+    "insolvabilité",
+    "insolvable",
+    "restructuration",
+    "procédure de sauvegarde",
+    "sauvegarde accélérée",
+    "loyers impayés",
+    "impayés de loyer",
+    "concordat",
+    "redressement judiciaire",
+    "plan de redressement",
+    "réorganisation judiciaire",
+    "cessation de paiement",
+    "faillissement",
+    "failliet",
+    "insolventie",
+    "herstructurering",
+    "onbetaalde huur",
+    "gerechtelijke reorganisatie",
+    "surseance van betaling",
+    "wanbetaling",
+    "bankruptcy",
+    "bankrupt",
+    "insolvency",
+    "insolvent",
+    "restructuring",
+    "unpaid rent",
+    "into administration",
+    "creditor protection",
+    "Insolvenz",
+    "Insolvenzverfahren",
+    "Restrukturierung",
+    "Schutzschirmverfahren",
+    "Mietausfall",
+    "zahlungsunfähig",
+    "Sanierungsverfahren"
+  ],
+  "locataires": {
+    "date": "2026-06-30",
+    "source": {
+      "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
+      "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf"
+    },
+    "nombre_groupes": 190,
+    "mots_contexte": [
+      "ehpad",
+      "maison de retraite",
+      "maisons de retraite",
+      "maison de repos",
+      "maisons de repos",
+      "redressement",
+      "dette",
+      "creanciers",
+      "residents",
+      "seniors",
+      "eqt",
+      "woonzorg",
+      "rusthuis",
+      "rusthuizen",
+      "care home",
+      "nursing",
+      "pflege"
+    ],
+    "sources_ignorees": [
+      "Boursier.com",
+      "Boursorama",
+      "boerse.de",
+      "Yahoo Finance",
+      "TradingView",
+      "Investing.com",
+      "Trauer",
+      "MarketBeat",
+      "Simply Wall St",
+      "ABC Bourse"
+    ],
+    "titres_ignores": [
+      "cours action",
+      "cotation bourse",
+      "seasonal returns",
+      "traueranzeigen",
+      "stock price",
+      "aktie unter",
+      "aktie uber"
+    ],
+    "liste": [
+      {
+        "id": "clariane",
+        "nom": "Groupe Clariane",
+        "alias": [
+          "Clariane",
+          "Korian"
+        ],
+        "pays": "Belgique, France, Pays-Bas, Allemagne, Italie",
+        "sites": 102,
+        "part_loyers": 12,
+        "segment": "sante",
+        "cote": true,
+        "symbole": "CLARI.PA",
+        "devise": "€",
+        "bourse": "Euronext Paris",
+        "langues": [
+          "fr",
+          "nl",
+          "de",
+          "en"
+        ],
+        "note": "Exploite notamment les maisons de repos Korian en Belgique (7 % des loyers d'Aedifica à elles seules).",
+        "isin": "FR0010386334",
+        "marche": "XPAR"
+      },
+      {
+        "id": "colisee",
+        "nom": "Groupe Colisée (Armonea)",
+        "alias": [
+          "Armonea",
+          "groupe Colisée",
+          "Colisée Group"
+        ],
+        "alias_ambigus": [
+          "Colisée"
+        ],
+        "pays": "Belgique, France, Italie",
+        "sites": 50,
+        "part_loyers": 7,
+        "segment": "sante",
+        "cote": false,
+        "langues": [
+          "fr",
+          "nl"
+        ],
+        "requete": "\"Armonea\" OR \"groupe Colisée\" OR \"Colisée\" EHPAD",
+        "note": "Fin 2025, Colisée a annoncé un plan de redressement financier, approuvé par le tribunal de commerce de Paris le 21/04/2026. Selon Aedifica, Armonea a continué à payer l'intégralité de ses loyers (rapport semestriel 2026, p. 13)."
+      },
+      {
+        "id": "abinbev",
+        "nom": "AB InBev",
+        "alias": [
+          "AB InBev"
+        ],
+        "pays": "Belgique, Pays-Bas",
+        "sites": 762,
+        "part_loyers": 4,
+        "segment": "distribution",
+        "cote": true,
+        "symbole": "ABI.BR",
+        "devise": "€",
+        "bourse": "Euronext Bruxelles",
+        "langues": [],
+        "note": "Locataire des cafés (réseaux de distribution hérités de Cofinimmo), un segment non stratégique destiné à être vendu. Pas de veille d'actualités pour ce locataire.",
+        "isin": "BE0974293251",
+        "marche": "XBRU"
+      },
+      {
+        "id": "emeis",
+        "nom": "Groupe emeis (ex-Orpea)",
+        "alias": [
+          "emeis",
+          "Orpea"
+        ],
+        "pays": "Belgique, Allemagne, Pays-Bas, France, Espagne",
+        "sites": 34,
+        "part_loyers": 4,
+        "segment": "sante",
+        "cote": true,
+        "symbole": "EMEIS.PA",
+        "devise": "€",
+        "bourse": "Euronext Paris",
+        "langues": [
+          "fr",
+          "nl",
+          "de"
+        ],
+        "note": "Le cours historique reflète la restructuration financière d'Orpea (2023-2024), qui a presque entièrement dilué les anciens actionnaires.",
+        "isin": "FR001400NLM4",
+        "marche": "XPAR"
+      },
+      {
+        "id": "emera",
+        "nom": "Groupe Emera",
+        "alias": [
+          "groupe Emera"
+        ],
+        "alias_ambigus": [
+          "Emera"
+        ],
+        "pays": "Royaume-Uni, Irlande, Espagne, Belgique",
+        "sites": 25,
+        "part_loyers": 3,
+        "segment": "sante",
+        "cote": false,
+        "langues": [
+          "fr"
+        ],
+        "requete": "\"Emera\" EHPAD OR \"maisons de retraite\""
+      },
+      {
+        "id": "domusvi",
+        "nom": "Groupe DomusVi",
+        "alias": [
+          "DomusVi"
+        ],
+        "pays": "Pays-Bas, Espagne, Irlande, France, Allemagne",
+        "sites": 39,
+        "part_loyers": 3,
+        "segment": "sante",
+        "cote": false,
+        "langues": [
+          "fr",
+          "en"
+        ]
+      },
+      {
+        "id": "azurit",
+        "nom": "Azurit Rohr",
+        "alias": [
+          "Azurit"
+        ],
+        "pays": "Allemagne",
+        "sites": 28,
+        "part_loyers": 3,
+        "segment": "sante",
+        "cote": false,
+        "langues": [
+          "de"
+        ]
+      },
+      {
+        "id": "vulpia",
+        "nom": "Vulpia",
+        "alias": [
+          "Vulpia"
+        ],
+        "pays": "Belgique",
+        "sites": 17,
+        "part_loyers": 3,
+        "segment": "sante",
+        "cote": false,
+        "langues": [
+          "nl",
+          "fr"
+        ],
+        "note": "A repris en juillet 2026 l'exploitation du campus Klein Veldekens (auparavant Armonea) : 18 sites depuis lors."
+      },
+      {
+        "id": "attendo",
+        "nom": "Attendo",
+        "alias": [
+          "Attendo"
+        ],
+        "pays": "Finlande",
+        "sites": 35,
+        "part_loyers": 2,
+        "segment": "sante",
+        "cote": true,
+        "symbole": "ATT.ST",
+        "devise": "SEK",
+        "bourse": "Nasdaq Stockholm",
+        "langues": [
+          "en"
+        ]
+      },
+      {
+        "id": "maria_mallaband",
+        "nom": "Maria Mallaband",
+        "alias": [
+          "Maria Mallaband"
+        ],
+        "pays": "Royaume-Uni",
+        "sites": 18,
+        "part_loyers": 2,
+        "segment": "sante",
+        "cote": false,
+        "langues": [
+          "en"
+        ]
+      }
+    ]
+  },
+  "rapports": {
+    "page": "https://aedifica.eu/fr/communiques-de-presse/",
+    "motif_titre": "rapport financier|résultats annuels|déclaration intermédiaire",
+    "exclure_titre": "offre|dividende optionnel|placement|acquiert"
+  },
+  "patrimoine": {
+    "depuis": "2025-12-31",
+    "segments": [
+      {
+        "id": "sante",
+        "libelle": "Immobilier de santé",
+        "court": "Santé",
+        "champ": "juste_valeur_sante"
+      },
+      {
+        "id": "bureaux",
+        "libelle": "Bureaux",
+        "court": "Bureaux",
+        "champ": "juste_valeur_bureaux"
+      },
+      {
+        "id": "distribution",
+        "libelle": "Réseaux de distribution",
+        "court": "Réseaux",
+        "champ": "juste_valeur_distribution"
+      }
+    ],
+    "libelle_autres": "Projets en cours et autres",
+    "court_autres": "Projets, autres"
+  },
+  "textes": {
+    "patrimoine": "Juste valeur en fin de trimestre. Les bureaux et les réseaux de distribution viennent de Cofinimmo (consolidée depuis mars 2026) et ne sont pas stratégiques.",
+    "programme": "Ce qu'Aedifica doit ou veut vendre : les bureaux et les réseaux de distribution hérités de Cofinimmo (non stratégiques), plus 300 millions € de maisons de repos belges exigés par l'Autorité belge de la concurrence. Si ces ventes traînent, cela pèse sur le cours.",
+    "cessions_sans_actualite": "Les ventes de 2026 ont été annoncées dans les rapports trimestriels, pas dans des communiqués séparés.",
+    "sources": "Sources : Euronext et Yahoo Finance (cours), BCE, Bundesbank, Eurostat, STOXX, Cboe, rapports officiels d'Aedifica, Google Actualités."
+  },
+  "glossaire": [
+    {
+      "id": "precompte-mobilier",
+      "terme": "Précompte mobilier",
+      "definition": "Impôt belge retenu à la source sur les dividendes. Pour Aedifica : 30 % depuis le 1er janvier 2026 (15 % de 2017 à 2025, taux réduit réservé aux SIR investies à plus de 80 % en immobilier de santé dans l'Espace économique européen)."
+    },
+    {
+      "id": "taux-d-endettement",
+      "terme": "Taux d'endettement",
+      "definition": "Dettes ÷ total des actifs. Le plafond légal est de 65 % pour une SIR ; Aedifica se fixe elle-même une limite de 45 %."
+    },
+    {
+      "id": "reseaux-de-distribution",
+      "terme": "Réseaux de distribution",
+      "definition": "Portefeuille de cafés et restaurants en Belgique et aux Pays-Bas, loués à AB InBev, hérité de Cofinimmo. Comme les bureaux, il n'est pas stratégique pour Aedifica, qui prévoit de le vendre."
+    },
+    {
+      "id": "bel-20",
+      "terme": "Bel 20",
+      "definition": "Indice des vingt principales sociétés cotées à la bourse de Bruxelles. Aedifica en fait partie."
+    },
+    {
+      "id": "pairs",
+      "terme": "Pairs",
+      "definition": "Autres foncières cotées spécialisées en immobilier de santé, auxquelles on compare Aedifica : Care Property Invest (Belgique) et Welltower (États-Unis). Leurs cours sont ajustés des opérations sur le capital."
+    },
+    {
+      "id": "eur-gbp",
+      "terme": "EUR/GBP",
+      "definition": "Nombre de livres sterling pour un euro. Une partie des loyers d'Aedifica est payée en livres : si l'euro monte face à la livre, ces loyers valent moins une fois convertis en euros."
+    },
+    {
+      "id": "ebitdar",
+      "terme": "EBITDAR et couverture des loyers",
+      "definition": "Bénéfice d'exploitation de l'exploitant avant intérêts, impôts, amortissements et loyers. Divisé par le loyer, il donne la couverture des loyers (Aedifica parle de « taux d'effort ») : à 1,5, l'exploitant gagne une fois et demie son loyer. Sous 1, il ne gagne pas assez pour le payer."
+    }
+  ],
+  "ia": {
+    "active": true,
+    "explication": "L'IA ne s'active que si le secret GitHub ANTHROPIC_API_KEY existe. Sans clé, rien n'est appelé ni facturé. Pour couper l'IA sans supprimer la clé : mettre « active » à false.",
+    "modele": "claude-haiku-5-5",
+    "frequence_jours": 7,
+    "lignes_max": 10
+  }
+}

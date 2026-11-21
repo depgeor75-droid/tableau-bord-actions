@@ -1,0 +1,7 @@
+# Dépendances de la collecte (Python 3.12)
+yfinance>=1.0      # cours de bourse (Yahoo Finance)
+requests>=2.31     # appels aux sources officielles (BCE, Bundesbank, Eurostat, STOXX, Cboe…)
+pandas>=2.2        # séries temporelles et calculs
+feedparser>=6.0    # flux RSS (Google Actualités)
+pdfplumber>=0.11   # lecture des rapports et communiqués PDF
+anthropic>=1.0     # option IA (utilisée seulement si le secret ANTHROPIC_API_KEY existe)

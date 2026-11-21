@@ -1,0 +1,713 @@
+{
+ "genere_le": "2026-11-21T11:23:08+01:00",
+ "date_parts": "2026-06-30",
+ "source_parts": {
+  "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
+  "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf"
+ },
+ "nombre_groupes": 190,
+ "seuil_alerte_jours": 30,
+ "locataires": [
+  {
+   "id": "clariane",
+   "nom": "Groupe Clariane",
+   "pays": "Belgique, France, Pays-Bas, Allemagne, Italie",
+   "sites": 102,
+   "part_loyers": 12,
+   "segment": "sante",
+   "cote": true,
+   "note": "Exploite notamment les maisons de repos Korian en Belgique (7 % des loyers d'Aedifica à elles seules).",
+   "cours": {
+    "symbole": "CLARI.PA",
+    "devise": "€",
+    "bourse": "Euronext Paris",
+    "actuel": {
+     "valeur": 3.264,
+     "date_valeur": "2026-11-20"
+    },
+    "periodes": {
+     "1m": {
+      "valeur": 3.276,
+      "date_valeur": "2026-10-20",
+      "variation": -0.37,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     },
+     "1a": {
+      "valeur": 3.34,
+      "date_valeur": "2025-11-20",
+      "variation": -2.28,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     },
+     "5a": {
+      "valeur": 27.28,
+      "date_valeur": "2021-11-19",
+      "variation": -88.04,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     }
+    },
+    "fichier": "loc_clariane",
+    "source": "Yahoo Finance (CLARI.PA)",
+    "etat": "ok",
+    "note": "Cours ajusté des opérations sur le capital (divisions, regroupements d'actions, augmentations de capital)."
+   },
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "94fbb86b1207",
+     "date": "2026-11-20",
+     "titre": "2026 Graduates, Future Talent and the Launch of Clariane Training: A Day Dedicated to Skills Development",
+     "source": "www.marketscreener.com",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVY2YVdPU3c5SFBnV25nR2RBOWV3bEJCb3pXSE5YQ2NqanhMNU5ROVV6Rjh5blREZjNXdGdRUVpoUm1La05UUVJKWFJMa0I3V0drM2huWi1wa2pPVlZKRGZNblJ2RjhDLUZ6bGkzZE5mQ3pTSzVnM3hhSjBhcTJqTk9XRFBIWGlaMFdFek13d1g1dkEtcnFrT1Y3dlpyT2FDY0czOExUcjliYTRUVVpYcW94LUVrbHRPcjQ0MlM2bTdNUUhlR05RZTItWWh4NXU0ZFUzdmtnNjktN05US0hMN3huX0JCdw?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "de18a588c22d",
+     "date": "2026-11-13",
+     "titre": "L'action Clariane dans le bas du SBF 120, mais toujours à +2,5 % sur un mois",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEszZ3dhNVBDb25Yd195eFlVcWNPekJwLXdoMlcteFZpZHU2Um9ZMEhfZDVRYmRxZFVuRUtCV1I4UG0xVlg0bGp6ZUhISThEY19iLVJUUFByYXBUR2thczhURGpDYUtHQTd3QVZXVGNJd1JfWmZGQXQtX2JXZWtFVjNUMDhITHZUYWpoMTJleHJLZUtkOGVZeE5ZSDhBTTg4aUlnSXU2bVMyZm5KdVpxakxVMndNZU1US2w0alBrMVBWeGM?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "6b7682b8c8ec",
+     "date": "2026-11-13",
+     "titre": "Clariane in the lower part of the SBF 120, but still up 2.5% over one month",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWtiQTFOeFFiUUNEVGhfY1AyMk9jVXRqcmtkZzRBRDFDMEVoY3pCcVh6dU83ZTd3UGQ5aHB0dXg2T0VENmE0ZHZSTS1zVEsxN3hvTjVPeUtBTHlZMXhhZUI5STlVUVFBMm80Y2N4ZTRzd0gyNERVdTRJWThvX1lWSkpJbTI4OXVYdlpUejRVdWNNUXpza2hSWHhOYktTeFNoVkExOUtseU1jQlRZYlJiMTl3Um9RekJsOElZZWo1WXFsaHpoLURZOGpxeGI?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "20445efd4f27",
+     "date": "2026-11-12",
+     "titre": "L'action Clariane, parmi les plus fortes hausses du SBF 120, grimpe de 1,75 %",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVlJMkpmNWc1ZmhZcGNCdnNqTUswR1E2OXQ4WnZLcXBzeFlHdGlYWUlzd0Zzalc5d2luakpYMy1ENEE5Q2ZPQW1MU195UGZ5ejlod2JLeG9EdTNWT3cyNXlndXk3T054QUU5N1BpSEVKOGp4QjlBRWhSTTRSMURXazJBT3JpakpPMGVBRHYzMFRxOGt0UWJkbWdIOVBnOC14S2JEd1FNbTRNOFU5RFdHTWx6b3RHZTMzTXcxYUp4WFdYa3Zv?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "f3a446fb8d22",
+     "date": "2026-11-12",
+     "titre": "Clariane shares, among the strongest gainers in the SBF 120, rise 1.75%",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzZNVlZCcmxSR3l6UVFLTE1nMHFHR2RMR3dVTzZlWThVODI3Y0NYM2Y2dHdmWUJoTmtxUlJBajVodWJSS2hMM3lKTFpjb3lja0JFenhQMENTQjVudXRIUGFmcU1keW9WNXJySHFOQXViRzc5Rk1KVkV3dTZWRmFjQmtsQXZJMjVZRk1Gc29XUzJLUVRqeklmY2J3TllST1JEdVBDNXFCWmhNd3lkY3hjLXp0OUE2QVRsbG84b3Zva213VXQ0Nmc?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "87dc4ca15adf",
+     "date": "2026-11-07",
+     "titre": "Open dag Korian: wanneer is het tijd om na te denken over wonen met zorg?",
+     "source": "Arnhemse Koerier",
+     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHlCeWF5dTI0alR0dFBMWmVRQldZZGxaMnRuaE8tTmZGYVo4YThOZ1JiQmM5STVTU191QktDM2RDZmFsNUNuVEtobERUM1o0XzB5V0xveDgtMEdENUIzekh4QjRYd2lwWHBGZTVTM3hsRnlLVHhRcHRBRjQ3TzRDVzY0Umt1U3Z3MWxYNlBNemFSaWdBYnVsRWlyNzcydHluZFhYNXZILXVWNjhtYld0WGFzLTh5RFVHUkJCOGNFZndpM0dk?oc=5",
+     "langue": "nl",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "39a9ecf505e6",
+     "date": "2026-11-05",
+     "titre": "Clariane shares rebound 3.5%, but lose 15.5% over the quarter",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMm80S0lGVDNnMWhYUWVwRGhvTWZCMEpNTHJMbEZwOXpXRW5QQXo4MlJPZmJGMU44cFM1SUVNeVE3QUF6ZEdpTGxwMFZ2YWtMQ2pVcW5yV2lCbG5NMUNwX0lNOEhlTDYxOFFaT2tWOXBvSnhvdXUtWUxfVm5tbE9nWUExWjhqZTBzZHk2U1RfbG9sd2duODl5UVFBcFlfbkE3QkppVnpKdUhYeUFEc2ExanZYN2duSmZ1?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "88307dbd5ef7",
+     "date": "2026-11-03",
+     "titre": "L'action Clariane reprend 1,5 % mais perd près de 20 % sur le trimestre",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjU1cTZNUlZDZ0Ezam9lNGQ1b1hYVzlDM2RlSk9PWlc4NUVrOC1PRTlycTRRVjZKOUVwZHpnMW1RRWpuSk1fenVTMFNPMXZCbFBqUG1yR2hOVVUtd2VvdksxZmNXck1NTzc4cEZOR1IzVkdEMG96SG5ZSEpFc3MtQzRzUGw3cGc0SmRGa1Q0M2lIVUU0Z0lIM0J6bWFBeW9vUVFzZTN2TDcxU0hyZXJrVFdiQVhoMlVWcFpCUA?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "colisee",
+   "nom": "Groupe Colisée (Armonea)",
+   "pays": "Belgique, France, Italie",
+   "sites": 50,
+   "part_loyers": 7,
+   "segment": "sante",
+   "cote": false,
+   "note": "Fin 2025, Colisée a annoncé un plan de redressement financier, approuvé par le tribunal de commerce de Paris le 21/04/2026. Selon Aedifica, Armonea a continué à payer l'intégralité de ses loyers (rapport semestriel 2026, p. 13).",
+   "cours": null,
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "50f7fbd94619",
+     "date": "2026-09-08",
+     "titre": "Comment Colisée soigne son redressement",
+     "source": "L'Agefi",
+     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUIzVVRlOWRqVHZZck1vbGxJWFRqSDczVVFVb19YLW1RSkxVejRWU2tIdWwtWHZKZEVBZnllREt5REFEWWRlY0o4T0UwdFJLTTAtQWdWTkFXdDN3RVQwdDktQUIwYVFJcFl0dDdvM2Q2XzhXamVQczM4MWVDYnV6V0NYd1Y0Qmd1aWVtNg?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "abinbev",
+   "nom": "AB InBev",
+   "pays": "Belgique, Pays-Bas",
+   "sites": 762,
+   "part_loyers": 4,
+   "segment": "distribution",
+   "cote": true,
+   "note": "Locataire des cafés (réseaux de distribution hérités de Cofinimmo), un segment non stratégique destiné à être vendu. Pas de veille d'actualités pour ce locataire.",
+   "cours": {
+    "symbole": "ABI.BR",
+    "devise": "€",
+    "bourse": "Euronext Bruxelles",
+    "actuel": {
+     "valeur": 73.0,
+     "date_valeur": "2026-11-20"
+    },
+    "periodes": {
+     "1m": {
+      "valeur": 74.36,
+      "date_valeur": "2026-10-20",
+      "variation": -1.83,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     },
+     "1a": {
+      "valeur": 52.84,
+      "date_valeur": "2025-11-20",
+      "variation": 38.15,
+      "unite_variation": "%",
+      "impact": "favorable"
+     },
+     "5a": {
+      "valeur": 51.86,
+      "date_valeur": "2021-11-19",
+      "variation": 40.76,
+      "unite_variation": "%",
+      "impact": "favorable"
+     }
+    },
+    "fichier": "loc_abinbev",
+    "source": "Yahoo Finance (ABI.BR)",
+    "etat": "ok",
+    "note": "Cours ajusté des opérations sur le capital (divisions, regroupements d'actions, augmentations de capital)."
+   },
+   "veille_actualites": false,
+   "actualites": [],
+   "alerte": null
+  },
+  {
+   "id": "emeis",
+   "nom": "Groupe emeis (ex-Orpea)",
+   "pays": "Belgique, Allemagne, Pays-Bas, France, Espagne",
+   "sites": 34,
+   "part_loyers": 4,
+   "segment": "sante",
+   "cote": true,
+   "note": "Le cours historique reflète la restructuration financière d'Orpea (2023-2024), qui a presque entièrement dilué les anciens actionnaires.",
+   "cours": {
+    "symbole": "EMEIS.PA",
+    "devise": "€",
+    "bourse": "Euronext Paris",
+    "actuel": {
+     "valeur": 9.93,
+     "date_valeur": "2026-11-20"
+    },
+    "periodes": {
+     "1m": {
+      "valeur": 9.985,
+      "date_valeur": "2026-10-20",
+      "variation": -0.55,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     },
+     "1a": {
+      "valeur": 12.9,
+      "date_valeur": "2025-11-20",
+      "variation": -23.02,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     },
+     "5a": {
+      "valeur": 5524.2407,
+      "date_valeur": "2021-11-19",
+      "variation": -99.82,
+      "unite_variation": "%",
+      "impact": "defavorable"
+     }
+    },
+    "fichier": "loc_emeis",
+    "source": "Yahoo Finance (EMEIS.PA)",
+    "etat": "ok",
+    "note": "Cours ajusté des opérations sur le capital (divisions, regroupements d'actions, augmentations de capital)."
+   },
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "b9b868159acc",
+     "date": "2026-11-04",
+     "titre": "L'action Emeis rebondit de 3 % mais reste à -27 % sur le trimestre",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2pNN21ndEtnTEhaTjNldjBOb1hzWkl4YmkwdHctOFlIaDc3QVJQWEhVQWtxaWRrcXdnckpfaURIYmszN0FSb09Hel9UVzlvN0c4c1piWXhFMW1WY210dmFKVnBYbDJYUzNMeWw3VGxhSWFxSl9MMXFoTkFLNkVOeURlYUs2WU52eC1VU1lVaGJLZnpScW4xUmhUdG1HRENyMFcweWxfcVFMVldmYjlKZ0NCelVEUQ?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "f0208ac0219f",
+     "date": "2026-10-30",
+     "titre": "emeis : le redressement se confirme, TP ICAP Midcap reste à l'achat",
+     "source": "Bourse Direct",
+     "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYU5pZ1R1M1pKSVJNWERpN1lGdGx4LWg1OTZ1b0xCZ20yTUpDZzVGVk04b2p2NEl5WkJQUmRMeGgyNWRoME54YW9IMkQ1V2hOeGt1YzJvR2dvSWgtQ3VlcFRmQWk3Z3JHbUlqU2l4WDNNeGMwQmhtZ1JLQTdXd2YwNkdrek5PR2JsXzUyY1RsZ2pWSHEwMG1KZG16bXV0eUc3cjRXZjF1QmxrQzh1TDQzYnNkVVJBZzNrWXdXRkJCeUN5VWIyNHhRWUo3R3FfcmJhWi1uUWRLS3d1eURXV2VfcE4yckxRaktzLWgyY0wwUXJ3OU42T2Jvd21Kb1NyMXFpenFveDM0YmFWZUxpMlpWNGxGNEJPekU1QWtnYUlacTYwejRmS2dveEdRQkZQNnNhNkF0a1ZZMEZNa1RuZzhDdm5Odnk?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "13c1cc4a7012",
+     "date": "2026-10-30",
+     "titre": "Emeis continue de tracer son sillon sur la voie du rétablissement",
+     "source": "Investir Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaThaOXZwajZJSVFhQ3Y4TUdNZDg2Y3IyZXpLcUtxc1UwbnN4SkdNWkRhVC1CQkdjMlNna1pjSkR5WDJpQTZINkhBV0lCZWE3dDFIajM4WHItU2RsdERlM3JsajRnbTc1VUlES0JhdVdFV2dUSDVlVzFOQTBWaVNuVXFRME1wYjBoY3k4ZkZsemEyVEp5SWFUeENLR0x3bHdZY3lRM3ltbWJHQUkzLWhIeUJYbE9RRTVfNEhKLVRSbVNCVFRlaTFRTnItRXhUYlpoQnZNRg?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "af7477e5b1ca",
+     "date": "2026-10-29",
+     "titre": "SBF 120 - Les actions à suivre vendredi: Axa, Eutelsat, Emeis, Engie, Imerys, TF1, Vusion",
+     "source": "Investir Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUk1ELUpwbVh3bTVKa3owS1I4aFZwQURPMm1EMW1xQTJXRTJsUWotWEFKN0c0OFRrV3liek4wdnUzdkhvUGFGY0hacmZwMDg1b0w3YXh1c0hxa2N1UkxDcVQtVmxDcHFZZTRZS2J6NVl4TFM1RDZzNnVCNFJSR1cxOTZyRFdrYUtDVEl6QXcyNnRvQmR4aVptUjdncVBkYmRYYzhEaFlZQmkzc3h4QThKbXBLZDV1Z080cFkwQ00xb2pxVnBzU09OZ2pDTWRIZ18zVVBrWjNQRWxRajh2bjZBcTBfMzJKcV9I?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "849694765e35",
+     "date": "2026-10-29",
+     "titre": "Emeis : chiffre d'affaires en hausse organique de 6 % sur neuf mois, occupation à 90,2 %",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWF3dlBKRkt6NUdWWTdTd2Q3TXRUODEtNTZaUUdRVGFWOHBBUjVHNWVOWFBKTDVSOWM3Z1VzakYzV1hhOUozcTVWdW5mM0NwNE5iWS10ajR5MFlwdGV6bm02Uk1pZmxGWFhoV0xhV21iMVJQM3o2d3FOeTdnb2dLUWV3YjhpZHFSdlJ0UThpRlJKV3Y3SUFLYnhvbm5QM0RuYU5Fd04tZFJ3dmNwUzBiX0gtQks5QjFuTnJfSEtXbzJBY2RTbWd0ZzJ4T3BKWWs?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "1773887b4e8a",
+     "date": "2026-10-28",
+     "titre": "L'action Emeis repasse au-dessus des 10 € avant son point d'activité du T3",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHR2YlFTaDU1MGk2VHJYeGJfa2VKdVoxZDU5bmRfLVI3cERYNlVSamgtT09PSFQtRTRuWk54Q3RMamcxOERhY0o5elFTSzZCSGQ0bTZFR1lHaXE3R2RDakJURThUeXdMRUxOVnZGZlBXam0xQVRUSVhXV0RYcGJWQjd0dTByamY0N3NGTmVGT25pMWplWkZhelR5VXQ4ZFkycHhzWTFFSmsyRWVsS1hRbEhuU3FFWEFvcTdhVmR1Vk5wb0U?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "0d47bf6c670a",
+     "date": "2026-10-23",
+     "titre": "L'action Emeis repasse sous les 9,78 €, un plancher inédit en un an",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMU02bGxCblVNRDhMYldRYnkyRGhpUEFHMEJvdmxORmNwLVhDdnNiYkx1WE1FOW4tcjNDMXNJbmJRUWc4V3NoYndrMGtvWm9JdVkyTjVHZzVTNXQ5bXhuVVV2djhQNzRDc2pOckxvZ1FzUnUzR0k4QWFRMnRhR21xc1J3alptRUU4S01OaWpIU2dMN2Z3Q2Y2aHI4Vlp0RnNfWDYzZ2NEYzJPQmp2cGhNckl3Mm1oSTBf?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "8376128f8759",
+     "date": "2026-10-23",
+     "titre": "Leeg woonzorgcentrum Vordenstein kost Emeis maandelijks 105.000 euro: vakbond spreekt van 'wurgcontract'",
+     "source": "GVA",
+     "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdldyWXRWc1BXRXlpSVpSejd4QjRhNEVRaTVaU3oyblo0QXR4bzROYVRmNGpINURsSGxJQl80NWg4TDlQSFdLU1dwOWNFWmF1ei1mWW93dTI2UlhZSEdhNVdZUnFRQXpDYVhJaUdiRm9XMDJYTFlBUkR3U3RsZGdSMkVkZXFHS0ZxczZqS2dUeU1aUFFVd2FKLXA0b1N1emczTFlCY0xkeUZFREU5VW5VUkxzOG5GajRkdUd1d3BuQVAtTGJ0a0FuMmRXX3U1MDM3N2UwTHduRDZkTmpScU9SOWNZSFdiZDktNGUzTnNfZkxnaFlyT1IxSm5jY0VGT3oxYndHd3Bn?oc=5",
+     "langue": "nl",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "emera",
+   "nom": "Groupe Emera",
+   "pays": "Royaume-Uni, Irlande, Espagne, Belgique",
+   "sites": 25,
+   "part_loyers": 3,
+   "segment": "sante",
+   "cote": false,
+   "note": null,
+   "cours": null,
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "9359d091a76e",
+     "date": "2026-10-16",
+     "titre": "Thibault Sartini : de l'aide-soignant à la direction générale du groupe Emera",
+     "source": "VSD",
+     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXdvZ0JheGdXaTk5ZjFXamxlYVZHVnV2bWZMTVY5cGE1eFBBaUxUUk41ZFZEWGlKX1luZVVHT3NNcTlmQjl5aG1HLTRoYjd5SWRMNlB3clEyLTZDRmQwb1VjUEVyV0JseDROOVFjdG55UU9fWXJxTnFhTk93TDQyUGkyQVBldHJBZnpnUkdjbUl2RVhGMHRrMkpkeTE?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "230c50181c66",
+     "date": "2026-09-22",
+     "titre": "EHPAD : Emera s’associe à L’Opticien Qui Bouge pour faciliter l’accès aux soins visuels",
+     "source": "SilverEco",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcndYUnRBOGlDa3pVb0pOQ1R4N0ZONjk4amV2T05oM2JTQ2V4c3pkSFByOW1nUnVYY1VSQURza2Z6M1hUZ3UydWh2V3MwZmk2bjFjcC1DeDI1YWdMSzFNT0dXclE2eEZtU1U3WkxpOG0zVUFhVEpsRzFPVGRsRHZhYkhOU1AzU2U4Mkx2M2V2RTYwamdIXzl2ek8zWGg5YWdGeDBLZDZUcndPMUMx?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "a6e77e91472a",
+     "date": "2026-09-11",
+     "titre": "Emera Talents Académie : comment le groupe d'EHPAD Emera prépare les dirigeants de demain",
+     "source": "Culture RH",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1RybkdtTHgzTkdma3pFOEc0dXFKZHRYZ3ZXcURkdDYzNGxwalJrZHd3TTNNUm0xZXNyMDQ0YXBGdllTWGpuOXlTQm1Udm1RVTJZTFg4dkYtSjF2Wjk2QTlGUU5Ud2M1N1VLREdJSkE4WThjOHlrNktvYzZNa2F5THFxbkhmVlJLZk9NVUM1M3FwMUFaVkdUZnNZcVJnY2hR?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "domusvi",
+   "nom": "Groupe DomusVi",
+   "pays": "Pays-Bas, Espagne, Irlande, France, Allemagne",
+   "sites": 39,
+   "part_loyers": 3,
+   "segment": "sante",
+   "cote": false,
+   "note": null,
+   "cours": null,
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "e7e7484b0416",
+     "date": "2026-11-10",
+     "titre": "Avec « À l’Ehpad ! », DomusVi donne la parole aux aînés face aux politiques",
+     "source": "Stratégies",
+     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUZEWmpISFZxeENhSkJ6REdwUXZlRXVrNTNBS3VZVl9KQVNWYkZjSUxLalpobmkzcWZscUJHbzh1eEN3T3llSjRVRnVMTDEwWTBuX1QtaFd1Tm9HYlhWemtJQzZGVlRKLWRtckc5bmtZWktfZWxjdkxrNzg3bkdJNXIxS2pJNDlkRzNPN2cyeUdiWjhja3hQekxnWEZBTWoyWmR6UE9PVmItaVVaYlBKTjFyc2lzQ2pOaFZDWnJHSTdqRnBu?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "f211e23053b3",
+     "date": "2026-11-08",
+     "titre": "Recrutement dans le grand âge, France Travail Paca et DomusVi prolongent leur collaboration",
+     "source": "La Provence",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa3RYWUdraGJkVkg3X3BPMFRBWW9KN1hhRlFtNTRHTzNxZU9RRW00VTZSWVBxaTZSTGdSWGxzWmpMX1JwdWhLOXNQdDV6cTh3QjhyaVI4anR3MjZjRHdFTW5Cd2hORmVhWTlRTlc1WXNJUnRSVGZ1dTBXMDM2b1ZLSTRoLTFlUG5KWURibzAxak93SkhtZ2tRYktRNTNVdWpRb3dXNC1zWEdKbEVLeUZabkl1Y3VwLXJ4R05RdHE1eGEzZ3UzQk5VNUpFYmc5NlZJWUR5UFRxODlJSE9FYl9VMHkyeU5Qdw?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "741c882f97f2",
+     "date": "2026-11-06",
+     "titre": "DomusVi et France Travail renouvellent leur partenariat pour recruter autrement dans le secteur du grand âge",
+     "source": "France Travail.org",
+     "lien": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOMmZqZ2Vya3ZWMmlHQTY4MGhwc3lPby00SVNGYmxzZi1GRTRnMTN4a0dhTk5iNExVbTd4aEdTam56M2ZfVnBYSy1IN3o5NzU3ZlJ1NHpoOThwYkFwOFhLVTFXclVwc3UzNlh4VUZNV1FFSGpGY3ptQ2NqTG9YQTk1VWVCX3pLelpSejk3T1FncVhCUGwxMVYzVUhhWVBLcjFUMGlkWkp3VVRUdVl5U01pX203SnlnTlNUVnRpY25ZMnd4b28zeE5OeVpaYzg3QXRTeUdZQVJmMlc5cW5ZeEQ4WjFMa1RwbUpwTy04T0E2ZWx1RGM3aUQwZXdPQlFFdDR2cDc4cXBkSmJGdVFfWUZZTHY1TTBuUmZpWXV5NnRiVVFmajJmRENoc2hzREYxRVFJU2VaZGd1X2hEUjhZZ25zUjJ5S25qek5jTFF3?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "ee44c4fc959f",
+     "date": "2026-11-06",
+     "titre": "Emploi dans le grand âge : DomusVi et France Travail à Marseille",
+     "source": "Presse Agence",
+     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHVFSl9TSlgtM2tsVDVua2RiVmlybE5uSTFXU0t1ZWVqeGt6NXhmYmR4R3FGS19xMjVlMXM5Y2FTd3hha2Rrc0NMb0FyWURCOHdvQWRPblBReVFmTjhQOXJqQUcyR19jUHQ3bWczYWZSdC11OVAyLW51MzVlMHUwZFdvMHpRX19VcXBxTzI1U0NBdXNSc3R5RWVxcHZWUkJWYW9PZkZnSlpjcERiLWR1eGNMcWtEQmYwRnltUUYxb1RLZw?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "688ce4d2f912",
+     "date": "2026-10-17",
+     "titre": "DomusVi prolonge la durée de vie de sa dette",
+     "source": "CFNEWS",
+     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNU1VajdXQ2tyQUJGWWpQc2ZuZnBabFFEb3lCMW1vblpRR2NlMlJoc1RWcmZta1RablRmdEx3Um1MLVN0WGs4TzQ4VjFSZ0djNV8zMlF6em9aNEhkZUY4a2dkbE9fbVR1RXFJZFVMVGt6b291NE5ZVm1CbVQ1WmtyeDZNUGtZenFxRDVpQkgyUmZfbEs5aFRTQ3Q1WW9kc0x3NlVjcjd0LUcyNFlSLWtlVTE3RXNTdw?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "azurit",
+   "nom": "Azurit Rohr",
+   "pays": "Allemagne",
+   "sites": 28,
+   "part_loyers": 3,
+   "segment": "sante",
+   "cote": false,
+   "note": null,
+   "cours": null,
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "49cbf94f25e8",
+     "date": "2026-11-17",
+     "titre": "Azurit will mit Welcome Days Pflegeazubis stärken",
+     "source": "Care vor9",
+     "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT3ItQUNGd2dkRGprWmNobzVMLXhkNEMyaUh1ZjJzR282aVhPWHRkbTUwSGpGRURkcHo4N0xkRlc1d2N3NENqWktDMnZJcFd5dWtLUmpyRHFuRGFicG1leE1KVmR6RlVBaUV3RHVOcWRZcjFiZEltTU9lV0xQWlE5VEI4QUVSaWQwN2pJVERR?oc=5",
+     "langue": "de",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "ea48e0bb2f9d",
+     "date": "2026-11-11",
+     "titre": "Azurit Gruppe startet eigenen Pflege-Podcast \"100 Pro\"",
+     "source": "Care vor9",
+     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc09DQjJIZ3I2SFJVbEp4Unc3S2VmTjRmeFZGTFZNZVdpcEhsaVp5ZXBVbjR2SXJDVXg3Y21xQk5pdWxJS2hhc1J5ejVkVEpPWXpkZUl5cENKUjByMUsxTFlYTTZ6UURuV3hMQWhxanNSbC1UVVMxZDJtbW12QUY1ZzAyd2xzTmxOeGo4SDIydw?oc=5",
+     "langue": "de",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "6c7ff1520e86",
+     "date": "2026-10-27",
+     "titre": "Azurit-Seniorenzentrum dankt und ehrt",
+     "source": "Pnp.de",
+     "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3pOR045RWpWV0I3MmZKQTQ5LWtsd0JkcUJ3Szl2bEItN3RKRjVCdlJUcUkxM3hPem9lUXdpRzBmUThYQnU0ZVZQcmZadlF6NEp3UU1ZZUVFNndFRkJCXzktQWMtOVNVT3I1TGJGS2kxRTJOWU1SVXhrS2VNdTFsTXhaOHprc1cycUtsYXA4dUlOVTFG?oc=5",
+     "langue": "de",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "vulpia",
+   "nom": "Vulpia",
+   "pays": "Belgique",
+   "sites": 17,
+   "part_loyers": 3,
+   "segment": "sante",
+   "cote": false,
+   "note": "A repris en juillet 2026 l'exploitation du campus Klein Veldekens (auparavant Armonea) : 18 sites depuis lors.",
+   "cours": null,
+   "veille_actualites": true,
+   "actualites": [],
+   "alerte": null
+  },
+  {
+   "id": "attendo",
+   "nom": "Attendo",
+   "pays": "Finlande",
+   "sites": 35,
+   "part_loyers": 2,
+   "segment": "sante",
+   "cote": true,
+   "note": null,
+   "cours": {
+    "symbole": "ATT.ST",
+    "devise": "SEK",
+    "bourse": "Nasdaq Stockholm",
+    "actuel": {
+     "valeur": 133.1,
+     "date_valeur": "2026-11-20"
+    },
+    "periodes": {
+     "1m": {
+      "valeur": 117.3,
+      "date_valeur": "2026-10-20",
+      "variation": 13.47,
+      "unite_variation": "%",
+      "impact": "favorable"
+     },
+     "1a": {
+      "valeur": 80.2,
+      "date_valeur": "2025-11-20",
+      "variation": 65.96,
+      "unite_variation": "%",
+      "impact": "favorable"
+     },
+     "5a": {
+      "valeur": 35.88,
+      "date_valeur": "2021-11-19",
+      "variation": 270.96,
+      "unite_variation": "%",
+      "impact": "favorable"
+     }
+    },
+    "fichier": "loc_attendo",
+    "source": "Yahoo Finance (ATT.ST)",
+    "etat": "ok",
+    "note": "Cours ajusté des opérations sur le capital (divisions, regroupements d'actions, augmentations de capital)."
+   },
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "a80af24742b3",
+     "date": "2026-11-18",
+     "titre": "Attendo to build new care facility in Finland",
+     "source": "marketscreener.com",
+     "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTcwMWRrRnE0Yk40TTFLbVRFMzkyRkZLczNCZ1lOU3M2Yklmc0FtMkNIQVU3RUlaME5kVEtTTkxHLTFsa1lKekZMbUlYR0J4cXZkWVc2X1FkUVgyNHNqTE5ReHM4ekx4S3dLN2FRZHpoVDlYM0Y4UVNjSHRIXzU3VlkxR1ZOalpMY1luY1BaZ200a05SYWZsS1JwZHA1bWc?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "32c29e436088",
+     "date": "2026-11-18",
+     "titre": "Attendo: Attendo is building a new social psychiatry home in Oulu, Finland",
+     "source": "Sharecast.com",
+     "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnJVZHNjbVNYTmpQWnhGTVZZN2NxYUhtZXduS193YXo3VDFHajlBQ01FdDlJOW5BUDEzSnYtNVI5UW1GQk1xZW1kTm5tNWJEZV9sai1hUGpUakd6YjUxdEdUTzZnRVFpOGttQ3M2eU1HSVllUjFmMG1TQVBVY243dmJYYVV1MzRYVEUtaFR5Ylc1R3lybFhseTUwVEJXQmJfRE1nbFpCdWk1Yy1jVUJQNW0xRi1UU1ptWXNFWjQwUm5nQVd4bFJpSEFPTFYySlY0QmRhb2Y1eVZHNHBON0pzUWZtaWMtMmN4?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "f6cea373fcb4",
+     "date": "2026-11-17",
+     "titre": "Dagens industri takes profits in Ambea and Attendo",
+     "source": "www.marketscreener.com",
+     "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWFwNzg4Yk1xNW9OYzVyb2VlWG1WdHd6Um9DNldtYWlUNk5XSHRiRFF5MWYyamlSMFVjNUhreWRtTHpPYTJvakd5MENySmdEbDJ3c1FLWW9qdjd6eWxINXVqbGtHSkFMUGFycEp5bTNWd2kzbmk4NVU0SG95UzRKSTJuWkV4NlBMcDU3QmdTNzFyZWpIdjJHZzhEU09iNmVldXVXb2tR?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "f0c9c316250f",
+     "date": "2026-09-07",
+     "titre": "Sweden: Virpi Holmqvist appointed president and CEO of Attendo",
+     "source": "Investors in Healthcare",
+     "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3EtQjNJWmktaTl6bTFuZ2tTb2s1UVhSaTdSbW11V09hRXNHWUpHakZSbmgyaFdmWFdkbzNWcHdCYUFZR0l4REJDenlLeWVwYVhhYk0zdXBDUFFNZ1hLdHhYZWRQRC1nekNMV3g4MmtvYVZpRTBRejZoLVd0TzF1aF95bEd5WFZ6c05wLXJoSzU0ZTJKZVhnQ3pVZzhDb2g0ekp1eDdmZXBLelBUeU1KNmtRenJxdHRqaVp6YWNPNTg?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  },
+  {
+   "id": "maria_mallaband",
+   "nom": "Maria Mallaband",
+   "pays": "Royaume-Uni",
+   "sites": 18,
+   "part_loyers": 2,
+   "segment": "sante",
+   "cote": false,
+   "note": null,
+   "cours": null,
+   "veille_actualites": true,
+   "actualites": [
+    {
+     "id": "734c20033a35",
+     "date": "2026-11-04",
+     "titre": "Strong Life Care acquires 18 homes from Maria Mallaband Care",
+     "source": "Caring Times",
+     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2tnVzVDMTg0eTRKblBwTU50NmN2WUNqVFBCS19sRWZ1dG13WHZFWlh4TVJkV0JXZUlKSTRuLWxxSXEzaUxZNnZWRDlyMUo1QjZ4b1ZMd1NsM2lhYm5RbjhucmdtY0dHS1JETFA2TDd2ellkNUE0NDJNRE5mb2p6UU9LbVpfOTdYaDlGM2RRMVBHcW1XZkxveg?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "af9e496e1cc4",
+     "date": "2026-11-03",
+     "titre": "Strong Life Care acquires 18 settings from Maria Mallaband",
+     "source": "LaingBuisson News",
+     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDdsWUJBYk9HNEVSLTFWc05EZURTLVBuYVIzMjc0bEdIanFEV3hnUF9FYVhGbWNXNHg1X19oRGdkSUVMejJWaWRpMEU3NXkyNUUyQ3AySlcyUFV1RGhlRTlIMkdZbVRPZlpjcllEUHpFYnpKbXVjSF9rM0luNlppOUFOSEU2b3R1bk40M3ByWGdfeXV2SGxaMkVnX3NKLUxuV25QeDNlTV9RaHRER2RiWmhubw?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    }
+   ],
+   "alerte": null
+  }
+ ],
+ "exploitants_par_pays": {
+  "date": "2026-03-31",
+  "explication": "Aedifica ne publie pas ces chiffres exploitant par exploitant, mais par pays, pour les maisons de repos « stabilisées » (ouvertes depuis au moins deux ans).",
+  "taux_occupation": [
+   {
+    "pays": "Irlande",
+    "valeur": 96,
+    "variation_pb": 170
+   },
+   {
+    "pays": "Espagne",
+    "valeur": 96,
+    "variation_pb": 68
+   },
+   {
+    "pays": "Belgique",
+    "valeur": 93,
+    "variation_pb": -57
+   },
+   {
+    "pays": "Royaume-Uni",
+    "valeur": 90,
+    "variation_pb": 72
+   },
+   {
+    "pays": "Allemagne",
+    "valeur": 89,
+    "variation_pb": 232
+   },
+   {
+    "pays": "Finlande",
+    "valeur": 89,
+    "variation_pb": 192
+   },
+   {
+    "pays": "Pays-Bas",
+    "valeur": 87,
+    "variation_pb": 247
+   }
+  ],
+  "couverture_loyers": [
+   {
+    "pays": "Royaume-Uni",
+    "valeur": 2.3,
+    "couverture_donnees": 100
+   },
+   {
+    "pays": "Pays-Bas",
+    "valeur": 2.0,
+    "couverture_donnees": 35
+   },
+   {
+    "pays": "Irlande",
+    "valeur": 1.8,
+    "couverture_donnees": 99
+   },
+   {
+    "pays": "Allemagne",
+    "valeur": 1.5,
+    "couverture_donnees": 66
+   },
+   {
+    "pays": "Belgique",
+    "valeur": 1.4,
+    "couverture_donnees": 79
+   }
+  ],
+  "source": {
+   "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf",
+   "page": 19,
+   "titre": "Rapport financier semestriel 2026"
+  }
+ }
+}

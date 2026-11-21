@@ -1,0 +1,83 @@
+name: Mise à jour des données
+
+# Collecte les données (cours, taux, actualités…) côté serveur, les enregistre dans
+# data/, puis republie le site. L'application ne fait que lire ces fichiers.
+on:
+  schedule:
+    # Du lundi au vendredi à 17 h 45 UTC, après la clôture d'Euronext (17 h 35) :
+    # 18 h 45 en Belgique l'hiver, 19 h 45 l'été.
+    - cron: "45 17 * * 1-5"
+  workflow_dispatch: # bouton « Mettre à jour » de l'application, ou page Actions de GitHub
+    inputs:
+      complet:
+        description: "Recharger tout l'historique (première fois ou réparation)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # enregistrer (commit) les fichiers de données
+  pages: write # republier le site
+  id-token: write
+
+concurrency: # jamais deux collectes en même temps
+  group: maj-donnees
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Collecter les données de chaque société
+        id: collecte
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # facultatif : option IA
+          COMPLET: ${{ inputs.complet && '--complet' || '' }}
+        run: |
+          echec=0
+          for fichier in societes/*.json; do
+            societe=$(basename "$fichier" .json)
+            echo "::group::Collecte $societe"
+            python collecte/run.py --societe "$societe" $COMPLET || echec=1
+            echo "::endgroup::"
+          done
+          echo "echec=$echec" >> "$GITHUB_OUTPUT"
+
+      - name: Enregistrer les données si elles ont changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Aucun changement dans data/ : pas de commit."
+          else
+            git commit -m "MAJ données $(TZ=Europe/Brussels date '+%Y-%m-%d %H:%M')"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Signaler un échec complet
+        if: steps.collecte.outputs.echec == '1'
+        run: |
+          echo "La collecte d'au moins une société a échoué entièrement (voir le journal ci-dessus)."
+          exit 1
+
+  publier:
+    # Même si une société a échoué, on publie ce qui a pu être collecté.
+    needs: collecte
+    if: ${{ !cancelled() }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml

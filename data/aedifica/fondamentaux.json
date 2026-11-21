@@ -1,0 +1,2355 @@
+{
+ "mis_a_jour_le": "2026-11-21",
+ "source_generale": "Communiqués de résultats officiels d'Aedifica (version française), https://aedifica.eu/fr/communiques-de-presse/",
+ "notes": [
+  "Chaque valeur porte le numéro de page du rapport cité dans « rapport.url » (sauf si la valeur a sa propre « url »).",
+  "Valeur comptable de référence (nta_par_action) : EPRA NTA à partir du 31/12/2020. Avant cette date, l'EPRA NTA n'existait pas : on utilise l'ancien EPRA NAV quand le rapport le publie, sinon l'actif net par action hors instruments de couverture (la mesure qu'Aedifica utilisait elle-même pour calculer sa prime ou sa décote). Le champ « mesure » indique laquelle.",
+  "Le rapport du 1er trimestre 2021 ne publie pas d'EPRA NTA : la valeur est laissée vide et la décote utilise la dernière NTA publiée avant la date.",
+  "Les valeurs de fin d'exercice sont avant distribution du dividende (payé en mai, ou en octobre-novembre avant 2020).",
+  "Unités : €/action pour les valeurs par action ; % pour les taux ; millions d'euros pour les justes valeurs, les actifs détenus en vue de la vente et les cessions ; années pour le WAULT."
+ ],
+ "libelles": {
+  "nta_par_action": "EPRA NTA par action (ou équivalent avant 2021)",
+  "van_ifrs_par_action": "VAN IFRS par action",
+  "nombre_actions": "Nombre d'actions",
+  "taux_endettement": "Taux d'endettement",
+  "epra_ltv": "EPRA LTV",
+  "cout_moyen_dette": "Coût moyen de la dette",
+  "cout_moyen_dette_commissions": "Coût moyen de la dette (commissions comprises)",
+  "ratio_couverture": "Taux de couverture",
+  "juste_valeur_total": "Juste valeur du patrimoine",
+  "juste_valeur_sante": "Juste valeur — immobilier de santé (en exploitation)",
+  "juste_valeur_bureaux": "Juste valeur — bureaux",
+  "juste_valeur_distribution": "Juste valeur — réseaux de distribution",
+  "actifs_detenus_vente": "Actifs détenus en vue de la vente",
+  "cessions_cumul_annee": "Cessions depuis le début de l'année",
+  "resultat_cessions_cumul_annee": "Résultat sur ventes d'immeubles depuis le début de l'année",
+  "taux_occupation": "Taux d'occupation",
+  "wault": "WAULT",
+  "epra_eps_periode": "EPRA EPS depuis le début de l'exercice",
+  "epra_eps_prevision": "EPRA EPS prévu pour l'exercice",
+  "dividende_prevu": "Dividende brut prévu pour l'exercice"
+ },
+ "trimestres": [
+  {
+   "periode": "S1 2014/2015",
+   "date_cloture": "2014-12-31",
+   "date_publication": "2015-02-24",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2014/2015",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2014-2015_FR_Resultats-H1-2014-2015_2015-02-24LV_LDsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 42.88,
+     "page": 23,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 38.63,
+     "page": 19
+    },
+    "nombre_actions": {
+     "valeur": 10924613,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 52.0,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "T3 2014/2015",
+   "date_cloture": "2015-03-31",
+   "date_publication": "2015-05-12",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2014/2015",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2014-2015_FR_Resultats-Q3_2014-2015_2015-05-11c_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 43.58,
+     "page": 11,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 39.22,
+     "page": 11
+    },
+    "nombre_actions": {
+     "valeur": 10924613,
+     "page": 11
+    },
+    "taux_endettement": {
+     "valeur": 52.1,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2014/2015",
+   "date_cloture": "2015-06-30",
+   "date_publication": "2015-09-03",
+   "rapport": {
+    "titre": "Résultats annuels 2014/2015",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2014-2015_FR_Resultats-FY_2014-2015_2015-09-02c_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 45.29,
+     "page": 21,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 42.59,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 14045931,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 37.0,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "T1 2015/2016",
+   "date_cloture": "2015-09-30",
+   "date_publication": "2015-11-17",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q1 2015/2016",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2015-2016_FR_Q1-2015-2016_2015-11-17_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 46.34,
+     "page": 12,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 43.48,
+     "page": 12
+    },
+    "nombre_actions": {
+     "valeur": 14045931,
+     "page": 12
+    },
+    "taux_endettement": {
+     "valeur": 37.6,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "S1 2015/2016",
+   "date_cloture": "2015-12-31",
+   "date_publication": "2016-02-23",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2015/2016",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2015-2016_FR_H1-2015-2016_2016-02-23c_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 45.73,
+     "page": 24,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 42.75,
+     "page": 19
+    },
+    "nombre_actions": {
+     "valeur": 14169939,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 39.9,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "T3 2015/2016",
+   "date_cloture": "2016-03-31",
+   "date_publication": "2016-05-18",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2015/2016",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2015-2016_FR_Q3-2015-2016_2016-05-18b_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 46.12,
+     "page": 14,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 42.91,
+     "page": 14
+    },
+    "nombre_actions": {
+     "valeur": 14192032,
+     "page": 14
+    },
+    "taux_endettement": {
+     "valeur": 42.6,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2015/2016",
+   "date_cloture": "2016-06-30",
+   "date_publication": "2016-09-05",
+   "rapport": {
+    "titre": "Résultats annuels 2015/2016",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2015-2016_FR_FY-2015-2016_2016-09-05_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 47.08,
+     "page": 23,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 43.74,
+     "page": 23
+    },
+    "nombre_actions": {
+     "valeur": 14192032,
+     "page": 23
+    },
+    "taux_endettement": {
+     "valeur": 42.5,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "T1 2016/2017",
+   "date_cloture": "2016-09-30",
+   "date_publication": "2016-11-16",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q1 2016/2017",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2016-2017_FR_Q1-2016-2017_2016-11-16b_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 47.65,
+     "page": 12,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 44.33,
+     "page": 12
+    },
+    "nombre_actions": {
+     "valeur": 14192032,
+     "page": 12
+    },
+    "taux_endettement": {
+     "valeur": 52.5,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "S1 2016/2017",
+   "date_cloture": "2016-12-31",
+   "date_publication": "2017-02-21",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2016/2017",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2016-2017_FR_H1-2016-2017_2017-02-21_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 47.17,
+     "page": 25,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 43.96,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 14380656,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 54.0,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "T3 2016/2017",
+   "date_cloture": "2017-03-31",
+   "date_publication": "2017-05-16",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2016/2017",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2016-2017_FR_Q3-2016-2017_2017-05-15b_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 50.23,
+     "page": 13,
+     "mesure": "Actif net hors instruments de couverture"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 48.16,
+     "page": 13
+    },
+    "nombre_actions": {
+     "valeur": 17975820,
+     "page": 13
+    },
+    "taux_endettement": {
+     "valeur": 39.6,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2016/2017",
+   "date_cloture": "2017-06-30",
+   "date_publication": "2017-09-05",
+   "rapport": {
+    "titre": "Résultats annuels 2016/2017",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2017-2018_FR_FY-2016-2017_2017-09-05_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 51.47,
+     "page": 27,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 49.4,
+     "page": 27
+    },
+    "nombre_actions": {
+     "valeur": 17975820,
+     "page": 27
+    },
+    "taux_endettement": {
+     "valeur": 40.8,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 3.15,
+     "page": 27
+    }
+   }
+  },
+  {
+   "periode": "T1 2017/2018",
+   "date_cloture": "2017-09-30",
+   "date_publication": "2017-11-14",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q1 2017/2018",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2017-2018_FR_Q1-2017-2018_2017-11-14_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 52.22,
+     "page": 23,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 50.13,
+     "page": 14
+    },
+    "nombre_actions": {
+     "valeur": 17975820,
+     "page": 14
+    },
+    "taux_endettement": {
+     "valeur": 42.0,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "S1 2017/2018",
+   "date_cloture": "2017-12-31",
+   "date_publication": "2018-02-21",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2017/2018",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2017-2018_FR_H1-2017-2018_2018-02-21_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 51.69,
+     "page": 27,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 49.55,
+     "page": 22
+    },
+    "nombre_actions": {
+     "valeur": 17975820,
+     "page": 22
+    },
+    "taux_endettement": {
+     "valeur": 44.7,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 1.58,
+     "page": 27
+    }
+   }
+  },
+  {
+   "periode": "T3 2017/2018",
+   "date_cloture": "2018-03-31",
+   "date_publication": "2018-05-16",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2017/2018",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2017-2018_FR_Q3_2017-2018_2018-05-16_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 52.65,
+     "page": 23,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 50.59,
+     "page": 15
+    },
+    "nombre_actions": {
+     "valeur": 17975820,
+     "page": 15
+    },
+    "taux_endettement": {
+     "valeur": 44.6,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2017/2018",
+   "date_cloture": "2018-06-30",
+   "date_publication": "2018-09-05",
+   "rapport": {
+    "titre": "Résultats annuels 2017/2018",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2018-2019_FR_FY-2017-2018_2018-09-05_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 54.02,
+     "page": 30,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 51.74,
+     "page": 30
+    },
+    "nombre_actions": {
+     "valeur": 18200829,
+     "page": 30
+    },
+    "taux_endettement": {
+     "valeur": 44.3,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 3.25,
+     "page": 30
+    }
+   }
+  },
+  {
+   "periode": "T1 2018/2019",
+   "date_cloture": "2018-09-30",
+   "date_publication": "2018-11-14",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q1 2018/2019",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2018-2019_FR_Q1-2018-2019_2018-11-14_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 54.84,
+     "page": 19,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 52.75,
+     "page": 13
+    },
+    "nombre_actions": {
+     "valeur": 18200829,
+     "page": 13
+    },
+    "taux_endettement": {
+     "valeur": 45.9,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "S1 2018/2019",
+   "date_cloture": "2018-12-31",
+   "date_publication": "2019-02-20",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2018/2019",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2018-2019_H1_FR_2019-02-19b_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 54.33,
+     "page": 25,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 51.94,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 18441426,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 47.4,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 1.74,
+     "page": 25
+    }
+   }
+  },
+  {
+   "periode": "T3 2018/2019",
+   "date_cloture": "2019-03-31",
+   "date_publication": "2019-05-15",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2018/2019",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2018-2019_FR_Q3_2018-2019_2019-05-15_BB_LVsec.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 57.69,
+     "page": 19,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 54.75,
+     "page": 12
+    },
+    "nombre_actions": {
+     "valeur": 18441426,
+     "page": 12
+    },
+    "taux_endettement": null
+   }
+  },
+  {
+   "periode": "Annuel 2018/2019",
+   "date_cloture": "2019-06-30",
+   "date_publication": "2019-09-04",
+   "rapport": {
+    "titre": "Résultats annuels 2018/2019",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2019-2020_FR_FY-2018-2019_2019-09-04b_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 60.64,
+     "page": 19,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 58.11,
+     "page": 19
+    },
+    "nombre_actions": {
+     "valeur": 24601158,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 37.2,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 3.74,
+     "page": 19
+    }
+   }
+  },
+  {
+   "periode": "T1 2019/2020",
+   "date_cloture": "2019-09-30",
+   "date_publication": "2019-11-13",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q1 2019/2020",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2019-2020_FR_Q1-2019-2020_2019-11-14_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 62.33,
+     "page": 16,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 59.52,
+     "page": 10
+    },
+    "nombre_actions": {
+     "valeur": 24601158,
+     "page": 10
+    },
+    "taux_endettement": {
+     "valeur": 39.6,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "S1 2019/2020",
+   "date_cloture": "2019-12-31",
+   "date_publication": "2020-02-19",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2019/2020",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2019-2020_FR_H1-2019-2020_2020-02-19_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 62.07,
+     "page": 20,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 59.64,
+     "page": 17
+    },
+    "nombre_actions": {
+     "valeur": 24601158,
+     "page": 17
+    },
+    "taux_endettement": {
+     "valeur": 43.8,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 1.89,
+     "page": 20
+    }
+   }
+  },
+  {
+   "periode": "T3 2019/2020",
+   "date_cloture": "2020-03-31",
+   "date_publication": "2020-05-20",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2019/2020",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2019-2020_FR_Q3-2019-2020_2020-05-19c_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 63.79,
+     "page": 19,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 59.12,
+     "page": 13
+    },
+    "nombre_actions": {
+     "valeur": 24601158,
+     "page": 13
+    },
+    "taux_endettement": null
+   }
+  },
+  {
+   "periode": "12 mois 2019/2020",
+   "date_cloture": "2020-06-30",
+   "date_publication": "2020-09-02",
+   "rapport": {
+    "titre": "Rapport financier de la période de douze mois 2019/2020",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/09/AED_CP2019-2020_FR_12M-2019-2020_2020-09-01b_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 66.16,
+     "page": 25,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 61.66,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 27061273,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 50.1,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 4.0,
+     "page": 25
+    }
+   }
+  },
+  {
+   "periode": "T5 2019/2020",
+   "date_cloture": "2020-09-30",
+   "date_publication": "2020-11-13",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q5 2019/2020",
+    "url": "https://aedifica.eu/wp-content/uploads/2020/11/AED_CP2019-2020_FR_Q5-2019-2020_2020-11-12_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 67.72,
+     "page": 18,
+     "mesure": "EPRA NAV (ancienne mesure)"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 63.21,
+     "page": 12
+    },
+    "nombre_actions": {
+     "valeur": 27496869,
+     "page": 12
+    },
+    "taux_endettement": null
+   }
+  },
+  {
+   "periode": "Annuel 2019/2020 (18 mois)",
+   "date_cloture": "2020-12-31",
+   "date_publication": "2021-02-24",
+   "rapport": {
+    "titre": "Résultats annuels 2019/2020",
+    "url": "https://aedifica.eu/wp-content/uploads/2021/02/AED_CP2021_FR_FY-2018-2019_2021-02-23_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 64.34,
+     "page": 25,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 65.59,
+     "page": 24
+    },
+    "nombre_actions": {
+     "valeur": 33086572,
+     "page": 24
+    },
+    "taux_endettement": {
+     "valeur": 43.2,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 6.14,
+     "page": 25
+    }
+   }
+  },
+  {
+   "periode": "T1 2021",
+   "date_cloture": "2021-03-31",
+   "date_publication": "2021-05-12",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q1 2021",
+    "url": "https://aedifica.eu/wp-content/uploads/2021/05/AED_CP2021_FR_Q1-2021_2021-05-11b_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": null,
+    "van_ifrs_par_action": {
+     "valeur": 67.95,
+     "page": 15
+    },
+    "nombre_actions": {
+     "valeur": 33086572,
+     "page": 15
+    },
+    "taux_endettement": {
+     "valeur": 44.5,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "S1 2021",
+   "date_cloture": "2021-06-30",
+   "date_publication": "2021-08-11",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2021",
+    "url": "https://aedifica.eu/wp-content/uploads/2021/08/AED_CP2021_FR_H1-2021_2021-08-10_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 70.12,
+     "page": 22,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 71.15,
+     "page": 18
+    },
+    "nombre_actions": {
+     "valeur": 36071064,
+     "page": 18
+    },
+    "taux_endettement": {
+     "valeur": 42.0,
+     "page": 1
+    },
+    "epra_eps_periode": {
+     "valeur": 2.02,
+     "page": 22
+    }
+   }
+  },
+  {
+   "periode": "T3 2021",
+   "date_cloture": "2021-09-30",
+   "date_publication": "2021-11-10",
+   "rapport": {
+    "titre": "Déclaration intermédiaire Q3 2021",
+    "url": "https://aedifica.eu/wp-content/uploads/2021/11/AED_CP2021_FR_Q3-2021_2021-11-09d_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 72.2,
+     "page": 27,
+     "mesure": "EPRA NTA",
+     "note": "Tableau EPRA en annexe : « Valeur de l'actif net ajustée (en €/action) », colonne EPRA NTA."
+    },
+    "van_ifrs_par_action": {
+     "valeur": 73.12,
+     "page": 17
+    },
+    "nombre_actions": {
+     "valeur": 36308157,
+     "page": 17
+    },
+    "taux_endettement": {
+     "valeur": 42.4,
+     "page": 1
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2021",
+   "date_cloture": "2021-12-31",
+   "date_publication": "2022-02-23",
+   "rapport": {
+    "titre": "Résultats annuels 2021",
+    "url": "https://aedifica.eu/wp-content/uploads/2022/02/AED_CP2022_FR_FY-2021_2022-02-21c_BB_LV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 76.05,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 76.6,
+     "page": 23
+    },
+    "nombre_actions": {
+     "valeur": 36308157,
+     "page": 23
+    },
+    "taux_endettement": {
+     "valeur": 42.6,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 4896.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 20.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 4.35,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T1 2022",
+   "date_cloture": "2022-03-31",
+   "date_publication": "2022-05-11",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q1 2022",
+    "url": "https://aedifica.eu/wp-content/uploads/2022/05/AED_CP2022_FR_Q1-2022_2022-05-10b_DN.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 78.7,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 80.03,
+     "page": 15
+    },
+    "nombre_actions": {
+     "valeur": 36308157,
+     "page": 15
+    },
+    "taux_endettement": {
+     "valeur": 43.2,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 5014.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 20.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 1.11,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "S1 2022",
+   "date_cloture": "2022-06-30",
+   "date_publication": "2022-08-05",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2022",
+    "url": "https://aedifica.eu/wp-content/uploads/2022/08/AED_CP2022_FR_H1-2022_2022-08-04_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 78.4,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 80.29,
+     "page": 19
+    },
+    "nombre_actions": {
+     "valeur": 39307146,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 41.0,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 5277.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 20.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 2.36,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T3 2022",
+   "date_cloture": "2022-09-30",
+   "date_publication": "2022-11-09",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q3 2022",
+    "url": "https://aedifica.eu/wp-content/uploads/2022/11/AED_CP2022_FR_Q3-2022_2022-11-08_DN.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 80.57,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 83.7,
+     "page": 17
+    },
+    "nombre_actions": {
+     "valeur": 39854966,
+     "page": 17
+    },
+    "taux_endettement": {
+     "valeur": 42.5,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 5644.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 20.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 3.58,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2022",
+   "date_cloture": "2022-12-31",
+   "date_publication": "2023-02-16",
+   "rapport": {
+    "titre": "Résultats annuels 2022",
+    "url": "https://aedifica.eu/wp-content/uploads/2023/02/AED_CP2023_FR_FY-2022_2023-02-15_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 79.71,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 82.37,
+     "page": 20
+    },
+    "nombre_actions": {
+     "valeur": 39854966,
+     "page": 20
+    },
+    "taux_endettement": {
+     "valeur": 43.6,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.3,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.4,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 5704.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 4.76,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T1 2023",
+   "date_cloture": "2023-03-31",
+   "date_publication": "2023-05-10",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q1 2023",
+    "url": "https://aedifica.eu/wp-content/uploads/2023/05/AED_CP2023_FR_Q1-2023_2023-05-09_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 79.95,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 82.85,
+     "page": 15
+    },
+    "nombre_actions": {
+     "valeur": 39854966,
+     "page": 15
+    },
+    "taux_endettement": {
+     "valeur": 43.6,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.8,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 5713.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 1.39,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "S1 2023",
+   "date_cloture": "2023-06-30",
+   "date_publication": "2023-08-02",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2023",
+    "url": "https://aedifica.eu/wp-content/uploads/2023/08/AED_CP2023_FR_H1-2023_2023-08-01b_DN.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 77.19,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 80.48,
+     "page": 19
+    },
+    "nombre_actions": {
+     "valeur": 40234717,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 45.6,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.8,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 5756.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 2.76,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T3 2023",
+   "date_cloture": "2023-09-30",
+   "date_publication": "2023-10-31",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q3 2023",
+    "url": "https://aedifica.eu/wp-content/uploads/2023/10/AED_CP2023_FR_Q3-2023_2023-10-30_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 73.89,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 76.57,
+     "page": 15
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 15
+    },
+    "taux_endettement": {
+     "valeur": 39.7,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.8,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 5836.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 3.95,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2023",
+   "date_cloture": "2023-12-31",
+   "date_publication": "2024-02-21",
+   "rapport": {
+    "titre": "Résultats annuels 2023",
+    "url": "https://aedifica.eu/wp-content/uploads/2024/02/AED_CP2024_FR_FY-2023_2024-02-20_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 74.18,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 75.2,
+     "page": 22
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 22
+    },
+    "taux_endettement": {
+     "valeur": 39.7,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.7,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 5849.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 5.02,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T1 2024",
+   "date_cloture": "2024-03-31",
+   "date_publication": "2024-05-02",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q1 2024",
+    "url": "https://aedifica.eu/wp-content/uploads/2024/04/AED_CP2024_FR_Q1-2024_2024-04-30c_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 75.59,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 76.93,
+     "page": 16
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 16
+    },
+    "taux_endettement": {
+     "valeur": 39.6,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.6,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.8,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 5963.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 1.26,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "S1 2024",
+   "date_cloture": "2024-06-30",
+   "date_publication": "2024-07-31",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2024",
+    "url": "https://aedifica.eu/wp-content/uploads/2024/07/AED_CP2024_FR_H1-2024_2024-07-30_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 73.44,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 74.96,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 42.0,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.7,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 6045.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 2.5,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T3 2024",
+   "date_cloture": "2024-09-30",
+   "date_publication": "2024-10-29",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q3 2024",
+    "url": "https://aedifica.eu/wp-content/uploads/2024/10/AED_CP2024_FR_Q3-2024_2024-10-29_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 75.07,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 75.84,
+     "page": 17
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 17
+    },
+    "taux_endettement": {
+     "valeur": 41.5,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.8,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 6121.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 3.75,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2024",
+   "date_cloture": "2024-12-31",
+   "date_publication": "2025-02-19",
+   "rapport": {
+    "titre": "Résultats annuels 2024",
+    "url": "https://aedifica.eu/wp-content/uploads/2025/02/AED_CP2025_FR_FY-2024_2025-02-18_DN.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 76.63,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 76.61,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 41.3,
+     "page": 1
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.9,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 2.0,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 6218.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 19.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 4.93,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T1 2025",
+   "date_cloture": "2025-03-31",
+   "date_publication": "2025-04-29",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q1 2025",
+    "url": "https://aedifica.eu/wp-content/uploads/2025/04/AED_CP2025_FR_Q1-2025_2025-04-29b_DN.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 77.86,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 77.9,
+     "page": 16
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 16
+    },
+    "taux_endettement": {
+     "valeur": 39.9,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 38.59,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 2.0,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 2.2,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 6121.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 18.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 1.32,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "S1 2025",
+   "date_cloture": "2025-06-30",
+   "date_publication": "2025-07-30",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2025",
+    "url": "https://aedifica.eu/wp-content/uploads/2025/07/AED_CP2025_FR_H1-2025_2025-07-29b_DN.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 75.1,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 74.59,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 42.4,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 41.1,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 2.0,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 2.2,
+     "page": 1
+    },
+    "ratio_couverture": {
+     "valeur": 87.3,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 6164.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 18.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 2.59,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "T3 2025",
+   "date_cloture": "2025-09-30",
+   "date_publication": "2025-10-28",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q3 2025",
+    "url": "https://aedifica.eu/wp-content/uploads/2025/10/AED_CP2025_FR_Q3-2025_2025-10-28c_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 76.58,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 75.97,
+     "page": 19
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 41.2,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 40.2,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 2.0,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 2.2,
+     "page": 2
+    },
+    "ratio_couverture": {
+     "valeur": 87.9,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 6192.0,
+     "page": 2
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 18.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 3.91,
+     "page": 2
+    }
+   }
+  },
+  {
+   "periode": "Annuel 2025",
+   "date_cloture": "2025-12-31",
+   "date_publication": "2026-02-13",
+   "rapport": {
+    "titre": "Résultats annuels 2025",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/02/AED_CP2026_FR_FY-2025_2026-02-12e_BB.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 78.4,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 77.05,
+     "page": 21
+    },
+    "nombre_actions": {
+     "valeur": 47550119,
+     "page": 21
+    },
+    "taux_endettement": {
+     "valeur": 40.8,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 39.7,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 2.0,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 2.1,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 6285.2,
+     "page": 14,
+     "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+    },
+    "taux_occupation": {
+     "valeur": 100.0,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 18.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 5.15,
+     "page": 2
+    },
+    "juste_valeur_sante": {
+     "valeur": 6092.3,
+     "page": 14,
+     "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+     "note": "Colonne comparative du rapport T3 2026 (avant la fusion, tout le patrimoine était de l'immobilier de santé)."
+    },
+    "actifs_detenus_vente": {
+     "valeur": 69.6,
+     "page": 29
+    }
+   }
+  },
+  {
+   "periode": "T1 2026",
+   "date_cloture": "2026-03-31",
+   "date_publication": "2026-05-19",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q1 2026",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/05/AED_CP2026_FR_Q1-2026_2026-05-19_TV.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 80.34,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 79.79,
+     "page": 2
+    },
+    "nombre_actions": {
+     "valeur": 83470544,
+     "page": 19
+    },
+    "taux_endettement": {
+     "valeur": 40.4,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 39.9,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.8,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 2.0,
+     "page": 1
+    },
+    "juste_valeur_total": {
+     "valeur": 12412.7,
+     "page": 15
+    },
+    "taux_occupation": {
+     "valeur": 99.2,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 15.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 1.32,
+     "page": 2
+    },
+    "dividende_prevu": {
+     "valeur": 4.2,
+     "page": 1
+    },
+    "juste_valeur_sante": {
+     "valeur": 10651.7,
+     "page": 15
+    },
+    "juste_valeur_bureaux": {
+     "valeur": 878.0,
+     "page": 15
+    },
+    "juste_valeur_distribution": {
+     "valeur": 469.8,
+     "page": 15
+    },
+    "actifs_detenus_vente": {
+     "valeur": 18.6,
+     "page": 27
+    },
+    "cessions_cumul_annee": {
+     "valeur": 2,
+     "page": 6
+    },
+    "resultat_cessions_cumul_annee": {
+     "valeur": 0.3,
+     "page": 19
+    }
+   }
+  },
+  {
+   "periode": "S1 2026",
+   "date_cloture": "2026-06-30",
+   "date_publication": "2026-09-01",
+   "rapport": {
+    "titre": "Rapport financier semestriel 2026",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 77.82,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 76.87,
+     "page": 2
+    },
+    "nombre_actions": {
+     "valeur": 83470544,
+     "page": 26
+    },
+    "taux_endettement": {
+     "valeur": 42.7,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 42.2,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.7,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 1
+    },
+    "ratio_couverture": {
+     "valeur": 89.6,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 12477.6,
+     "page": 20
+    },
+    "taux_occupation": {
+     "valeur": 99.1,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 15.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 2.71,
+     "page": 2
+    },
+    "epra_eps_prevision": {
+     "valeur": 5.35,
+     "page": 1
+    },
+    "dividende_prevu": {
+     "valeur": 4.2,
+     "page": 1
+    },
+    "juste_valeur_sante": {
+     "valeur": 10706.2,
+     "page": 20
+    },
+    "juste_valeur_bureaux": {
+     "valeur": 874.4,
+     "page": 20
+    },
+    "juste_valeur_distribution": {
+     "valeur": 467.9,
+     "page": 20
+    },
+    "actifs_detenus_vente": {
+     "valeur": 45.8,
+     "page": 54
+    },
+    "cessions_cumul_annee": {
+     "valeur": 27,
+     "page": 8
+    },
+    "resultat_cessions_cumul_annee": {
+     "valeur": 1.2,
+     "page": 24
+    }
+   }
+  },
+  {
+   "periode": "T3 2026",
+   "date_cloture": "2026-09-30",
+   "date_publication": "2026-11-18",
+   "rapport": {
+    "titre": "Rapport financier intermédiaire Q3 2026",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   },
+   "valeurs": {
+    "nta_par_action": {
+     "valeur": 79.19,
+     "page": 2,
+     "mesure": "EPRA NTA"
+    },
+    "van_ifrs_par_action": {
+     "valeur": 78.93,
+     "page": 2
+    },
+    "nombre_actions": {
+     "valeur": 92632604,
+     "page": 18
+    },
+    "taux_endettement": {
+     "valeur": 42.1,
+     "page": 1
+    },
+    "epra_ltv": {
+     "valeur": 41.7,
+     "page": 2
+    },
+    "cout_moyen_dette": {
+     "valeur": 1.7,
+     "page": 2
+    },
+    "cout_moyen_dette_commissions": {
+     "valeur": 1.9,
+     "page": 1
+    },
+    "ratio_couverture": {
+     "valeur": 90.2,
+     "page": 2
+    },
+    "juste_valeur_total": {
+     "valeur": 12587.2,
+     "page": 14
+    },
+    "taux_occupation": {
+     "valeur": 99.2,
+     "page": 2
+    },
+    "wault": {
+     "valeur": 15.0,
+     "page": 2
+    },
+    "epra_eps_periode": {
+     "valeur": 4.12,
+     "page": 2
+    },
+    "epra_eps_prevision": {
+     "valeur": 5.35,
+     "page": 1
+    },
+    "dividende_prevu": {
+     "valeur": 4.2,
+     "page": 1
+    },
+    "juste_valeur_sante": {
+     "valeur": 10801.4,
+     "page": 14
+    },
+    "juste_valeur_bureaux": {
+     "valeur": 872.8,
+     "page": 14
+    },
+    "juste_valeur_distribution": {
+     "valeur": 467.7,
+     "page": 14
+    },
+    "actifs_detenus_vente": {
+     "valeur": 45.4,
+     "page": 24
+    },
+    "cessions_cumul_annee": {
+     "valeur": 55,
+     "page": 6,
+     "note": "27 M€ au 1er semestre + 28 M€ au 3e trimestre. 18 M€ supplémentaires cédés après le 30/09/2026 (p. 7), soit 73 M€ à la date du rapport."
+    },
+    "resultat_cessions_cumul_annee": {
+     "valeur": 1.3,
+     "page": 18
+    }
+   }
+  }
+ ],
+ "evenements_actions": [
+  {
+   "date": "2026-03-10",
+   "nombre": 83470544,
+   "motif": "Offre d'échange sur Cofinimmo : émission de 35.920.425 actions nouvelles (47.550.119 auparavant)",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2026/05/AED_CP2026_FR_Q1-2026_2026-05-19_TV.pdf",
+    "page": 5
+   }
+  },
+  {
+   "date": "2026-07-01",
+   "nombre": 92632604,
+   "motif": "Fusion par absorption de Cofinimmo",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+    "page": 11
+   }
+  }
+ ],
+ "exercices": [
+  {
+   "id": "2014/2015",
+   "debut": "2014-07-01",
+   "fin": "2015-06-30",
+   "dividende_brut": 2.0,
+   "epra_eps": 2.39,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2014-2015_FR_Resultats-FY_2014-2015_2015-09-02c_LVsec.pdf",
+    "page_dividende": 1,
+    "page_eps": 15
+   }
+  },
+  {
+   "id": "2015/2016",
+   "debut": "2015-07-01",
+   "fin": "2016-06-30",
+   "dividende_brut": 2.1,
+   "epra_eps": 2.43,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2015-2016_FR_FY-2015-2016_2016-09-05_BB_LVsec.pdf",
+    "page_dividende": 1,
+    "page_eps": 18
+   }
+  },
+  {
+   "id": "2016/2017",
+   "debut": "2016-07-01",
+   "fin": "2017-06-30",
+   "dividende_brut": 2.25,
+   "epra_eps": 3.15,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2017-2018_FR_FY-2016-2017_2017-09-05_BB_LVsec.pdf",
+    "page_dividende": 1,
+    "page_eps": 3
+   }
+  },
+  {
+   "id": "2017/2018",
+   "debut": "2017-07-01",
+   "fin": "2018-06-30",
+   "dividende_brut": 2.5,
+   "epra_eps": 3.25,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2018-2019_FR_FY-2017-2018_2018-09-05_BB_LVsec.pdf",
+    "page_dividende": 1,
+    "page_eps": 1
+   }
+  },
+  {
+   "id": "2018/2019",
+   "debut": "2018-07-01",
+   "fin": "2019-06-30",
+   "dividende_brut": 2.8,
+   "epra_eps": 3.74,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2020/08/AED_CP2019-2020_FR_FY-2018-2019_2019-09-04b_BB_LV.pdf",
+    "page_dividende": 1,
+    "page_eps": 1
+   }
+  },
+  {
+   "id": "2019/2020",
+   "debut": "2019-07-01",
+   "fin": "2020-12-31",
+   "dividende_brut": 4.6,
+   "epra_eps": 6.14,
+   "mois": 18,
+   "statut": "définitif",
+   "note": "Exercice prolongé de 18 mois (changement de date de clôture). Dividende : 3,00 € (acompte, 12 premiers mois) + 1,60 € (6 derniers mois). Pour les ratios, les montants sont ramenés à 12 mois (× 12/18).",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2021/02/AED_CP2021_FR_FY-2018-2019_2021-02-23_BB_LV.pdf",
+    "page_dividende": 3,
+    "page_eps": 3
+   }
+  },
+  {
+   "id": "2021",
+   "debut": "2021-01-01",
+   "fin": "2021-12-31",
+   "dividende_brut": 3.4,
+   "epra_eps": 4.35,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2022/02/AED_CP2022_FR_FY-2021_2022-02-21c_BB_LV.pdf",
+    "page_dividende": 1,
+    "page_eps": 2
+   }
+  },
+  {
+   "id": "2022",
+   "debut": "2022-01-01",
+   "fin": "2022-12-31",
+   "dividende_brut": 3.7,
+   "epra_eps": 4.76,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2023/02/AED_CP2023_FR_FY-2022_2023-02-15_BB.pdf",
+    "page_dividende": 1,
+    "page_eps": 2
+   }
+  },
+  {
+   "id": "2023",
+   "debut": "2023-01-01",
+   "fin": "2023-12-31",
+   "dividende_brut": 3.8,
+   "epra_eps": 5.02,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2024/02/AED_CP2024_FR_FY-2023_2024-02-20_BB.pdf",
+    "page_dividende": 1,
+    "page_eps": 2
+   }
+  },
+  {
+   "id": "2024",
+   "debut": "2024-01-01",
+   "fin": "2024-12-31",
+   "dividende_brut": 3.9,
+   "epra_eps": 4.93,
+   "statut": "définitif",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2025/02/AED_CP2025_FR_FY-2024_2025-02-18_DN.pdf",
+    "page_dividende": 1,
+    "page_eps": 2
+   }
+  },
+  {
+   "id": "2025",
+   "debut": "2025-01-01",
+   "fin": "2025-12-31",
+   "dividende_brut": 4.0,
+   "epra_eps": 5.15,
+   "statut": "définitif",
+   "note": "Coupon n° 36 détaché le 14/05/2026, payé à partir du 19/05/2026. Net : 2,80 € après précompte de 30 %.",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2026/02/AED_CP2026_FR_FY-2025_2026-02-12e_BB.pdf",
+    "page_dividende": 1,
+    "page_eps": 2
+   }
+  },
+  {
+   "id": "2026",
+   "debut": "2026-01-01",
+   "fin": "2026-12-31",
+   "dividende_brut": 4.2,
+   "epra_eps": 5.35,
+   "statut": "prévision",
+   "note": "Prévisions réaffirmées dans le rapport du 3e trimestre 2026 (EPRA Earnings estimé à 436 millions €). Dividende payable en mai 2027, sous réserve du vote de l'assemblée générale.",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+    "page_dividende": 19,
+    "page_eps": 19
+   }
+  }
+ ],
+ "notations": [
+  {
+   "agence": "S&P Global",
+   "note": "BBB+",
+   "perspective": "stable",
+   "depuis": "2026-07",
+   "detail": "Note à long terme reconfirmée en juillet 2026 (note à court terme : A-2).",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+    "page": 3
+   }
+  },
+  {
+   "agence": "Moody's",
+   "note": "A3",
+   "perspective": "stable",
+   "depuis": "2026-10",
+   "detail": "Première notation d'émetteur, attribuée en octobre 2026.",
+   "source": {
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+    "page": 3
+   }
+  }
+ ],
+ "perspectives": {
+  "exercice": "2026",
+  "revenus_locatifs_m_eur": 656,
+  "epra_earnings_m_eur": 436,
+  "epra_eps": 5.35,
+  "dividende_brut": 4.2,
+  "cessions_prevues_m_eur": 110,
+  "cout_moyen_dette_prevu": 1.9,
+  "taux_endettement_fin_annee": 42,
+  "synergies": "Au moins 16 millions € par an à plein régime, attendus courant 2027 (environ 5,5 millions € en 2026).",
+  "source": {
+   "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+   "page": 19
+  }
+ },
+ "calendrier": {
+  "source": {
+   "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+   "page": 21,
+   "note": "Dates sous réserve de modification."
+  },
+  "evenements": [
+   {
+    "date": "2027-02-17",
+    "libelle": "Résultats annuels 2026",
+    "type": "resultats",
+    "heure": "07:30"
+   },
+   {
+    "date": "2027-03",
+    "libelle": "Rapport annuel 2026",
+    "type": "rapport",
+    "precision": "mois"
+   },
+   {
+    "date": "2027-04-27",
+    "libelle": "Résultats du 1er trimestre 2027",
+    "type": "resultats",
+    "heure": "17:40"
+   },
+   {
+    "date": "2027-05-11",
+    "libelle": "Assemblée générale ordinaire 2027",
+    "type": "assemblee"
+   },
+   {
+    "date": "2027-05",
+    "libelle": "Paiement du dividende 2026 (date de détachement du coupon pas encore publiée)",
+    "type": "dividende",
+    "precision": "mois"
+   },
+   {
+    "date": "2027-07-28",
+    "libelle": "Résultats semestriels 2027",
+    "type": "resultats",
+    "heure": "07:30"
+   },
+   {
+    "date": "2027-10-26",
+    "libelle": "Résultats du 3e trimestre 2027",
+    "type": "resultats",
+    "heure": "17:40"
+   }
+  ]
+ },
+ "patrimoine": {
+  "date": "2026-09-30",
+  "immeubles": 1721,
+  "sites_sante": 930,
+  "pays": 9,
+  "taux_occupation_sante": 99.7,
+  "wault_sante": 16,
+  "source": {
+   "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf",
+   "page": 13
+  }
+ },
+ "exploitants_par_pays": {
+  "date": "2026-03-31",
+  "explication": "Aedifica ne publie pas ces chiffres exploitant par exploitant, mais par pays, pour les maisons de repos « stabilisées » (ouvertes depuis au moins deux ans).",
+  "taux_occupation": [
+   {
+    "pays": "Irlande",
+    "valeur": 96,
+    "variation_pb": 170
+   },
+   {
+    "pays": "Espagne",
+    "valeur": 96,
+    "variation_pb": 68
+   },
+   {
+    "pays": "Belgique",
+    "valeur": 93,
+    "variation_pb": -57
+   },
+   {
+    "pays": "Royaume-Uni",
+    "valeur": 90,
+    "variation_pb": 72
+   },
+   {
+    "pays": "Allemagne",
+    "valeur": 89,
+    "variation_pb": 232
+   },
+   {
+    "pays": "Finlande",
+    "valeur": 89,
+    "variation_pb": 192
+   },
+   {
+    "pays": "Pays-Bas",
+    "valeur": 87,
+    "variation_pb": 247
+   }
+  ],
+  "couverture_loyers": [
+   {
+    "pays": "Royaume-Uni",
+    "valeur": 2.3,
+    "couverture_donnees": 100
+   },
+   {
+    "pays": "Pays-Bas",
+    "valeur": 2.0,
+    "couverture_donnees": 35
+   },
+   {
+    "pays": "Irlande",
+    "valeur": 1.8,
+    "couverture_donnees": 99
+   },
+   {
+    "pays": "Allemagne",
+    "valeur": 1.5,
+    "couverture_donnees": 66
+   },
+   {
+    "pays": "Belgique",
+    "valeur": 1.4,
+    "couverture_donnees": 79
+   }
+  ],
+  "source": {
+   "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf",
+   "page": 19,
+   "titre": "Rapport financier semestriel 2026"
+  }
+ }
+}

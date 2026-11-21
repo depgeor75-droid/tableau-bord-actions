@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Outils locaux
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ne jamais enregistrer de secrets (jetons, clés d'API)
+.env
+*.env
+*.pem
+
+# Cahier des charges : il contient un nom de personne, on ne le publie pas
+SPEC_*.md

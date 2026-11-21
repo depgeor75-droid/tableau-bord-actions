@@ -1,0 +1,6 @@
+{
+ "genere_le": "2026-11-21T11:20:31+01:00",
+ "explication": "Chiffres repérés automatiquement dans les nouveaux rapports. À valider avant intégration dans fondamentaux.json (voir README, « Intégrer un nouveau rapport »).",
+ "dernier_rapport_integre": "2026-11-18",
+ "rapports": []
+}

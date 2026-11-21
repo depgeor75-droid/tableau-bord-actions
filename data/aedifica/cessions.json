@@ -1,0 +1,203 @@
+{
+ "mis_a_jour_le": "2026-11-21",
+ "source_generale": "Rapports financiers 2026 d'Aedifica (T1, S1 et T3). Les rapports donnent un prix par groupe d'actifs, pas par immeuble ; l'acheteur et l'écart avec la juste valeur de chaque vente ne sont pas publiés.",
+ "programme": {
+  "depart": {
+   "date": "2026-03-31",
+   "libelle": "Premier arrêté trimestriel après la prise de contrôle de Cofinimmo (10/03/2026)",
+   "sources": [
+    {
+     "titre": "Rapport financier intermédiaire T1 2026, p. 15 (juste valeur des bureaux et des réseaux de distribution au 31/03/2026)",
+     "url": "https://aedifica.eu/wp-content/uploads/2026/05/AED_CP2026_FR_Q1-2026_2026-05-19_TV.pdf"
+    },
+    {
+     "titre": "Rapport financier intermédiaire T3 2026, p. 9 (engagement envers l'Autorité belge de la concurrence : céder 300 millions € d'actifs de santé belges sur plusieurs années)",
+     "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+    },
+    {
+     "titre": "Autorité belge de la concurrence, communiqué du 21/01/2026",
+     "url": "https://www.belgiancompetition.be/sites/default/files/content/download/files/20260121_Press_release_2_BCA.pdf"
+    }
+   ]
+  },
+  "notes": [
+   "Aedifica n'a pas encore indiqué quelles ventes de maisons de repos belges sont imputées à l'engagement de 300 millions € : elles ne sont donc pas décomptées ici. Le rapport T3 2026 (p. 19) précise que ce désinvestissement « ne devrait pas avoir d'impact sur les revenus locatifs en 2026 ».",
+   "La jauge compare des prix de vente à des justes valeurs de départ : c'est un ordre de grandeur. Le « reste à vendre » exact est la dernière juste valeur publiée des bureaux et des réseaux de distribution (voir le graphique par trimestre).",
+   "Prévision d'Aedifica pour 2026 : 110 millions € de cessions sur l'ensemble de l'exercice, tous segments confondus (rapport T3 2026, p. 19)."
+  ],
+  "blocs": [
+   {
+    "id": "bureaux",
+    "libelle": "Bureaux",
+    "depart_m_eur": 878.0,
+    "segment": "bureaux"
+   },
+   {
+    "id": "distribution",
+    "libelle": "Réseaux de distribution",
+    "depart_m_eur": 469.8,
+    "segment": "distribution"
+   },
+   {
+    "id": "engagement_sante",
+    "libelle": "Maisons de repos belges (engagement envers l'Autorité de la concurrence)",
+    "depart_m_eur": 300.0,
+    "segment": null,
+    "note": "Engagement à céder sur plusieurs années ; Aedifica n'a pas encore indiqué quelles ventes y sont imputées. Pour décompter une vente ici, lui donner « bloc »: « engagement_sante » dans la liste des ventes."
+   }
+  ]
+ },
+ "resultats_sur_ventes": [
+  {
+   "periode": "1er trimestre 2026",
+   "resultat_m_eur": 0.3,
+   "ventes_m_eur": 2,
+   "source": {
+    "titre": "Rapport T1 2026, p. 19",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/05/AED_CP2026_FR_Q1-2026_2026-05-19_TV.pdf"
+   }
+  },
+  {
+   "periode": "1er semestre 2026",
+   "resultat_m_eur": 1.2,
+   "ventes_m_eur": 27,
+   "source": {
+    "titre": "Rapport semestriel 2026, p. 24",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf"
+   }
+  },
+  {
+   "periode": "9 premiers mois de 2026",
+   "resultat_m_eur": 1.3,
+   "ventes_m_eur": 55,
+   "source": {
+    "titre": "Rapport T3 2026, p. 18",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   }
+  }
+ ],
+ "ventes": [
+  {
+   "date_tri": "2026-03-31",
+   "date_affichee": "Mars 2026",
+   "actifs": "5 cafés",
+   "pays": "Belgique et Pays-Bas",
+   "segment": "distribution",
+   "prix_m_eur": 2,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "note": "Vendus avant le point de départ de la jauge (31/03/2026).",
+   "source": {
+    "titre": "Rapport T1 2026, p. 6",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/05/AED_CP2026_FR_Q1-2026_2026-05-19_TV.pdf"
+   },
+   "bloc": "distribution"
+  },
+  {
+   "date_tri": "2026-04-02",
+   "date_affichee": "02/04/2026 – 23/06/2026",
+   "actifs": "Tree Tops (Staffordshire) et Bentley Manor (Cheshire), 02/04 ; Noordduin, « leasehold » du terrain (Koksijde), 17/06 ; Tillens (Bruxelles), 23/06",
+   "pays": "Royaume-Uni et Belgique",
+   "segment": "sante",
+   "prix_m_eur": 24,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "source": {
+    "titre": "Rapport semestriel 2026, p. 8",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf"
+   },
+   "bloc": null
+  },
+  {
+   "date_tri": "2026-06-30",
+   "date_affichee": "2e trimestre 2026",
+   "actifs": "7 cafés",
+   "pays": "Belgique et Pays-Bas",
+   "segment": "distribution",
+   "prix_m_eur": 1,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "note": "Calculé par différence : 12 cafés pour 3 millions € au 1er semestre, dont 5 cafés pour 2 millions € au 1er trimestre.",
+   "source": {
+    "titre": "Rapport semestriel 2026, p. 8",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/08/AED_CP2026_FR_H1-2026_2026-08-31f.pdf"
+   },
+   "bloc": "distribution"
+  },
+  {
+   "date_tri": "2026-07-01",
+   "date_affichee": "01/07/2026 – 13/07/2026",
+   "actifs": "Parc Imstenrade, terrain (Heerlen), 01/07 ; Flatel (Bruxelles), 13/07",
+   "pays": "Pays-Bas et Belgique",
+   "segment": "sante",
+   "prix_m_eur": 10,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "source": {
+    "titre": "Rapport T3 2026, p. 6",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   },
+   "bloc": null
+  },
+  {
+   "date_tri": "2026-07-06",
+   "date_affichee": "06/07/2026",
+   "actifs": "Egmont I et II, tréfonds de deux immeubles de bureaux (Bruxelles)",
+   "pays": "Belgique",
+   "segment": "bureaux",
+   "prix_m_eur": 16,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "source": {
+    "titre": "Rapport T3 2026, p. 6",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   },
+   "bloc": "bureaux"
+  },
+  {
+   "date_tri": "2026-09-30",
+   "date_affichee": "3e trimestre 2026",
+   "actifs": "8 cafés",
+   "pays": "Belgique",
+   "segment": "distribution",
+   "prix_m_eur": 2,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "source": {
+    "titre": "Rapport T3 2026, p. 6",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   },
+   "bloc": "distribution"
+  },
+  {
+   "date_tri": "2026-10-08",
+   "date_affichee": "08/10/2026 – 15/10/2026",
+   "actifs": "Green Acres Care Home (Leeds) et Clarendon (Croydon), 08/10 ; Les Meunières (Lunel), 15/10",
+   "pays": "Royaume-Uni et France",
+   "segment": "sante",
+   "prix_m_eur": 17,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "source": {
+    "titre": "Rapport T3 2026, p. 7",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   },
+   "bloc": null
+  },
+  {
+   "date_tri": "2026-10-31",
+   "date_affichee": "4e trimestre 2026 (en cours)",
+   "actifs": "2 cafés",
+   "pays": "Belgique et Pays-Bas",
+   "segment": "distribution",
+   "prix_m_eur": 1,
+   "ecart_juste_valeur_pct": null,
+   "acheteur": null,
+   "source": {
+    "titre": "Rapport T3 2026, p. 7",
+    "url": "https://aedifica.eu/wp-content/uploads/2026/11/AED_CP2025_FR_Q3-2026_2026-11-18_BB_19.0.pdf"
+   },
+   "bloc": "distribution"
+  }
+ ]
+}
