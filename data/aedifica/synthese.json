@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21T15:44:30+01:00",
+ "genere_le": "2026-11-22T20:00:44+01:00",
  "societe": {
   "id": "aedifica",
   "nom": "Aedifica",
@@ -257,12 +257,12 @@
    "frequence": "jour",
    "actuel": {
     "valeur": 2.5,
-    "date_valeur": "2026-11-21"
+    "date_valeur": "2026-11-22"
    },
    "periodes": {
     "1m": {
      "valeur": 2.5,
-     "date_valeur": "2026-10-21",
+     "date_valeur": "2026-10-22",
      "variation": 0.0,
      "unite_variation": "pt",
      "variation_pb": 0.0,
@@ -270,7 +270,7 @@
     },
     "1a": {
      "valeur": 2.0,
-     "date_valeur": "2025-11-21",
+     "date_valeur": "2025-11-22",
      "variation": 0.5,
      "unite_variation": "pt",
      "variation_pb": 50.0,
@@ -278,7 +278,7 @@
     },
     "5a": {
      "valeur": -0.5,
-     "date_valeur": "2021-11-21",
+     "date_valeur": "2021-11-22",
      "variation": 3.0,
      "unite_variation": "pt",
      "variation_pb": 300.0,
@@ -286,7 +286,7 @@
     },
     "10a": {
      "valeur": -0.4,
-     "date_valeur": "2016-11-21",
+     "date_valeur": "2016-11-22",
      "variation": 2.9,
      "unite_variation": "pt",
      "variation_pb": 290.0,
@@ -2879,9 +2879,25 @@
   }
  ],
  "etat_global": {
-  "niveau": "vert",
-  "message": "Toutes les sources ont répondu : les données sont à jour.",
-  "sources_en_panne": [],
+  "niveau": "orange",
+  "message": "Certaines données sont anciennes ou une source n'a pas répondu.",
+  "sources_en_panne": [
+   {
+    "id": "presse_fr",
+    "libelle": "Presse (FR) — Google Actualités",
+    "message": "« Aedifica » : HTTP 503 sur https://news.google.com/rss/search ; « Aedifica Cofinimmo » : HTTP 503 sur https://news.google.com/rss/search"
+   },
+   {
+    "id": "presse_nl",
+    "libelle": "Presse (NL) — Google Actualités",
+    "message": "« Aedifica » : HTTP 503 sur https://news.google.com/rss/search ; « Aedifica Cofinimmo » : HTTP 503 sur https://news.google.com/rss/search"
+   },
+   {
+    "id": "presse_en",
+    "libelle": "Presse (EN) — Google Actualités",
+    "message": "« Aedifica » : HTTP 503 sur https://news.google.com/rss/search ; « Aedifica Cofinimmo » : HTTP 503 sur https://news.google.com/rss/search"
+   }
+  ],
   "indicateurs_anciens": []
  }
 }

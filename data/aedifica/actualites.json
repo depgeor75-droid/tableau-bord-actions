@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21T15:44:16+01:00",
+ "genere_le": "2026-11-22T19:55:36+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -12,8 +12,8 @@
   "autres": "Autres"
  },
  "synthese": {
-  "debut": "2026-05-21",
-  "fin": "2026-11-21",
+  "debut": "2026-05-22",
+  "fin": "2026-11-22",
   "total": 86,
   "officiels": 15,
   "compteurs": {

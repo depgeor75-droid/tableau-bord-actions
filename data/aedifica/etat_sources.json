@@ -1,9 +1,9 @@
 {
- "genere_le": "2026-11-21T15:44:30+01:00",
- "duree_secondes": 30.6,
+ "genere_le": "2026-11-22T20:00:44+01:00",
+ "duree_secondes": 426.0,
  "resume": {
-  "ok": 26,
-  "ko": 0,
+  "ok": 23,
+  "ko": 3,
   "total": 26
  },
  "sources": [
@@ -26,8 +26,8 @@
    "derniere_valeur": 63.6,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:00+01:00",
-   "derniere_reussite": "2026-11-21T15:44:00+01:00"
+   "verifie_le": "2026-11-22T19:53:39+01:00",
+   "derniere_reussite": "2026-11-22T19:53:39+01:00"
   },
   {
    "id": "cours_ajuste",
@@ -48,8 +48,8 @@
    "derniere_valeur": 63.6,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:00+01:00",
-   "derniere_reussite": "2026-11-21T15:44:00+01:00"
+   "verifie_le": "2026-11-22T19:53:39+01:00",
+   "derniere_reussite": "2026-11-22T19:53:39+01:00"
   },
   {
    "id": "taux_depot_bce",
@@ -64,14 +64,14 @@
      "etat": "OK"
     }
    ],
-   "points": 4708,
+   "points": 4709,
    "premiere_date": "2014-01-01",
-   "derniere_date": "2026-11-21",
+   "derniere_date": "2026-11-22",
    "derniere_valeur": 2.5,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:01+01:00",
-   "derniere_reussite": "2026-11-21T15:44:01+01:00"
+   "verifie_le": "2026-11-22T19:53:43+01:00",
+   "derniere_reussite": "2026-11-22T19:53:43+01:00"
   },
   {
    "id": "estr",
@@ -92,8 +92,8 @@
    "derniere_valeur": 2.441,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:02+01:00",
-   "derniere_reussite": "2026-11-21T15:44:02+01:00"
+   "verifie_le": "2026-11-22T19:53:45+01:00",
+   "derniere_reussite": "2026-11-22T19:53:45+01:00"
   },
   {
    "id": "euribor3m",
@@ -114,8 +114,8 @@
    "derniere_valeur": 2.634682,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:04+01:00",
-   "derniere_reussite": "2026-11-21T15:44:04+01:00"
+   "verifie_le": "2026-11-22T19:53:46+01:00",
+   "derniere_reussite": "2026-11-22T19:53:46+01:00"
   },
   {
    "id": "bund10",
@@ -136,8 +136,8 @@
    "derniere_valeur": 3.32,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:05+01:00",
-   "derniere_reussite": "2026-11-21T15:44:05+01:00"
+   "verifie_le": "2026-11-22T19:53:47+01:00",
+   "derniere_reussite": "2026-11-22T19:53:47+01:00"
   },
   {
    "id": "bund10_mensuel",
@@ -158,8 +158,8 @@
    "derniere_valeur": 3.416,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:06+01:00",
-   "derniere_reussite": "2026-11-21T15:44:06+01:00"
+   "verifie_le": "2026-11-22T19:53:48+01:00",
+   "derniere_reussite": "2026-11-22T19:53:48+01:00"
   },
   {
    "id": "olo10",
@@ -180,8 +180,8 @@
    "derniere_valeur": 4.38,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:07+01:00",
-   "derniere_reussite": "2026-11-21T15:44:07+01:00"
+   "verifie_le": "2026-11-22T19:53:52+01:00",
+   "derniere_reussite": "2026-11-22T19:53:52+01:00"
   },
   {
    "id": "vix",
@@ -202,8 +202,8 @@
    "derniere_valeur": 35.89,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:07+01:00",
-   "derniere_reussite": "2026-11-21T15:44:07+01:00"
+   "verifie_le": "2026-11-22T19:53:52+01:00",
+   "derniere_reussite": "2026-11-22T19:53:52+01:00"
   },
   {
    "id": "vstoxx",
@@ -224,8 +224,8 @@
    "derniere_valeur": 28.3629,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:08+01:00",
-   "derniere_reussite": "2026-11-21T15:44:08+01:00"
+   "verifie_le": "2026-11-22T19:53:53+01:00",
+   "derniere_reussite": "2026-11-22T19:53:53+01:00"
   },
   {
    "id": "bel20",
@@ -246,8 +246,8 @@
    "derniere_valeur": 5797.75,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:08+01:00",
-   "derniere_reussite": "2026-11-21T15:44:08+01:00"
+   "verifie_le": "2026-11-22T19:53:53+01:00",
+   "derniere_reussite": "2026-11-22T19:53:53+01:00"
   },
   {
    "id": "immo_europe",
@@ -268,8 +268,8 @@
    "derniere_valeur": 27.18,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:08+01:00",
-   "derniere_reussite": "2026-11-21T15:44:08+01:00"
+   "verifie_le": "2026-11-22T19:53:54+01:00",
+   "derniere_reussite": "2026-11-22T19:53:54+01:00"
   },
   {
    "id": "care_property",
@@ -290,8 +290,8 @@
    "derniere_valeur": 12.56,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:08+01:00",
-   "derniere_reussite": "2026-11-21T15:44:08+01:00"
+   "verifie_le": "2026-11-22T19:53:54+01:00",
+   "derniere_reussite": "2026-11-22T19:53:54+01:00"
   },
   {
    "id": "welltower",
@@ -312,8 +312,8 @@
    "derniere_valeur": 240.34,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:09+01:00",
-   "derniere_reussite": "2026-11-21T15:44:09+01:00"
+   "verifie_le": "2026-11-22T19:53:54+01:00",
+   "derniere_reussite": "2026-11-22T19:53:54+01:00"
   },
   {
    "id": "eur_gbp",
@@ -334,8 +334,8 @@
    "derniere_valeur": 0.83735,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:10+01:00",
-   "derniere_reussite": "2026-11-21T15:44:10+01:00"
+   "verifie_le": "2026-11-22T19:53:57+01:00",
+   "derniere_reussite": "2026-11-22T19:53:57+01:00"
   },
   {
    "id": "inflation",
@@ -356,8 +356,8 @@
    "derniere_valeur": 4.0,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-21T15:44:10+01:00",
-   "derniere_reussite": "2026-11-21T15:44:10+01:00"
+   "verifie_le": "2026-11-22T19:53:58+01:00",
+   "derniere_reussite": "2026-11-22T19:53:58+01:00"
   },
   {
    "id": "officiel_fr",
@@ -366,37 +366,37 @@
    "etat": "OK",
    "message": "",
    "elements": 61,
-   "verifie_le": "2026-11-21T15:44:16+01:00",
-   "derniere_reussite": "2026-11-21T15:44:16+01:00"
+   "verifie_le": "2026-11-22T19:55:36+01:00",
+   "derniere_reussite": "2026-11-22T19:55:36+01:00"
   },
   {
    "id": "presse_fr",
    "libelle": "Presse (FR) — Google Actualités",
    "categorie": "actualites",
-   "etat": "OK",
-   "message": "",
-   "elements": 86,
-   "verifie_le": "2026-11-21T15:44:16+01:00",
+   "etat": "KO",
+   "message": "« Aedifica » : HTTP 503 sur https://news.google.com/rss/search ; « Aedifica Cofinimmo » : HTTP 503 sur https://news.google.com/rss/search",
+   "elements": 0,
+   "verifie_le": "2026-11-22T19:55:36+01:00",
    "derniere_reussite": "2026-11-21T15:44:16+01:00"
   },
   {
    "id": "presse_nl",
    "libelle": "Presse (NL) — Google Actualités",
    "categorie": "actualites",
-   "etat": "OK",
-   "message": "",
-   "elements": 105,
-   "verifie_le": "2026-11-21T15:44:16+01:00",
+   "etat": "KO",
+   "message": "« Aedifica » : HTTP 503 sur https://news.google.com/rss/search ; « Aedifica Cofinimmo » : HTTP 503 sur https://news.google.com/rss/search",
+   "elements": 0,
+   "verifie_le": "2026-11-22T19:55:36+01:00",
    "derniere_reussite": "2026-11-21T15:44:16+01:00"
   },
   {
    "id": "presse_en",
    "libelle": "Presse (EN) — Google Actualités",
    "categorie": "actualites",
-   "etat": "OK",
-   "message": "",
-   "elements": 22,
-   "verifie_le": "2026-11-21T15:44:16+01:00",
+   "etat": "KO",
+   "message": "« Aedifica » : HTTP 503 sur https://news.google.com/rss/search ; « Aedifica Cofinimmo » : HTTP 503 sur https://news.google.com/rss/search",
+   "elements": 0,
+   "verifie_le": "2026-11-22T19:55:36+01:00",
    "derniere_reussite": "2026-11-21T15:44:16+01:00"
   },
   {
@@ -418,8 +418,8 @@
    "derniere_valeur": 3.264,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-21T15:44:16+01:00",
-   "derniere_reussite": "2026-11-21T15:44:16+01:00"
+   "verifie_le": "2026-11-22T19:55:36+01:00",
+   "derniere_reussite": "2026-11-22T19:55:36+01:00"
   },
   {
    "id": "loc_abinbev",
@@ -440,8 +440,8 @@
    "derniere_valeur": 73.0,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-21T15:44:21+01:00",
-   "derniere_reussite": "2026-11-21T15:44:21+01:00"
+   "verifie_le": "2026-11-22T19:57:24+01:00",
+   "derniere_reussite": "2026-11-22T19:57:24+01:00"
   },
   {
    "id": "loc_emeis",
@@ -462,8 +462,8 @@
    "derniere_valeur": 9.93,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-21T15:44:21+01:00",
-   "derniere_reussite": "2026-11-21T15:44:21+01:00"
+   "verifie_le": "2026-11-22T19:57:24+01:00",
+   "derniere_reussite": "2026-11-22T19:57:24+01:00"
   },
   {
    "id": "loc_attendo",
@@ -484,8 +484,8 @@
    "derniere_valeur": 133.1,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-21T15:44:27+01:00",
-   "derniere_reussite": "2026-11-21T15:44:27+01:00"
+   "verifie_le": "2026-11-22T20:00:07+01:00",
+   "derniere_reussite": "2026-11-22T20:00:07+01:00"
   },
   {
    "id": "locataires_actus",
@@ -493,9 +493,9 @@
    "categorie": "locataires",
    "etat": "OK",
    "elements": 34,
-   "message": "",
-   "verifie_le": "2026-11-21T15:44:29+01:00",
-   "derniere_reussite": "2026-11-21T15:44:29+01:00"
+   "message": "Groupe Clariane : HTTP 503 sur https://news.google.com/rss/search ; Groupe Colisée (Armonea) : HTTP 503 sur https://news.google.com/rss/search ; Groupe emeis (ex-Orpea) : HTTP 503 sur https://news.google.com/rss/search ; Groupe Emera : HTTP 503 sur https://news.google.com/rss/search ; Groupe DomusVi",
+   "verifie_le": "2026-11-22T20:00:43+01:00",
+   "derniere_reussite": "2026-11-22T20:00:43+01:00"
   },
   {
    "id": "rapports",
@@ -503,9 +503,9 @@
    "categorie": "rapports",
    "etat": "OK",
    "elements": 0,
-   "verifie_le": "2026-11-21T15:44:30+01:00",
+   "verifie_le": "2026-11-22T20:00:44+01:00",
    "message": "",
-   "derniere_reussite": "2026-11-21T15:44:30+01:00"
+   "derniere_reussite": "2026-11-22T20:00:44+01:00"
   }
  ]
 }
