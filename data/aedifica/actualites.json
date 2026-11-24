@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-22T19:55:36+01:00",
+ "genere_le": "2026-11-24T04:29:27+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -12,19 +12,19 @@
   "autres": "Autres"
  },
  "synthese": {
-  "debut": "2026-05-22",
-  "fin": "2026-11-22",
-  "total": 86,
+  "debut": "2026-05-24",
+  "fin": "2026-11-24",
+  "total": 90,
   "officiels": 15,
   "compteurs": {
-   "resultats": 13,
+   "resultats": 14,
    "dividende": 3,
    "cessions": 0,
    "acquisitions": 23,
    "financement": 8,
    "locataires": 0,
-   "cofinimmo": 11,
-   "autres": 28
+   "cofinimmo": 12,
+   "autres": 30
   },
   "par_mois": [
    {
@@ -64,9 +64,10 @@
    {
     "mois": "2026-08",
     "libelle": "août 26",
-    "total": 3,
+    "total": 4,
     "officiels": 1,
     "par_categorie": {
+     "resultats": 1,
      "acquisitions": 2,
      "autres": 1
     }
@@ -74,10 +75,10 @@
    {
     "mois": "2026-09",
     "libelle": "sept. 26",
-    "total": 19,
+    "total": 18,
     "officiels": 3,
     "par_categorie": {
-     "resultats": 4,
+     "resultats": 3,
      "dividende": 2,
      "acquisitions": 5,
      "cofinimmo": 3,
@@ -98,14 +99,14 @@
    {
     "mois": "2026-11",
     "libelle": "nov. 26",
-    "total": 21,
+    "total": 25,
     "officiels": 2,
     "par_categorie": {
-     "resultats": 8,
+     "resultats": 9,
      "dividende": 1,
      "financement": 2,
-     "cofinimmo": 1,
-     "autres": 9
+     "cofinimmo": 2,
+     "autres": 11
     }
    }
   ],
@@ -120,23 +121,23 @@
  "synthese_ia": null,
  "articles": [
   {
+   "id": "32622d2eae2e",
+   "date": "2026-11-23",
+   "titre": "Aedifica, BASF, CMB. Tech, l'indice Ifo... Ce qu'il faut suivre ce mardi 24 novembre",
+   "source": "L'Echo",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRNZldHckNFZ21hQ0U3NGpXbS1rSHZhZEVNeGh4dkQ4ZU9KMjFhSk9tZ1NRU3NLbUV4NUwzeDFMeHNWbURUQnRzTlM5VlhVZFZXVjJqYmd2YUw1VTZMbjhPVV9VX2kzSkVjaEFiM2V1VUYwUXo3SUhiS3YtM0hHZkl5ZXQ5ZGJ3X0V3MW9YUnlDU0ZXc2xweTQtTlkwSy05Mmh4c05lYU5uU3hwTmZWUmZ0NnFFek1pSi13Rk1jcUtERm5sUUlfd1pGdw?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-24"
+  },
+  {
    "id": "1d58904d3832",
    "date": "2026-11-20",
    "titre": "De Belegger Aan Tafel onder meer over Anthropic, Nvidia, EVS, Aedifica en de tik voor bitcoin",
    "source": "De Tijd",
    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmFzQ1pSVnc5dVpScjJVTDMxNUNiX09VaXFpbzZEYlNmZW9RaFpZMGhUS1BFSm9IcGhOS05EZjN5aC04RG5oYUppVmNCYUxWME5FOXhFWU0xVXQxMUF4bVB1dnZlbXhNZl9jQnZwYUpJcTBiQ0FDVkNackQ3N05YajB2VGdMQllBZ1RFcm51OTdpbUQwUjJ5OUFqUnF5SGVjMTFXeS1rSDJoQndDdXVHTVRCUmk4ZnR1QUNfOEZLR0Z0N2Z5Z29RaUNFRnhKZzA3dFk5eUU1NkZ5T1Z1VU9z?oc=5",
-   "langue": "nl",
-   "extrait": "",
-   "officiel": false,
-   "categorie": "autres",
-   "vu_le": "2026-11-21"
-  },
-  {
-   "id": "1584fbac7008",
-   "date": "2026-11-20",
-   "titre": "AB InBev en Aedifica wegen op Bel20",
-   "source": "De Tijd",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnhxeTZpaUdzWmlrRm9PaWE5RzluazhnOGlma3BoZFlHdDA1OGhwZ0xleUY2MnBIU3RJS29tRWFCUTVKOTVQRUlfMUZvcWFUbUV4azlTQ3pGa0d4cjcwQkpreVRMZlNLVy1WUkQzSDZkVUJLYWF2UXJMcU4zMUFUMkRabmtsWTI2bjN3MXNla285SklfWVdyVG9aMGFIb3Fkdm5lR01jVm1Kdw?oc=5",
    "langue": "nl",
    "extrait": "",
    "officiel": false,
@@ -150,6 +151,30 @@
    "source": "Yahoo Finance Singapore",
    "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vQjZ3b09hWUtQbHlaVTZjX0E2MUJRUTBNSWRPXzlmWEV2cklWbldjNkRkLXhhdmZweW90YUNPQ1ZBTWZyMUZzN3otQXVDWlVLZHd4clNqcGZSbXRvNUQxUDFUUDBKMTZl?oc=5",
    "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-21"
+  },
+  {
+   "id": "a153e8363812",
+   "date": "2026-11-20",
+   "titre": "Aedifica : Advies, analyses en beleggersinformatie",
+   "source": "De Belegger",
+   "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Z2lCS2tqcWRDZUNWOVJpSVRENVp4MEprTldMOWVyRUtNNjUwamdrdUwydGJNX3JiRWF2Sm9uXzJnYVRTTGFlMnBONjhKMkNtRzdDVG52a0RfeC1EUWc?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-24"
+  },
+  {
+   "id": "1584fbac7008",
+   "date": "2026-11-19",
+   "titre": "AB InBev en Aedifica wegen op Bel20",
+   "source": "De Tijd",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnhxeTZpaUdzWmlrRm9PaWE5RzluazhnOGlma3BoZFlHdDA1OGhwZ0xleUY2MnBIU3RJS29tRWFCUTVKOTVQRUlfMUZvcWFUbUV4azlTQ3pGa0d4cjcwQkpreVRMZlNLVy1WUkQzSDZkVUJLYWF2UXJMcU4zMUFUMkRabmtsWTI2bjN3MXNla285SklfWVdyVG9aMGFIb3Fkdm5lR01jVm1Kdw?oc=5",
+   "langue": "nl",
    "extrait": "",
    "officiel": false,
    "categorie": "autres",
@@ -276,6 +301,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "5a55cb8b1e5b",
+   "date": "2026-11-19",
+   "titre": "Zorgvastgoedgroep Aedifica plukt al de vruchten van de fusie met sectorgenoot Cofinimmo. We behouden ons advies",
+   "source": "De Belegger",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEwzQzRtTTJoUXp4Ui00N2ZpMURHOTMtZXdZNmpkbUVVZnRoaVRLSjUybzFFemR6emNNZjRqOTJFMFFXWUplUGNubEQ0azgtOHBSSzdlUXotZGtNQUhJUDdNZTdicHhGaWlHZTVfTzJ3QVI5SU1ZYWxWNzlzU3h5ZFp2TlV3MHJ2S3NQTXdOZjQ1V3djZHhadzFpTDM2bFlsdERLWjJEZFRMQ05yazF4OTRZTl9xa3BRMmtwVnhZaVVvN0llRkRDUXdWVkQtX2VTSW82dTJqQ1pWLW9UZjFtYmpOUGZwUU82RTk1MVFwTnQ1bW15aHNXOXB0RQ?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-24"
+  },
+  {
    "id": "f6a1e479e9cd",
    "date": "2026-11-18",
    "titre": "Rapport financier intermédiaire Q3 2026",
@@ -334,6 +371,18 @@
    "officiel": false,
    "categorie": "resultats",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "eef7b4ec3a77",
+   "date": "2026-11-18",
+   "titre": "Aedifica bevestigt outlook na hogere winst",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjZQbkpHNnJxUTVRbF9pVWszdXFVdEJ6WWtxZU8zS2NWbTZKbHhQUlQzS0ZURmxxTWcyQVk1aXJyTG52SFhfQVVwU2Q2WFN6Z0lXbkRTUWUwUnkxS1VKYWVhNGlpbU1XUFpNMWQxNE1MVFI1Sk4xS2FHbExuMjZpNDlxTEdjc2J0M2JUbnpLUklhZw?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "resultats",
+   "vu_le": "2026-11-24"
   },
   {
    "id": "36add829d856",
@@ -744,18 +793,6 @@
    "vu_le": "2026-11-21"
   },
   {
-   "id": "41343428e3ad",
-   "date": "2026-09-01",
-   "titre": "Aedifica NV/SA: 2026 half year financial report",
-   "source": "GlobeNewswire",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3lJS3pUVFR1Wm5LckpMZ3ZFZWFlaU91aWNaY2ZoXzlXVzdBOGQwNFJMQ0RTWFhCc291ZEpzZGY1Rk5xT2FERHA0WHNPY0JvOU1PN284T1ItQXpFY0pEZE9jVFpJZDByLVBLY0lYYWpOR01Oel83c1V4Q2JuOUhkSTczaVhVeTdVbGM3TS11Sm9qMWFQWUdNdl9fUUJCMmQtR20zbHhPWldBZnZkcTBYYkRrZlV4NklPSUE?oc=5",
-   "langue": "en",
-   "extrait": "",
-   "officiel": false,
-   "categorie": "resultats",
-   "vu_le": "2026-11-21"
-  },
-  {
    "id": "f25f8f736a84",
    "date": "2026-08-31",
    "titre": "Aedifica, Ekopak, Shein, l'inflation en zone euro... Ce qu'il faut suivre ce mardi 1er septembre",
@@ -766,6 +803,18 @@
    "officiel": false,
    "categorie": "autres",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "2b87f97720e0",
+   "date": "2026-08-31",
+   "titre": "Aedifica NV/SA: 2026 half year financial report",
+   "source": "Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MM3lHZnYwRlVGWlhRNmNGNTVNczVwWEExRW5DTi1lWm5iWlU4Q24tVUFjZGs3dzJzSGQ2U2l4X3NEaDlqSXc1SVNxWlI3VUVEcGxYUFVnaDd4c3JDNWg4dms4Y1FVc0RHdjJYOUZVQTRjOVo1Z2RVRzlUWDRBdw?oc=5",
+   "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "resultats",
+   "vu_le": "2026-11-24"
   },
   {
    "id": "079545d78aa2",
@@ -1176,6 +1225,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "5d913ade0b97",
+   "date": "2026-05-20",
+   "titre": "Aedifica, CFE en Atenor profiteren van kwartaalupdate",
+   "source": "De Tijd",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2FnSWU3VElRVEY2RkFTS2kxa2xnNnlNYXlCVTdzaFZtZF9GanFjS2ROWl9RTWxEdE55QWNWQ1JWZndVVzlBVFBhY3I1RnJrVmo1aGFIQTFteXlJQm1Mb3JRaHdxQnhBY2pxeG93clVfMVJpUGs1S1JaaEVUbDdSeG0xTDFrQ0Z2UUxCTXlZNEdhenhmN1E3TmptR05GOGN2aEdTRTUwRFZiT3AxeUxZYl9GQjFOMnkzYW5mNVRNcmk?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "resultats",
+   "vu_le": "2026-11-24"
+  },
+  {
    "id": "cdc00fcebeae",
    "date": "2026-05-19",
    "titre": "Rapport financier intermédiaire Q1 2026",
@@ -1191,8 +1252,8 @@
    "id": "0e9ba2d609a8",
    "date": "2026-05-19",
    "titre": "Aedifica groeit door overname Cofinimmo",
-   "source": "deaandeelhouder.be",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjNUaWlKOEgyVjFnUEZKa2F2dU5EeElVMXJIaGJTUlpxT2U3emxjQzgwRTJyeVRjTWswTjc3ZjNuLXhxV1E4ZF9CR09ENlJtWXRWWlAxWWhwajJTUjJYX29LYUpEUV8yWUJuY2RxQWh3dXpXNzRzZ3N1bnlZckpuUkNPT2dIZzJVU05XakhCUTlfMUk?oc=5",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMHltazBmUEZMdFJITVJCVUJqdy1ROHNsTU9JbTlyRzZYdUs2Sm52aUt6X1pUYVkwTzhRS3dDNXdOSkE4VnVINEVJWVVUVXppb0VEVnZ2bzJCeHJ5cmJUdWZRd1ZGaEhZMXpCTTVvUENFdDZwRm9rY04tU0lrOVo4d2hUZTB4ODNEM1UtWnVn?oc=5",
    "langue": "nl",
    "extrait": "",
    "officiel": false,
@@ -1258,6 +1319,30 @@
    "officiel": true,
    "categorie": "autres",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "8b73ad5715c8",
+   "date": "2026-03-31",
+   "titre": "Action Aedifica | Cours AED Bourse Euronext Bruxelles",
+   "source": "Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91alZfVWF4OWxTTXNkendVdXlGUExvcUlfVFh6Sy11RVAxa1ltb1pTZHlMNG44ZlFsRGNvYzhjOFlBejd5UzhfMFpmT3pKVENzVEl3ZFVkZ2hHQzZpUFBUZ3VHSGdrZw?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-24"
+  },
+  {
+   "id": "2d9a4f091353",
+   "date": "2026-03-31",
+   "titre": "Aedifica: Objectif de Cours et Consensus des Analystes | AED | BE0003851681",
+   "source": "Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBudFNYZ0p1RkFBYm55XzhiWWxnRDI3NjZCVTdOdDZKNmV3UkFMb09GaGZVNmNVcUV6Y1p6VS1IR2lxSlpRMkxaUW1PemZOaTBoZ3ItQTJrcVFWSkNRcUVwOU11NmMyWnhqLTUwMVBsS0o5Wm8?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-24"
   },
   {
    "id": "ceac5b1093c1",
@@ -1359,7 +1444,7 @@
    "id": "db5dda53c635",
    "date": "2026-03-10",
    "titre": "Aedifica verwacht fusie met Cofinimmo in tweede jaarhelft af te ronden",
-   "source": "made-in.be",
+   "source": "Made in",
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem4xRlI4ZHhWQ05adnFoazF0bERMSkJ5NXRFaEpyOW9zRHBRN1pyc3EySXRkeURzZS04b28yUXJqUEFhZnAzREtLa210Qzc4b19CVDY4aFJHT1JSTXB6VUg3RXB3RWstWnFkZ0FtTFRpQTZmZ1JiYlBWNlkwX2tCT045VFBfZnRQNUZ2R01QanVDWjdXZWhZNlVQLVNiVVY1LXcyZFpIQXlnTTVBYVE?oc=5",
    "langue": "nl",
    "extrait": "",
@@ -1474,6 +1559,18 @@
    "officiel": false,
    "categorie": "autres",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "5eaac69df642",
+   "date": "2026-02-17",
+   "titre": "Aedifica in de wachtkamer voor overname Cofinimmo",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGNfdzdkY3dNUmxUckpwRUxtek5KRFpiZkJxc1NnaUxFMU1Sa05BWFVwTXNvaHpBNDlxdUo1V1NGRks3NnVXMko1LTFRSGhkZGE2NmFhREJJQm9zaDRkd3V5ZTZCNUVmWk90NFB6bG1JdXJFam91ZWh4Sm5VN0dGU1VIWmtCUjlQcVVudnNaRnVqV0Q2SkxZS2NpcTczS0JaZFJMcXB6MA?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-24"
   },
   {
    "id": "e1b95554e92e",
@@ -1666,6 +1763,18 @@
    "officiel": false,
    "categorie": "cofinimmo",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "1204e8c54301",
+   "date": "2026-01-29",
+   "titre": "Vrijdag start bod Aedifica op Cofinimmo: ‘Beursexit? Een hoogtheoretisch scenario’",
+   "source": "De Tijd",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDlsWVZ1dkNKbEpTMDQwbV9yVWdnRV9tQ2ZRMll3ZnBKTHNVdVRmeUxjYVcwYzZLVV9RTUR5b0JRZG1pa0x3SGdIRFBWYWVhcVItVXFUM09RYVBBZzJrNXZtQms3LVUtYVpkQURWeVR1NXBrN1hpSmE4X1ZmMjUxQ0JWeWZxOHhhNHB0Sk9jTWoxSUV5U05jcHFRaHNHMVdJMHF3bDVLWU9hS2VGVnF1NG5rRjBSRWQxb2N5cDZpWmxoTVp5cHQyeUM2aHU?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-24"
   },
   {
    "id": "9f826eb1f087",
@@ -2004,6 +2113,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "edc7d555f2e7",
+   "date": "2025-10-14",
+   "titre": "Aedifica : la peur en bourse est exagérée",
+   "source": "Trends-Tendances",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KSm1OMnVJM1NNNldGb2JwZE5hV1RHbzZCQ3F2TVJLYTM2NnlZMFFzNFd6VHJ3OW5VR01CejF0MkRIdEprRTd5dUI3MldnWW5BQXNFaDBpcW5xRUR6d1E2RWN5LXlpaXQ2TmFIX0FpTUlmbXVQaEpzMjZNWQ?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-24"
+  },
+  {
    "id": "0575be5c4ee9",
    "date": "2025-10-10",
    "titre": "Publication relative à une notification de transparence (BlackRock, Inc.)",
@@ -2103,7 +2224,7 @@
    "id": "a9b20206aeac",
    "date": "2025-07-13",
    "titre": "Aandeelhouders Aedifica stemmen in met fusie met Cofinimmo",
-   "source": "made-in.be",
+   "source": "Made in",
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzUwZ0hGLXdmLVJYOHFVWG5FUzUySV9ZSVZLa0NLeEM5Rm5RWDhtaFEwdGl6OHBsSTNjeEVJSUNuSFVUV2F2T21ILVNsWktyZ1NfWFRzNEFrMHBqY3BxU1BIYUtERXJSM0tPNHpXbk5zYVdLa3cxdmdaeHdjTTFpYXJTalVWYUhFRjJFVTBDR3R2Vl9RcUVPVjhVM09Udw?oc=5",
    "langue": "nl",
    "extrait": "",
@@ -2163,7 +2284,7 @@
    "id": "91a5e0d844bb",
    "date": "2025-07-11",
    "titre": "Aedifica shareholders approve merger with Cofinimmo",
-   "source": "Paperjam",
+   "source": "Paperjam.lu",
    "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnp3S1ZWRGhqSHFqUUVvcFB5NFhZblhxNUtnWWdnU3JuOW1xNkdKVTd1MFdHRzA2NDF0RGh6Q0hVTWcwMmstVWNOckFyQVlTTHZJeFFYQmRGUkJyWUVGTG93UUJBV2stMW5PYUtlc19VNFhGMlJLS2hTa3lDdU1BM3g4OVlpSlVMUlE?oc=5",
    "langue": "en",
    "extrait": "",
@@ -2604,6 +2725,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "9b1da5bc34c5",
+   "date": "2025-05-14",
+   "titre": "Le CEO de Cofinimmo appelle les actionnaires à être \"vocal\" face à l'offre d'Aedifica",
+   "source": "La Libre.be",
+   "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTVBIdUc1OFl3UEJod2lFRnZlUGJta3dRdGRKMUhxRTNwRmdJSGZPT0NZNERJSU1ZOEFtTGtGMmlsQk5TMi1iY2taaFlIc0xmZE1FQlhZMF8yUmNoYVJXMmdVbmNiRVEtRkhrZTRRU3UxTXpYbElGT29keGNhaDE3TlpPd1BCMGlDcmtRMmRtOXlBcE95blVFekl4UG9yQzdDVDRRN1B4bk5rQ3JDbEt1Mll4aE1HdU4tSE5qWFN3N3IzVThVYlVWVWxkNzVtNFB6NHhvOF84U0gtWHhuLWhPVVZaVFlkRERFWV8xXzNrcnppdHp6RHZxcFhHUG5pZDAxa1E?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-24"
+  },
+  {
    "id": "8186a10b8540",
    "date": "2025-05-13",
    "titre": "Assemblée générale ordinaire du 13 mai 2025",
@@ -2722,6 +2855,18 @@
    "officiel": false,
    "categorie": "acquisitions",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "bf6d369e2992",
+   "date": "2025-05-09",
+   "titre": "Euronext Brussel: Aedifica onder druk nadat Cofinimmo bod afwijst",
+   "source": "De Tijd",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNlExbW1oUUVPY3U1MjZTZjUtelBob09LTGNtVmp4dG1JLTJDNWd1dTNMckxDZXQ1VThFTDNBR1gyelpwczNTNUIyWVRUQ0V1SXlwaHlYNXJnc3VEWVRBTmxZVmhhXzNMaFZRd1VFYUhoamhlZVZqbG5Fby1OUXE1amc2WG52R3ZfeUE2Y2EtcFM1TmpYZV9VRWFMX1loeTBEYkdKQzdBdWJSV20wQ2JmU0d0aVN2ZEZYZ3lUYUNuU1YzX3pRUFE?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-24"
   },
   {
    "id": "608cff732993",

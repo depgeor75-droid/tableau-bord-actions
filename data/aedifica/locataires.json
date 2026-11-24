@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-21T15:44:29+01:00",
+ "genere_le": "2026-11-24T04:29:40+01:00",
  "date_parts": "2026-06-30",
  "source_parts": {
   "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
@@ -66,6 +66,16 @@
      "mots_risque": []
     },
     {
+     "id": "f8eac6a106b8",
+     "date": "2026-11-20",
+     "titre": "L'action Clariane bondit de 7,56 % après un désendettement finalisé en avance",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmV1Ry1IUXJ6RlFQdjZCZWt4VFBZaGhkVFdRSno2WmpNY2xHRHBUWERFXzk5d3lUU0g3WmtERFFwUUFDN24xOVY3RGw0TTFDemRHTGw2ZUxxc0M3YmpIMlFCdUF2MXFZUGNkcnQ4Sy00YUc5UEtGdjlpQVl4WVFBaG5Vdk5wRXFPbWg3bS1OemMxVWN4RjljTHRLdFA5YVFSa1NobVZvZkZlaXR3NjBNM255aDJwSW96UldrUjQ3RkhNX0k?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
      "id": "de18a588c22d",
      "date": "2026-11-13",
      "titre": "L'action Clariane dans le bas du SBF 120, mais toujours à +2,5 % sur un mois",
@@ -124,16 +134,6 @@
      "langue": "en",
      "risque": false,
      "mots_risque": []
-    },
-    {
-     "id": "88307dbd5ef7",
-     "date": "2026-11-03",
-     "titre": "L'action Clariane reprend 1,5 % mais perd près de 20 % sur le trimestre",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjU1cTZNUlZDZ0Ezam9lNGQ1b1hYVzlDM2RlSk9PWlc4NUVrOC1PRTlycTRRVjZKOUVwZHpnMW1RRWpuSk1fenVTMFNPMXZCbFBqUG1yR2hOVVUtd2VvdksxZmNXck1NTzc4cEZOR1IzVkdEMG96SG5ZSEpFc3MtQzRzUGw3cGc0SmRGa1Q0M2lIVUU0Z0lIM0J6bWFBeW9vUVFzZTN2TDcxU0hyZXJrVFdiQVhoMlVWcFpCUA?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
     }
    ],
    "alerte": null
@@ -156,6 +156,16 @@
      "titre": "Comment Colisée soigne son redressement",
      "source": "L'Agefi",
      "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUIzVVRlOWRqVHZZck1vbGxJWFRqSDczVVFVb19YLW1RSkxVejRWU2tIdWwtWHZKZEVBZnllREt5REFEWWRlY0o4T0UwdFJLTTAtQWdWTkFXdDN3RVQwdDktQUIwYVFJcFl0dDdvM2Q2XzhXamVQczM4MWVDYnV6V0NYd1Y0Qmd1aWVtNg?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "e673c365e865",
+     "date": "2026-09-03",
+     "titre": "Colisée, EHPAD Les Jardins d’Ariane",
+     "source": "L’Écho Républicain",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjZzck5CYmxKT2U4LTNEb0RoRjM5Z2ZYREEybFpDN1NqbDhOS1kyX09oWmdqYW96QVpubGs3VHc0R2ZBTjEwWDZEWXUyTS1qeWl5OE1xRGIzUkliN0J0M3Z5eFk3bng3MWM5QkJrMnNrVUJHbDRQcFhsUkFlOWRiQ1lXRVRKTXJFZmpra09QcTdJQlRXQ2ZiQzMtcHdSZjNl?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -260,6 +270,16 @@
    "veille_actualites": true,
    "actualites": [
     {
+     "id": "90cafa5a1a46",
+     "date": "2026-11-23",
+     "titre": "L'action Emeis se reprend après un trimestre difficile",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXBGZnNBbHgtQlA2TzJKZ1VMcjgwZDJXenotQWVXWDdMT1hlazBCbWQxQWJhU1UzcmdsWXZHQkJaUVBBUUk0MV9YcXNfRTFXZ2NGUWVnUW9hcEo2c09pQUwwQmhFSzhFNk5CRm1qbF9LTXY4OHFNMXFlZExOZ1NOYWNKc2FtcndUYjMwU0pYREtsblJ3Q2dMeXVUc3kxTm0wZVB2aG8tSG1KenFk?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
      "id": "9d28aab0f7e5",
      "date": "2026-11-17",
      "titre": "L'action Emeis lâche 28,5 % sur trois mois et repasse sous sa MM20",
@@ -325,16 +345,6 @@
      "titre": "SBF 120 - Les actions à suivre vendredi: Axa, Eutelsat, Emeis, Engie, Imerys, TF1, Vusion",
      "source": "Investir Les Echos",
      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUk1ELUpwbVh3bTVKa3owS1I4aFZwQURPMm1EMW1xQTJXRTJsUWotWEFKN0c0OFRrV3liek4wdnUzdkhvUGFGY0hacmZwMDg1b0w3YXh1c0hxa2N1UkxDcVQtVmxDcHFZZTRZS2J6NVl4TFM1RDZzNnVCNFJSR1cxOTZyRFdrYUtDVEl6QXcyNnRvQmR4aVptUjdncVBkYmRYYzhEaFlZQmkzc3h4QThKbXBLZDV1Z080cFkwQ00xb2pxVnBzU09OZ2pDTWRIZ18zVVBrWjNQRWxRajh2bjZBcTBfMzJKcV9I?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "849694765e35",
-     "date": "2026-10-29",
-     "titre": "Emeis : chiffre d'affaires en hausse organique de 6 % sur neuf mois, occupation à 90,2 %",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWF3dlBKRkt6NUdWWTdTd2Q3TXRUODEtNTZaUUdRVGFWOHBBUjVHNWVOWFBKTDVSOWM3Z1VzakYzV1hhOUozcTVWdW5mM0NwNE5iWS10ajR5MFlwdGV6bm02Uk1pZmxGWFhoV0xhV21iMVJQM3o2d3FOeTdnb2dLUWV3YjhpZHFSdlJ0UThpRlJKV3Y3SUFLYnhvbm5QM0RuYU5Fd04tZFJ3dmNwUzBiX0gtQks5QjFuTnJfSEtXbzJBY2RTbWd0ZzJ4T3BKWWs?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
