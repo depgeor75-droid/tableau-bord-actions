@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-24T04:29:40+01:00",
+ "genere_le": "2026-11-25T02:38:06+01:00",
  "date_parts": "2026-06-30",
  "source_parts": {
   "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
@@ -22,28 +22,28 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 3.264,
-     "date_valeur": "2026-11-20"
+     "valeur": 3.326,
+     "date_valeur": "2026-11-23"
     },
     "periodes": {
      "1m": {
-      "valeur": 3.276,
-      "date_valeur": "2026-10-20",
-      "variation": -0.37,
+      "valeur": 3.144,
+      "date_valeur": "2026-10-23",
+      "variation": 5.79,
       "unite_variation": "%",
-      "impact": "defavorable"
+      "impact": "favorable"
      },
      "1a": {
-      "valeur": 3.34,
-      "date_valeur": "2025-11-20",
-      "variation": -2.28,
+      "valeur": 3.318,
+      "date_valeur": "2025-11-21",
+      "variation": 0.24,
       "unite_variation": "%",
-      "impact": "defavorable"
+      "impact": "favorable"
      },
      "5a": {
-      "valeur": 27.28,
-      "date_valeur": "2021-11-19",
-      "variation": -88.04,
+      "valeur": 27.52,
+      "date_valeur": "2021-11-23",
+      "variation": -87.91,
       "unite_variation": "%",
       "impact": "defavorable"
      }
@@ -56,82 +56,82 @@
    "veille_actualites": true,
    "actualites": [
     {
-     "id": "94fbb86b1207",
-     "date": "2026-11-20",
-     "titre": "2026 Graduates, Future Talent and the Launch of Clariane Training: A Day Dedicated to Skills Development",
-     "source": "www.marketscreener.com",
-     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVY2YVdPU3c5SFBnV25nR2RBOWV3bEJCb3pXSE5YQ2NqanhMNU5ROVV6Rjh5blREZjNXdGdRUVpoUm1La05UUVJKWFJMa0I3V0drM2huWi1wa2pPVlZKRGZNblJ2RjhDLUZ6bGkzZE5mQ3pTSzVnM3hhSjBhcTJqTk9XRFBIWGlaMFdFek13d1g1dkEtcnFrT1Y3dlpyT2FDY0czOExUcjliYTRUVVpYcW94LUVrbHRPcjQ0MlM2bTdNUUhlR05RZTItWWh4NXU0ZFUzdmtnNjktN05US0hMN3huX0JCdw?oc=5",
-     "langue": "en",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "f8eac6a106b8",
-     "date": "2026-11-20",
-     "titre": "L'action Clariane bondit de 7,56 % après un désendettement finalisé en avance",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmV1Ry1IUXJ6RlFQdjZCZWt4VFBZaGhkVFdRSno2WmpNY2xHRHBUWERFXzk5d3lUU0g3WmtERFFwUUFDN24xOVY3RGw0TTFDemRHTGw2ZUxxc0M3YmpIMlFCdUF2MXFZUGNkcnQ4Sy00YUc5UEtGdjlpQVl4WVFBaG5Vdk5wRXFPbWg3bS1OemMxVWN4RjljTHRLdFA5YVFSa1NobVZvZkZlaXR3NjBNM255aDJwSW96UldrUjQ3RkhNX0k?oc=5",
+     "id": "ba3f398ab2fe",
+     "date": "2026-11-24",
+     "titre": "Clariane : une OPA à 4,60 euros par action mais pas de retrait envisagé, prime de 38% par rapport au dernier cours coté",
+     "source": "Investir Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdEZoVDZWeExXVkU1RFV2NnB2YlQ1dTJtUHpMMGtmZTJoZ0F0dXg4TXdZcDdxOFk1TndLSXdiSkEzYVRhWmNFX0VMdUpsYnp1REVJSllHaHJlakFwZndqOTA0eWNDQ1liOUY1UHhtcHNEQ0MyaF9oRm52bDBNbEJjc2pYMnY2akI2N1ptRDA0MkFDeU1VendqOUliTHRLRWhwc1hHazl6Z08wbzRRcm1VdWcxNlhuT1EzY05YRkZrTEM4QmI5Q3YzYWFBYzY5NkdWOUp0TG51QndzeHcwdU4zMlhYVlA0NWJKZTB5ZkEyTnpNLVdVRWVBS2FVc05TWDc2Um15eG02U0l3dGduTkRzVFRBWXVGZw?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
     },
     {
-     "id": "de18a588c22d",
-     "date": "2026-11-13",
-     "titre": "L'action Clariane dans le bas du SBF 120, mais toujours à +2,5 % sur un mois",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEszZ3dhNVBDb25Yd195eFlVcWNPekJwLXdoMlcteFZpZHU2Um9ZMEhfZDVRYmRxZFVuRUtCV1I4UG0xVlg0bGp6ZUhISThEY19iLVJUUFByYXBUR2thczhURGpDYUtHQTd3QVZXVGNJd1JfWmZGQXQtX2JXZWtFVjNUMDhITHZUYWpoMTJleHJLZUtkOGVZeE5ZSDhBTTg4aUlnSXU2bVMyZm5KdVpxakxVMndNZU1US2w0alBrMVBWeGM?oc=5",
+     "id": "8e19ea952f85",
+     "date": "2026-11-24",
+     "titre": "HLD Europe et Crédit Agricole Assurances lancent une OPA simplifiée sur Clariane",
+     "source": "Zonebourse Suisse",
+     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORmFibkZtV1BhaTdXMm1GZVJYbzNpZF9NSC1YM3ZNbUQwU043eEw4b2VqMU5Jc0F5M2sya1FaMDdrWnR6TWppNkpnYndlS2FaS0drZnUtcmhOQnFPMWZDMFp0bTVmQW5YUzhDS1NLcEZUSGF0U0VxZGZGdkp5Wk5pSzZFS2lYQjFRLXZRUjkwS3ZWQkF5SVlFc0ROQ0l2MU1BNWhrUEJYdXZIZVRDSkNrX0VVVFljd0Z1SXlmeFozUWtHMWp0STVRcEJQSEFSa1I1dDNCVU8xOA?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
     },
     {
-     "id": "6b7682b8c8ec",
-     "date": "2026-11-13",
-     "titre": "Clariane in the lower part of the SBF 120, but still up 2.5% over one month",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWtiQTFOeFFiUUNEVGhfY1AyMk9jVXRqcmtkZzRBRDFDMEVoY3pCcVh6dU83ZTd3UGQ5aHB0dXg2T0VENmE0ZHZSTS1zVEsxN3hvTjVPeUtBTHlZMXhhZUI5STlVUVFBMm80Y2N4ZTRzd0gyNERVdTRJWThvX1lWSkpJbTI4OXVYdlpUejRVdWNNUXpza2hSWHhOYktTeFNoVkExOUtseU1jQlRZYlJiMTl3Um9RekJsOElZZWo1WXFsaHpoLURZOGpxeGI?oc=5",
-     "langue": "en",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "20445efd4f27",
-     "date": "2026-11-12",
-     "titre": "L'action Clariane, parmi les plus fortes hausses du SBF 120, grimpe de 1,75 %",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVlJMkpmNWc1ZmhZcGNCdnNqTUswR1E2OXQ4WnZLcXBzeFlHdGlYWUlzd0Zzalc5d2luakpYMy1ENEE5Q2ZPQW1MU195UGZ5ejlod2JLeG9EdTNWT3cyNXlndXk3T054QUU5N1BpSEVKOGp4QjlBRWhSTTRSMURXazJBT3JpakpPMGVBRHYzMFRxOGt0UWJkbWdIOVBnOC14S2JEd1FNbTRNOFU5RFdHTWx6b3RHZTMzTXcxYUp4WFdYa3Zv?oc=5",
+     "id": "a7aa78deb905",
+     "date": "2026-11-24",
+     "titre": "Clariane renaît en Bourse tandis que Coats Group perd le fil",
+     "source": "Zonebourse Suisse",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHlMUXdxYjk5OWwwSDNjNHQzLW9YRHBWODFaU1c0empIVVZjWTQ1YjBrMG9YdkZxS2c4eWYzNUFRM2NpWWJjaHlxRHB2WEc3YjFwc29oVDNFdjJBMjJkeTJ2bUFjbm9iTk9MWmdSQVppd0RLY2d2em1QRUt6ak9jbGc0WkxLcXdqdE5ldmMyeWtsUkhoaE91d05MZWZiVm90SW9FNnpSQ3I4Z2tJbExJeGVFVG85aWZibzZDRg?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
     },
     {
-     "id": "f3a446fb8d22",
-     "date": "2026-11-12",
-     "titre": "Clariane shares, among the strongest gainers in the SBF 120, rise 1.75%",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzZNVlZCcmxSR3l6UVFLTE1nMHFHR2RMR3dVTzZlWThVODI3Y0NYM2Y2dHdmWUJoTmtxUlJBajVodWJSS2hMM3lKTFpjb3lja0JFenhQMENTQjVudXRIUGFmcU1keW9WNXJySHFOQXViRzc5Rk1KVkV3dTZWRmFjQmtsQXZJMjVZRk1Gc29XUzJLUVRqeklmY2J3TllST1JEdVBDNXFCWmhNd3lkY3hjLXp0OUE2QVRsbG84b3Zva213VXQ0Nmc?oc=5",
-     "langue": "en",
+     "id": "d888b185be1a",
+     "date": "2026-11-24",
+     "titre": "Clariane s'envole, HLD prend le contrôle sans retrait obligatoire de la cote - 24/11",
+     "source": "BFM",
+     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSnA4SVFyclZxdnNVVEpJY0RGdFlUOEtWMGV2WkU0ZlJwQkh3eXF3ZFZaZ2g0Nmd5aUxzRFdTM3J6TkdoZU1kQVVJSmc0MHJLZnBFZUpvMkd1Q1BVWERiTVBOYUxGU2Fad0NBak5QUkxLTVlCMUZieUQ5NzR6azRMclpkYjZjVDIyTzV6SlBFeWhWWTFfZ0dXVTNYcEtmUUhOY0FHSTBZTF80Y2h2UUwzbWRRdUtmdXJQcEpfOWxWcGpVRUNNdUVTLWxpZEZtODUwcnFTUTl1QWtMaERERlRVbERoS2xIclFMWWkyQnNDdERpNzFRVWdYUzdybw?oc=5",
+     "langue": "fr",
      "risque": false,
      "mots_risque": []
     },
     {
-     "id": "87dc4ca15adf",
-     "date": "2026-11-07",
-     "titre": "Open dag Korian: wanneer is het tijd om na te denken over wonen met zorg?",
-     "source": "Arnhemse Koerier",
-     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHlCeWF5dTI0alR0dFBMWmVRQldZZGxaMnRuaE8tTmZGYVo4YThOZ1JiQmM5STVTU191QktDM2RDZmFsNUNuVEtobERUM1o0XzB5V0xveDgtMEdENUIzekh4QjRYd2lwWHBGZTVTM3hsRnlLVHhRcHRBRjQ3TzRDVzY0Umt1U3Z3MWxYNlBNemFSaWdBYnVsRWlyNzcydHluZFhYNXZILXVWNjhtYld0WGFzLTh5RFVHUkJCOGNFZndpM0dk?oc=5",
-     "langue": "nl",
+     "id": "6ef3146199e1",
+     "date": "2026-11-24",
+     "titre": "Clariane bondit après un projet d'OPA de HLD",
+     "source": "BFM",
+     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGdoQmV0OUdfSTlqcEwtS2FWOHBpYWx4YmkwV1pJM1dWdkZVdEFSUXh0b2lkQnpnS1U3bmF6MG9VeXdwaDN5WDNfRHRFVDVOMDRCZldIQ2pEWlZCUS1TYTJHWWNjeUNWejFUNF9KaWRiV2NXOHg1eUFVYkYzdTR0cnRrRkVQckR1UDlsU2xCRlQ1MGJkOXpadlF2YkM2dlhiSFNUNF8zZkVybWJrS0lSQVdrRDJjT3ZtT1Q3YWdLQ2R3OVF3a294QlZ5dVlKU2M?oc=5",
+     "langue": "fr",
      "risque": false,
      "mots_risque": []
     },
     {
-     "id": "39a9ecf505e6",
-     "date": "2026-11-05",
-     "titre": "Clariane shares rebound 3.5%, but lose 15.5% over the quarter",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMm80S0lGVDNnMWhYUWVwRGhvTWZCMEpNTHJMbEZwOXpXRW5QQXo4MlJPZmJGMU44cFM1SUVNeVE3QUF6ZEdpTGxwMFZ2YWtMQ2pVcW5yV2lCbG5NMUNwX0lNOEhlTDYxOFFaT2tWOXBvSnhvdXUtWUxfVm5tbE9nWUExWjhqZTBzZHk2U1RfbG9sd2duODl5UVFBcFlfbkE3QkppVnpKdUhYeUFEc2ExanZYN2duSmZ1?oc=5",
-     "langue": "en",
+     "id": "7de596158d1d",
+     "date": "2026-11-24",
+     "titre": "Journée des aidants pour Clariane",
+     "source": "Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3RfZGZrU1FCWWJKNjdhYzVoSzJ1Z0Jsa2E3UGdJUUVBaXVIa3BTRmtfUVhHeVFIdGVIeUVHM0dtVjAwRkxWOGtsY1kyVUFMb2tpQWRsdXVhOXhyODRrUjNFTWRqUnFZQ1pHeXQzRGlQYldYbWpVLVNsNkhZbjZXdXU3Zkw2T3UxRzdZenZjUWp5UWpubVJqZFdMdHd2eEtSdmJZag?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "2288bc146c56",
+     "date": "2026-11-24",
+     "titre": "Clariane (ex korian) : Une OPA est lancée sur l'ex-Korian Clariane qui bondit de 35% en Bourse",
+     "source": "BFM Bourse",
+     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUJ1NnJta2RJZnpQRWV4Y2oteEtHTWhPU0o0WDB2bUpBeFZZa0VUSHo5MTZybW1LaE15VjBNUW51RFpvbkZtS3FXYTlKWU1LOTA4aE00NFFhMnFnaENqOUp2YTJUZmlOQUlRUHQzZF9zbHU2ZW9aeGRTVEl2TXZuOHo5YkpXSWhzc1E3WHd1anBnSElUTUhMeWpTbDY2N1ZHVVdMSEhSUldFcG5TOTN5cF9hNHlTTjNPQk1LZWFMaERKNnRBcHN5bV9Kdlkwd3ppdmU5Z2twbFBLOFpRU192alFkb3FkSlA1WUUzTk9xckp6VkE1VnlXSHI5WmdDNFNTTVE?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "b11c0348047f",
+     "date": "2026-11-24",
+     "titre": "CAC40 : Sanofi et Clariane s'envolent à l'ouverture",
+     "source": "Le Revenu",
+     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHVENWpmZ0o4MnlKa09DTDBpT245VTJBdzdqVTIzOHNZV053Q2JlN3FCWU04NmprZ3paRDVkZ050VzhleWxjTWl4dm1UUUp1amEydjNYM0pRRjhvQl9EZC1QMWQxQ2RZdFJPSFY4UkJkRERSS1BnN2R6YkVTekt0TkNTak9JWnUxQjc5eXYzLWlYMUpPRGFNOElzOGFPc0M2amJ0SVE3R19mNnVCRXhKQ1VB?oc=5",
+     "langue": "fr",
      "risque": false,
      "mots_risque": []
     }
@@ -187,28 +187,28 @@
     "devise": "€",
     "bourse": "Euronext Bruxelles",
     "actuel": {
-     "valeur": 73.0,
-     "date_valeur": "2026-11-20"
+     "valeur": 72.62,
+     "date_valeur": "2026-11-23"
     },
     "periodes": {
      "1m": {
-      "valeur": 74.36,
-      "date_valeur": "2026-10-20",
-      "variation": -1.83,
+      "valeur": 75.4,
+      "date_valeur": "2026-10-23",
+      "variation": -3.69,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "1a": {
-      "valeur": 52.84,
-      "date_valeur": "2025-11-20",
-      "variation": 38.15,
+      "valeur": 54.4,
+      "date_valeur": "2025-11-21",
+      "variation": 33.49,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 51.86,
-      "date_valeur": "2021-11-19",
-      "variation": 40.76,
+      "valeur": 52.04,
+      "date_valeur": "2021-11-23",
+      "variation": 39.55,
       "unite_variation": "%",
       "impact": "favorable"
      }
@@ -236,27 +236,27 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 9.93,
-     "date_valeur": "2026-11-20"
+     "valeur": 10.15,
+     "date_valeur": "2026-11-23"
     },
     "periodes": {
      "1m": {
-      "valeur": 9.985,
-      "date_valeur": "2026-10-20",
-      "variation": -0.55,
+      "valeur": 9.75,
+      "date_valeur": "2026-10-23",
+      "variation": 4.1,
       "unite_variation": "%",
-      "impact": "defavorable"
+      "impact": "favorable"
      },
      "1a": {
-      "valeur": 12.9,
-      "date_valeur": "2025-11-20",
-      "variation": -23.02,
+      "valeur": 13.05,
+      "date_valeur": "2025-11-21",
+      "variation": -22.22,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "5a": {
-      "valeur": 5524.2407,
-      "date_valeur": "2021-11-19",
+      "valeur": 5616.2051,
+      "date_valeur": "2021-11-23",
       "variation": -99.82,
       "unite_variation": "%",
       "impact": "defavorable"
@@ -269,6 +269,26 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "c45722dde3b0",
+     "date": "2026-11-24",
+     "titre": "« Jugement défaillant, défaut d'esprit critique » : les commissaires aux comptes d'Orpea sur le banc des accusés",
+     "source": "Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObXI5eFdNamxRVDlRYndKMWFjV2NWTnBTLVRsQ3RrUGtlSFJwYzlEcHZsU3RpWUNzZzdKaHB0OV82YXhTOWlpWWFJUFlCdzlBaXBtUFp4T0lzMFVKXzUzZkxtMWJOMHNKcy0teXR6VGxJbnR0MVhKNVJHVXQ5bG1TcUdxMlRfLS1aeUpHNkpZUE9mVVBfck9VX1l1NnBZVHBWcnZsVVY2Vm5OWmM5NkVCNXFhaENrR2N2WUdScFRFS05mWkFnOUp5elpSWkR3NTNkN3lOckhvLUs2SXppY3dLdmtsQWNtcHIzTG0tejlyUExWbXhjMUc4UEJiZU92dVE?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "8e7e49dc00ef",
+     "date": "2026-11-24",
+     "titre": "L'action Emeis grimpe de 5 %, dans le peloton de tête du SBF 120 après l'avis de Kepler",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1JHaHc0NGN2clNYbWVFUW1aMTAxcURxbHVfWWw0c0xSbDkxWHBzU29ORGE2dFI0YVVMV0xZc3ktOXNSTThJQnhlNDZ6Wi1HOHNxSmZsTjR4M3NhRlVIakJ4MVlLX25MRVhWUWdycGlQc0NxZUdfcXRiRGdQYTZBZFhmOHBSTHlFMFlwUllIVnlVd1ZpX25qU0NWalBGS0J1ME9xNlJnQjA1TVUyaEVYVlRqT3RCeGhRclM5cUZHcTY4dFBwRV9kaVN6Qnd1Y2ZDLUFj?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "90cafa5a1a46",
      "date": "2026-11-23",
@@ -325,26 +345,6 @@
      "titre": "Emeis continue de tracer son sillon sur la voie du rétablissement",
      "source": "Investir Les Echos",
      "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaThaOXZwajZJSVFhQ3Y4TUdNZDg2Y3IyZXpLcUtxc1UwbnN4SkdNWkRhVC1CQkdjMlNna1pjSkR5WDJpQTZINkhBV0lCZWE3dDFIajM4WHItU2RsdERlM3JsajRnbTc1VUlES0JhdVdFV2dUSDVlVzFOQTBWaVNuVXFRME1wYjBoY3k4ZkZsemEyVEp5SWFUeENLR0x3bHdZY3lRM3ltbWJHQUkzLWhIeUJYbE9RRTVfNEhKLVRSbVNCVFRlaTFRTnItRXhUYlpoQnZNRg?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "a182711e30f2",
-     "date": "2026-10-30",
-     "titre": "SBF 120 - Les actions à suivre vendredi: Axa, Bouygues, Capgemini, Crédit Agricole SA, Eutelsat, Emeis, Imerys, Sanofi, Scor, TF1",
-     "source": "Investir Les Echos",
-     "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOXzgydldkVlR0dGF2QkJ0bGVkOWZnWjVmbENLZUJsN1c4eU9fQ2dFLVdxeDFjSG16Z2hWd2NHYUh6WWdZcWFzUUF1c0Y5cDJyWWFzbzdYZ0FfOVJHMlVjQU5yR0hJNVJLLUVENzVMckVRRndjRVhqcTJtdXFmaklZSUJuaDZZZHloTVpTX3NsVnU5T2thTnpTY3hRMUVPdGVLUHMtQlEyQzFKUHNrME9jSTFmUVZlX09KZ0JMbDBSMGhqUTFlbFc3YVVKV0F5RFJ2WWVrdnlhV2NJT0JQTkNDd2pBT3ptbTJodnM4VHpWYXpuWDBxTDJsUS1GNE1IQ2llU1B6OC1EblRyeDlXQlJuM3htMkEtWUwxVUE?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "af7477e5b1ca",
-     "date": "2026-10-29",
-     "titre": "SBF 120 - Les actions à suivre vendredi: Axa, Eutelsat, Emeis, Engie, Imerys, TF1, Vusion",
-     "source": "Investir Les Echos",
-     "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUk1ELUpwbVh3bTVKa3owS1I4aFZwQURPMm1EMW1xQTJXRTJsUWotWEFKN0c0OFRrV3liek4wdnUzdkhvUGFGY0hacmZwMDg1b0w3YXh1c0hxa2N1UkxDcVQtVmxDcHFZZTRZS2J6NVl4TFM1RDZzNnVCNFJSR1cxOTZyRFdrYUtDVEl6QXcyNnRvQmR4aVptUjdncVBkYmRYYzhEaFlZQmkzc3h4QThKbXBLZDV1Z080cFkwQ00xb2pxVnBzU09OZ2pDTWRIZ18zVVBrWjNQRWxRajh2bjZBcTBfMzJKcV9I?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -535,28 +535,28 @@
     "devise": "SEK",
     "bourse": "Nasdaq Stockholm",
     "actuel": {
-     "valeur": 133.1,
-     "date_valeur": "2026-11-20"
+     "valeur": 133.9,
+     "date_valeur": "2026-11-23"
     },
     "periodes": {
      "1m": {
-      "valeur": 117.3,
-      "date_valeur": "2026-10-20",
-      "variation": 13.47,
+      "valeur": 114.8,
+      "date_valeur": "2026-10-23",
+      "variation": 16.64,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 80.2,
-      "date_valeur": "2025-11-20",
-      "variation": 65.96,
+      "valeur": 80.9,
+      "date_valeur": "2025-11-21",
+      "variation": 65.51,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 35.88,
-      "date_valeur": "2021-11-19",
-      "variation": 270.96,
+      "valeur": 34.38,
+      "date_valeur": "2021-11-23",
+      "variation": 289.47,
       "unite_variation": "%",
       "impact": "favorable"
      }
@@ -568,6 +568,36 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "9a2c6ea1ea35",
+     "date": "2026-11-24",
+     "titre": "Attendo: Decision affects approximately 30 permanent employees and 160 care recipients",
+     "source": "www.marketscreener.com",
+     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREFTMVpOMk9nT01JbjFWYXhNeHJMeFppU3RUdXhaWjI2NzBWc0g1M1MyM0xNWkRlRnYyV3N2Y2NMZGE2Ni1zR3pCRWhlZVVmWkFQZWxfYkhpVGdKUnRzdUsyeWZQNWo1OW80NXNibDdtU05aWUZKcEV3YTh6TUl5UG1DVEsyektUdkhSZEh4dWlnNU51QjBzWnJBMVNzcDJqQ3h3VGZsdXR4dE81SFZ4WHdnNnB5RG5SbGx1dllPbDVTMzN0d1RtT0o1S0ZJMHdXX1pwWQ?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "8ec9bd28793e",
+     "date": "2026-11-24",
+     "titre": "Attendo Terminates Gothenburg Home Care Agreement",
+     "source": "TipRanks",
+     "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFAxbnJxMjBXWlhzM0VuMC1zU3o1d01nUTdjY2Q3UkZHUmtzR0huSlBNVTlrMG9mZDBxZ2p1NkxkeXJuZnFxTGc0RTRmazR0YWtsb3V0M0pYaEtJVWU1NWNvU25jZ2lPdzkwaWFRQjNmMkR4SmVMTk9fZEN3aGZMc3pSOHZPQnJhcmhIbHhEQnFEWnJ3OUJXNTZ5cFdsRTd1VTJF?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "27f245de1d8f",
+     "date": "2026-11-24",
+     "titre": "Attendo Repurchases 225,000 Shares in Week 47",
+     "source": "TipRanks",
+     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkVWMHB3a2gwVmFMRDhZN0taNnFYQjZFR1VLRGN3dTdfQi1iaGFUbS15OTFDbzYwRnlrSVdxY1hqc0g1NDU0b2VBNkFqdEVxV2lNem1RMUVMZXBXNWhUaUY3N1E2Wmw2VWo4NW95RUZ3VmdjQTgtUHVITEszajZXZ0xqT1Azc205eTgxSzVPakhCcVNfcjd2RHlucUg?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "a80af24742b3",
      "date": "2026-11-18",
