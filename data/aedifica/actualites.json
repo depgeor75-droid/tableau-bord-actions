@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-25T02:37:52+01:00",
+ "genere_le": "2026-11-26T02:11:42+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -12,16 +12,16 @@
   "autres": "Autres"
  },
  "synthese": {
-  "debut": "2026-05-25",
-  "fin": "2026-11-25",
-  "total": 100,
+  "debut": "2026-05-26",
+  "fin": "2026-11-26",
+  "total": 102,
   "officiels": 15,
   "compteurs": {
    "resultats": 15,
    "dividende": 3,
    "cessions": 0,
-   "acquisitions": 24,
-   "financement": 8,
+   "acquisitions": 25,
+   "financement": 9,
    "locataires": 0,
    "cofinimmo": 12,
    "autres": 38
@@ -99,12 +99,13 @@
    {
     "mois": "2026-11",
     "libelle": "nov. 26",
-    "total": 26,
+    "total": 28,
     "officiels": 2,
     "par_categorie": {
      "resultats": 10,
      "dividende": 1,
-     "financement": 2,
+     "acquisitions": 1,
+     "financement": 3,
      "cofinimmo": 2,
      "autres": 11
     }
@@ -120,6 +121,30 @@
  },
  "synthese_ia": null,
  "articles": [
+  {
+   "id": "cf5535bf3306",
+   "date": "2026-11-25",
+   "titre": "Clifford Chance advises global coordinators and bookrunners on Aedifica's €500 million sustainability bond issuance",
+   "source": "Clifford Chance",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZHd6N201ZDdaVENvbWc0ZWtEM1pPOTUtenl4c2ZzNmMxSVh4dktzV0FZTWRJcnhLNmlhaDZhZzRsQ2JqeWFmT1NFQndQemd2b09CWkFSSTlUZDBCenQtWTF6OE9wU2J2NHVqWWRkZVNiT1dYYjdaNlVSWmdaZFdmVV8yb2dfRW9LYXdaYWNFNkYzN2ZtcXYycUZjWmI4XzdfVW8yaklPTUczWW9HUHFzdnVBd2NrYVkzWVczYjU5bHp6LUFmNmttVjJ2dE1aeVlhOWVsNjZINmszVmlUU2RhZ09FTXFWemZJbDliS2ZNaFVPelRhdGpnd2ZIbw?oc=5",
+   "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "financement",
+   "vu_le": "2026-11-26"
+  },
+  {
+   "id": "547bcd663e96",
+   "date": "2026-11-25",
+   "titre": "Aedifica raises €500M in sustainability bond after Cofinimmo deal",
+   "source": "Dealroom",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjdKVWhGSlEzY2p5aWxyOUM0c0tTWnBMd194aFVaZG1nWEdJNnpfa1NQMGVRRDlOQWdxbmgxX0VOVUlLaDQ1NmdtOVlqeXBJelV2QWFWREQ2STF0VjI0VVE0LXNCOTZuVWtVRlZ1MEtjZU9EZDVZcFI0QUxvVzJKUWN3T2pQa1NMTm1OTHNyWS14Y2dDMFlMMldsMnctc1U?oc=5",
+   "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-26"
+  },
   {
    "id": "32622d2eae2e",
    "date": "2026-11-24",
@@ -340,8 +365,8 @@
    "id": "cb721b72e7ab",
    "date": "2026-11-18",
    "titre": "Aedifica confirme ses perspectives pour 2026 après un 3e trimestre \"robuste\"",
-   "source": "DHnet",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObU0tRjJRSFhZR1RUOEtSdWp4eFdHaHlhUm5RVzhCeWF1YW1Tc2Z2bDVRdVFtZ2pDallmbnpDMWpIdVFkMFRIMnNLNXJjTTd2N29RczFldTlTRUoxTVpnVzJYQ0NTei03RTRFb3Y0T0pBeElQNE9ZWEY0N0FxblB1bGxkUXhLSkpHSVBhVWJqRWxUZ0FqUHVYd0JZZVJpZnNudnJuaUtqTnlVNjM0MlJ5LUVZY2xZQnFOUVJHN0xXMm45Ymd0amx0RnY0a2QzdU13NDlqc2F0MXEzRF9BSXY3ZnVUVGZlT0Q2?oc=5",
+   "source": "La Libre.be",
+   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMjZNQVpYeTAyMThWdDJKbXc2aWNzLXVaa2kwNlF2bDdLaUwwekdkVmktdHYzbGtnTTdrTVpjc2tiUHRiWHZuREFuX2I1eFVHSnFJSkliOHQtMjZTSE9pbUZrWTd0Q18zWFltT0ZKM0xianlIcG5URi1ySUdDU1dWQXBjUVN2d0gwcTV2SklmN3A4VWtRTHpyT19MdkVJVjlRUlM2Wlc1Y2poRUsxNWlSQTJsRVZvQWR4d2xOZnlZQWIzSHdQTVZwUEMxcnBoMDZMWllvSEZpamwyY295N2M1NjEybzNWd0NUMGRJ?oc=5",
    "langue": "fr",
    "extrait": "",
    "officiel": false,
@@ -1072,8 +1097,8 @@
    "id": "da5352c340ec",
    "date": "2026-07-01",
    "titre": "Aedifica a finalisé la fusion par absorption de Cofinimmo",
-   "source": "Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1dYeU9iZ1Z0bVQ1Z0g3SU8zRDBreE9qN2Z4M1gyUnhZWUwtRUpxbG5ydERjeHNSTmhuZDVMb1NxUmNObUpBVk9mSG5DQTkxR0RCRnZYdFR1YkNGT2w5M3N3Yy14U3VjZXBITW5vWkNuaW0yLWhmSXI1MnJVNUtZa09RTFFNYkQwWjFrUElFYklXTXBDQUZCdzZCblF5VG1ENzExeG9IenE2RTJUR1RGck02R000aF8xLUE?oc=5",
+   "source": "Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzlFdllTSUZDYVVVelQtTXBhakRRZmNWZm9JVHNydnlqdUQzYVVIOGhWc3UxSDNEUFpSSnhzSEFZb1ltSzV6aDY0NThSZE9LUmh4TG40Z3U1T2VUQnJTTFIzSmFfenlsYVhsOWI4ZlVON0ZZNTFveEkzZTFnZlpCaFpUNmRMeHZuZjhvQWdIZ1c0bml4Yk5TMzlORDhoSGZxUVlGMHF4NlhTRkI5Ujd1WDZLczhvanZQc2JPU1NYYll1OXlCNzRJZmdWeHhYdlFJ0gHWAUFVX3lxTE11OVBvalZZdEVqdUlVbHFET2tMa0dfUHZzR19ZRk8zU3pTYlQ0d0FJUlVIdUJEc3pfQ01mbzI5UHIyU1JHejY3WkJRWnJtYjFCbm9icVRrZHhaNE5lZzdNSnNITDVYM1RVT2paVmp0NFFENm1LZVJCLXBhU0JHT0xKS2FwRlVncGp4YTVIMkdNb1k1TzFEb0g3T25TM2N2emZyM3ZKRGlTSmxpQk9FeVhMX1BQelRQMmxITDlkbnRYNDYtUUhrdzZodG8wb0JVY05DZWZvcEE?oc=5",
    "langue": "fr",
    "extrait": "",
    "officiel": false,

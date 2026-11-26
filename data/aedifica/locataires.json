@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-25T02:38:06+01:00",
+ "genere_le": "2026-11-26T02:11:56+01:00",
  "date_parts": "2026-06-30",
  "source_parts": {
   "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
@@ -22,28 +22,28 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 3.326,
-     "date_valeur": "2026-11-23"
+     "valeur": 4.5,
+     "date_valeur": "2026-11-24"
     },
     "periodes": {
      "1m": {
       "valeur": 3.144,
       "date_valeur": "2026-10-23",
-      "variation": 5.79,
+      "variation": 43.13,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 3.318,
-      "date_valeur": "2025-11-21",
-      "variation": 0.24,
+      "valeur": 3.462,
+      "date_valeur": "2025-11-24",
+      "variation": 29.98,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 27.52,
-      "date_valeur": "2021-11-23",
-      "variation": -87.91,
+      "valeur": 27.54,
+      "date_valeur": "2021-11-24",
+      "variation": -83.66,
       "unite_variation": "%",
       "impact": "defavorable"
      }
@@ -55,6 +55,56 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "ffc2d613a440",
+     "date": "2026-11-25",
+     "titre": "Clariane va faire l'objet d'une prise de contrôle par ses deux premiers actionnaires, il faudra choisir son horizon d'investissement",
+     "source": "Investir Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTkw3QVQ4ZmtkdlRubUlabXRHYlJkRVJmREk1blFDcFRPWXY0M0dwYWtTbHg4dTNfNFJpVGxQTGRaUWJieGh0X213YkFGVHNMMFY0emJISG9udERXNzUtX01UTW1idTRicEFQbWRWTTBPS3BmWGpNRHE2UkNPa2NGb3NaaXdfX3dERTFNakpwekVrSTdQdGZjcV9PV0h2LW5BbjNpTllIRzMtbm1xTURIZ2dFdnFLbnZEdnpPaTBMdEhzUjlNY0k3eDIxcTVZdFhQUlhfZHVEb3poeUJyU1N2UlFmS0xlb0dod0VJVXVVQWdYby1ZRHRtNjFlclozOTVaRjR3MF9XNDY3Y0prX19VUzJXMWtTVWhFaExEOGRuTXVKcXZlSjdKNQ?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "2b0382f76691",
+     "date": "2026-11-25",
+     "titre": "Clariane : HLD Europe et Crédit Agricole Assurances préparent une offre à 4,60 euros par action",
+     "source": "Revue économique de France",
+     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV29aTThNX1ZkbHdOMVNaMmRFb0hlaHZxa0V0czZBRkhOYkFhSWhodXp2clNjb2d6Z054VFY2cUZLb0dZLWM1SUt4X0RabkR1Um9pTjFMY2ltX1dFbHJMSkVHZUtiTGFnZnp6MVN3LWxOTlZZbllCVVNOUnpVY1JhUFNMRE04TkhOMEo4aldBcGxZb2FrcWdFeVpfTlFNNEpyY1Frc3AzWEZkSjNWcjlnQ25vUQ?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "be31ec102802",
+     "date": "2026-11-25",
+     "titre": "rdv de l’année, EHPAD korian bois Robillard, Nantes – 25 novembre 2026",
+     "source": "Unidivers",
+     "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3F2UThMdGE4RUhLdk5RdDFSY1ZvLWZsVkJBOUhuQWdnaU4xeUl6dzNqcUhMQVdxQkxDY1c4Y3RjUnc2ZlFSUkZtWnhsV0dNS3VfRnJncDZIWHp0Y0tYeE9uTGRjazVUV1dmRUNpZjR0c3ktN1p0bm52ZjV6LWNjbHgyYkVPcF9KZV80eXpfSl9kNXd3b0N1aHlscHRNZjQ?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "517d50535dfc",
+     "date": "2026-11-25",
+     "titre": "HLD plans €4.60-per-share Clariane takeover at 38.3% premium",
+     "source": "Dealroom",
+     "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGx1c1Z6RG0zdzBvQ010V1gtc2NLeVpRZ0xkYVQ3d0p4dXFSdE41b0dBM3BJeEhKX0dwal9qeUF0dXhfQ0JXT1IwRVdIcENNeWVJdkxhb0RuQjNaOFZxWmFsbHJWd0dwdG13UmFpYkd1R1hSb0NPR3o5cVltTl9ZY0hPVF8wS2tnaHZRVGpKZ1ZJa1U2cEdB?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "749147fced81",
+     "date": "2026-11-25",
+     "titre": "France: HLD Europe plans €4.60 per share tender offer for care provider Clariane",
+     "source": "Investors in Healthcare",
+     "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakZwcnAzRFdXbXRBZ0xYYmxQeXdNZm9YTWdlSmRRYklHQ1VXenJWMFRCYzBva0RHWW91bXRGZGpBU0ZCbVBHR1VhVU9MeUZQTlZNVE8ySVlIam5sczVlbV85amtKSF9QRGZjSGVBcDJjTTVRNjJKanQxbGExeHVXNDljbm1zN3djencydDgydVF1Mm1sbE5XZmJWMWRpVk9kNkFRaDNSRDZyNGhaR2JDMnhHMEF6S1NyNnd2eDl2d1NpcG56Um1kX2pPV2dUYjRTX1R6RnF2RmQ?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "ba3f398ab2fe",
      "date": "2026-11-24",
@@ -81,56 +131,6 @@
      "titre": "Clariane renaît en Bourse tandis que Coats Group perd le fil",
      "source": "Zonebourse Suisse",
      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHlMUXdxYjk5OWwwSDNjNHQzLW9YRHBWODFaU1c0empIVVZjWTQ1YjBrMG9YdkZxS2c4eWYzNUFRM2NpWWJjaHlxRHB2WEc3YjFwc29oVDNFdjJBMjJkeTJ2bUFjbm9iTk9MWmdSQVppd0RLY2d2em1QRUt6ak9jbGc0WkxLcXdqdE5ldmMyeWtsUkhoaE91d05MZWZiVm90SW9FNnpSQ3I4Z2tJbExJeGVFVG85aWZibzZDRg?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "d888b185be1a",
-     "date": "2026-11-24",
-     "titre": "Clariane s'envole, HLD prend le contrôle sans retrait obligatoire de la cote - 24/11",
-     "source": "BFM",
-     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSnA4SVFyclZxdnNVVEpJY0RGdFlUOEtWMGV2WkU0ZlJwQkh3eXF3ZFZaZ2g0Nmd5aUxzRFdTM3J6TkdoZU1kQVVJSmc0MHJLZnBFZUpvMkd1Q1BVWERiTVBOYUxGU2Fad0NBak5QUkxLTVlCMUZieUQ5NzR6azRMclpkYjZjVDIyTzV6SlBFeWhWWTFfZ0dXVTNYcEtmUUhOY0FHSTBZTF80Y2h2UUwzbWRRdUtmdXJQcEpfOWxWcGpVRUNNdUVTLWxpZEZtODUwcnFTUTl1QWtMaERERlRVbERoS2xIclFMWWkyQnNDdERpNzFRVWdYUzdybw?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "6ef3146199e1",
-     "date": "2026-11-24",
-     "titre": "Clariane bondit après un projet d'OPA de HLD",
-     "source": "BFM",
-     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGdoQmV0OUdfSTlqcEwtS2FWOHBpYWx4YmkwV1pJM1dWdkZVdEFSUXh0b2lkQnpnS1U3bmF6MG9VeXdwaDN5WDNfRHRFVDVOMDRCZldIQ2pEWlZCUS1TYTJHWWNjeUNWejFUNF9KaWRiV2NXOHg1eUFVYkYzdTR0cnRrRkVQckR1UDlsU2xCRlQ1MGJkOXpadlF2YkM2dlhiSFNUNF8zZkVybWJrS0lSQVdrRDJjT3ZtT1Q3YWdLQ2R3OVF3a294QlZ5dVlKU2M?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "7de596158d1d",
-     "date": "2026-11-24",
-     "titre": "Journée des aidants pour Clariane",
-     "source": "Les Echos",
-     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3RfZGZrU1FCWWJKNjdhYzVoSzJ1Z0Jsa2E3UGdJUUVBaXVIa3BTRmtfUVhHeVFIdGVIeUVHM0dtVjAwRkxWOGtsY1kyVUFMb2tpQWRsdXVhOXhyODRrUjNFTWRqUnFZQ1pHeXQzRGlQYldYbWpVLVNsNkhZbjZXdXU3Zkw2T3UxRzdZenZjUWp5UWpubVJqZFdMdHd2eEtSdmJZag?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "2288bc146c56",
-     "date": "2026-11-24",
-     "titre": "Clariane (ex korian) : Une OPA est lancée sur l'ex-Korian Clariane qui bondit de 35% en Bourse",
-     "source": "BFM Bourse",
-     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUJ1NnJta2RJZnpQRWV4Y2oteEtHTWhPU0o0WDB2bUpBeFZZa0VUSHo5MTZybW1LaE15VjBNUW51RFpvbkZtS3FXYTlKWU1LOTA4aE00NFFhMnFnaENqOUp2YTJUZmlOQUlRUHQzZF9zbHU2ZW9aeGRTVEl2TXZuOHo5YkpXSWhzc1E3WHd1anBnSElUTUhMeWpTbDY2N1ZHVVdMSEhSUldFcG5TOTN5cF9hNHlTTjNPQk1LZWFMaERKNnRBcHN5bV9Kdlkwd3ppdmU5Z2twbFBLOFpRU192alFkb3FkSlA1WUUzTk9xckp6VkE1VnlXSHI5WmdDNFNTTVE?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "b11c0348047f",
-     "date": "2026-11-24",
-     "titre": "CAC40 : Sanofi et Clariane s'envolent à l'ouverture",
-     "source": "Le Revenu",
-     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHVENWpmZ0o4MnlKa09DTDBpT245VTJBdzdqVTIzOHNZV053Q2JlN3FCWU04NmprZ3paRDVkZ050VzhleWxjTWl4dm1UUUp1amEydjNYM0pRRjhvQl9EZC1QMWQxQ2RZdFJPSFY4UkJkRERSS1BnN2R6YkVTekt0TkNTak9JWnUxQjc5eXYzLWlYMUpPRGFNOElzOGFPc0M2amJ0SVE3R19mNnVCRXhKQ1VB?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -187,28 +187,28 @@
     "devise": "€",
     "bourse": "Euronext Bruxelles",
     "actuel": {
-     "valeur": 72.62,
-     "date_valeur": "2026-11-23"
+     "valeur": 72.68,
+     "date_valeur": "2026-11-24"
     },
     "periodes": {
      "1m": {
       "valeur": 75.4,
       "date_valeur": "2026-10-23",
-      "variation": -3.69,
+      "variation": -3.61,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "1a": {
-      "valeur": 54.4,
-      "date_valeur": "2025-11-21",
-      "variation": 33.49,
+      "valeur": 53.86,
+      "date_valeur": "2025-11-24",
+      "variation": 34.94,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 52.04,
-      "date_valeur": "2021-11-23",
-      "variation": 39.55,
+      "valeur": 52.38,
+      "date_valeur": "2021-11-24",
+      "variation": 38.76,
       "unite_variation": "%",
       "impact": "favorable"
      }
@@ -236,28 +236,28 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 10.15,
-     "date_valeur": "2026-11-23"
+     "valeur": 10.97,
+     "date_valeur": "2026-11-24"
     },
     "periodes": {
      "1m": {
       "valeur": 9.75,
       "date_valeur": "2026-10-23",
-      "variation": 4.1,
+      "variation": 12.51,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 13.05,
-      "date_valeur": "2025-11-21",
-      "variation": -22.22,
+      "valeur": 13.36,
+      "date_valeur": "2025-11-24",
+      "variation": -17.89,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "5a": {
-      "valeur": 5616.2051,
-      "date_valeur": "2021-11-23",
-      "variation": -99.82,
+      "valeur": 5682.624,
+      "date_valeur": "2021-11-24",
+      "variation": -99.81,
       "unite_variation": "%",
       "impact": "defavorable"
      }
@@ -269,6 +269,16 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "570ad67ce6e4",
+     "date": "2026-11-25",
+     "titre": "Scandale Orpea : la Haute autorité de l’audit se penche sur les manquements du cabinet Deloitte",
+     "source": "Le Monde.fr",
+     "lien": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWndsdUhxMVdkS1FaWWwxendodWlJRjRCQVBsS1czMUJfVVdMTU1wUjhNUVRtR3ZGT19WeGZQRzB0M1dDaTFfMWZibTVKSm9SdXJWZUV2dFdzRkxMVE1ibExCNy15QXRBcXV0TUhJRmxhSDU0NzdUZjhBM3c3YXNEMTFrNkNBZHh6Tkcydy0yclEwdFJEa1JxZy1aY2QzaVlGeVJUOE9zZlhwa1J4NUppdVZidnRRZkM1b1dBRDNaRGZlYkQ5WFdrRHhEM1E4Yk1IVnhDVnFtRVFGMDRoeFpsdkRweDNBT2RLcUtCSE51cDhzTVExQkZ6a05sZFcyU2lpbll1UzZQQUVhQmdOU0x5T01URVFrODFmMEZlaU5GMFg1dmVuQXRGd0laZXlZekIwRlE?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "c45722dde3b0",
      "date": "2026-11-24",
@@ -335,16 +345,6 @@
      "titre": "emeis : le redressement se confirme, TP ICAP Midcap reste à l'achat",
      "source": "Bourse Direct",
      "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYU5pZ1R1M1pKSVJNWERpN1lGdGx4LWg1OTZ1b0xCZ20yTUpDZzVGVk04b2p2NEl5WkJQUmRMeGgyNWRoME54YW9IMkQ1V2hOeGt1YzJvR2dvSWgtQ3VlcFRmQWk3Z3JHbUlqU2l4WDNNeGMwQmhtZ1JLQTdXd2YwNkdrek5PR2JsXzUyY1RsZ2pWSHEwMG1KZG16bXV0eUc3cjRXZjF1QmxrQzh1TDQzYnNkVVJBZzNrWXdXRkJCeUN5VWIyNHhRWUo3R3FfcmJhWi1uUWRLS3d1eURXV2VfcE4yckxRaktzLWgyY0wwUXJ3OU42T2Jvd21Kb1NyMXFpenFveDM0YmFWZUxpMlpWNGxGNEJPekU1QWtnYUlacTYwejRmS2dveEdRQkZQNnNhNkF0a1ZZMEZNa1RuZzhDdm5Odnk?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "13c1cc4a7012",
-     "date": "2026-10-30",
-     "titre": "Emeis continue de tracer son sillon sur la voie du rétablissement",
-     "source": "Investir Les Echos",
-     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaThaOXZwajZJSVFhQ3Y4TUdNZDg2Y3IyZXpLcUtxc1UwbnN4SkdNWkRhVC1CQkdjMlNna1pjSkR5WDJpQTZINkhBV0lCZWE3dDFIajM4WHItU2RsdERlM3JsajRnbTc1VUlES0JhdVdFV2dUSDVlVzFOQTBWaVNuVXFRME1wYjBoY3k4ZkZsemEyVEp5SWFUeENLR0x3bHdZY3lRM3ltbWJHQUkzLWhIeUJYbE9RRTVfNEhKLVRSbVNCVFRlaTFRTnItRXhUYlpoQnZNRg?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -475,6 +475,16 @@
    "veille_actualites": true,
    "actualites": [
     {
+     "id": "8990d9e16aea",
+     "date": "2026-11-25",
+     "titre": "Kamenz: Azurit-Seniorenzentrum setzt Babypuppe in Demenzpflege ein",
+     "source": "Sächsische Zeitung",
+     "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS0dXV0lTazlSV1JvWV9QNk1RZTIxZl9ZdFdOSkZBYWRVMGFIT3ViZmpHOUNvSmFqMnFsbXVodDI2aGdRTWt6VXNGamE0V3RqdVJndHgybzU4OG9zd2N2Z0M5UV9VWXRwMjF6ekllNTdyQmllYzhSdEJOMG1ZczUzQWZhaHVPUlk2MUZmcmtGdmZadm1OTkxyYktBZmdDSGhxMDRmTWt3Rkd4T1gzN1VnSlBZaUZFaDNVWEZFU09KSGtzUS1jNEcwdjd4UTRIZ1FpYWs3dW0zY2QtZkRLSnlQUjRESE7SAYACQVVfeXFMTWFRbk56VHJjQ2lPSWdLWVZnYzNJMjZ4Uzk4YmhaQlFIVU5odWdzbFlBcEtKQlprNDFURGl4RWQwX3UwMnBSa3d6OVlGQVhDZEhlQ0c1c2NNeGNhRWltSWMyMkowSVhha2I3VVlfRG45UU1wRzZVeDZkdllLZUxVREFhaUdqejNVUHdHMm5ONXdoM2NkSkd1MExZSXp4SkJoMDNQSHFFdHZtQ2tSQWlJUzdWMlhlcUVTSjNtU3ZNSnhKSDZPX2FsVlZxQ2ZOY0h6Sjc2elM1M1BIN3NBSlBMRjNMZ3RHR3I3UkoyeDdpeW1KYVN1d3Y0SFUzakdsc1kxVg?oc=5",
+     "langue": "de",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
      "id": "49cbf94f25e8",
      "date": "2026-11-17",
      "titre": "Azurit will mit Welcome Days Pflegeazubis stärken",
@@ -535,28 +545,28 @@
     "devise": "SEK",
     "bourse": "Nasdaq Stockholm",
     "actuel": {
-     "valeur": 133.9,
-     "date_valeur": "2026-11-23"
+     "valeur": 135.3,
+     "date_valeur": "2026-11-24"
     },
     "periodes": {
      "1m": {
       "valeur": 114.8,
       "date_valeur": "2026-10-23",
-      "variation": 16.64,
+      "variation": 17.86,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 80.9,
-      "date_valeur": "2025-11-21",
-      "variation": 65.51,
+      "valeur": 81.4,
+      "date_valeur": "2025-11-24",
+      "variation": 66.22,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 34.38,
-      "date_valeur": "2021-11-23",
-      "variation": 289.47,
+      "valeur": 33.82,
+      "date_valeur": "2021-11-24",
+      "variation": 300.06,
       "unite_variation": "%",
       "impact": "favorable"
      }
@@ -594,6 +604,16 @@
      "titre": "Attendo Repurchases 225,000 Shares in Week 47",
      "source": "TipRanks",
      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkVWMHB3a2gwVmFMRDhZN0taNnFYQjZFR1VLRGN3dTdfQi1iaGFUbS15OTFDbzYwRnlrSVdxY1hqc0g1NDU0b2VBNkFqdEVxV2lNem1RMUVMZXBXNWhUaUY3N1E2Wmw2VWo4NW95RUZ3VmdjQTgtUHVITEszajZXZ0xqT1Azc205eTgxSzVPakhCcVNfcjd2RHlucUg?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "5a2626431362",
+     "date": "2026-11-24",
+     "titre": "Attendo terminates home care services agreement with the City of Gothenburg",
+     "source": "www.marketscreener.com",
+     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUZsUE1IUlJmSXJlR2NVSTh6ejJhNG41RHZjMEpzcE9McmNDaXdyUGJReEp0RG94WjNyNkp6YmxqY29URU93YlF5YTAySXlqcWFNU0Y2d3pSN25YWWUwUGVlYm54c1JpeEdueVRscGpLQklTaXAtazN5SGhoSlBLSS1kN1FDdWthTGdadXJIRm1Qc1JReWl1a2F2R0FYaUZyNVZmUWhxWFQ2NzY3UjVweDBLQW5hUldOX2RDeUdnLW5XWWVzOTNv?oc=5",
      "langue": "en",
      "risque": false,
      "mots_risque": []
