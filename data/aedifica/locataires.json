@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-26T02:11:56+01:00",
+ "genere_le": "2026-11-27T02:10:56+01:00",
  "date_parts": "2026-06-30",
  "source_parts": {
   "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
@@ -23,7 +23,7 @@
     "bourse": "Euronext Paris",
     "actuel": {
      "valeur": 4.5,
-     "date_valeur": "2026-11-24"
+     "date_valeur": "2026-11-25"
     },
     "periodes": {
      "1m": {
@@ -34,16 +34,16 @@
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 3.462,
-      "date_valeur": "2025-11-24",
-      "variation": 29.98,
+      "valeur": 3.538,
+      "date_valeur": "2025-11-25",
+      "variation": 27.19,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 27.54,
-      "date_valeur": "2021-11-24",
-      "variation": -83.66,
+      "valeur": 27.4,
+      "date_valeur": "2021-11-25",
+      "variation": -83.58,
       "unite_variation": "%",
       "impact": "defavorable"
      }
@@ -55,6 +55,26 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "b3302407955f",
+     "date": "2026-11-26",
+     "titre": "L'action Clariane s'envole de 37 % en une semaine et rejoint le prix de la potentielle OPA à 4,60 €",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjBwaXZHell3VWozWjUxN2FWdkpnanJNdDh1UklCZTNxMS1kVGlTQkZTdm5jOXJyR0xCWVpMMi1QUW1aZk1DM2xCM2oyczNxdWp5cERrLVBHblNNUHU4cWJSLXk0c0gxQWtlaG9BdUZJcWFIVG5NUDUxZzNTejdCX3NOMUlPQmhhVHlPbm9zdmFibE5iNmtzOWlYYUs3aEc2WTJ1cEpzdml2aHRYalI0ZlJtQzFtbGlEZV9lUGNGVjY3R3Zka0ctdUctTzVqX2VWMnhWQ1FCdG5YUGZSU2diWQ?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "6efcdba68ed9",
+     "date": "2026-11-26",
+     "titre": "Clariane shares soar 37% in one week and reach the price of the potential tender offer at €4.60",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdDNrczNCenc0WmQ4Q2VyYUdoV0VWSlAtSDN1a1FnOWVrVWFvQkFWblpHV1lIZGIwNDM4VXdyVEZoVE5RTTJxR1JrOV96V0pqclcwN182ZS1fb1dPS29BSzd4VXdVNkxqU3RLYi1FVjZZTmFkQU4wenJ0Z2NtWURUWnh5bkRQUko3NVI3TmtDQnhNWjhSZnlIZnhoZ2hIOTJjbVo2LVl2QVQtT2dxd2R5OVhiS195VlZJengzQ3hhVVRzem1rbVZxQjZfWktsUHNvbGxZYTlIbTFoZHlIWHIxVFYwRE13VnBJNHlJ?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "ffc2d613a440",
      "date": "2026-11-25",
@@ -106,31 +126,11 @@
      "mots_risque": []
     },
     {
-     "id": "ba3f398ab2fe",
-     "date": "2026-11-24",
-     "titre": "Clariane : une OPA à 4,60 euros par action mais pas de retrait envisagé, prime de 38% par rapport au dernier cours coté",
-     "source": "Investir Les Echos",
-     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdEZoVDZWeExXVkU1RFV2NnB2YlQ1dTJtUHpMMGtmZTJoZ0F0dXg4TXdZcDdxOFk1TndLSXdiSkEzYVRhWmNFX0VMdUpsYnp1REVJSllHaHJlakFwZndqOTA0eWNDQ1liOUY1UHhtcHNEQ0MyaF9oRm52bDBNbEJjc2pYMnY2akI2N1ptRDA0MkFDeU1VendqOUliTHRLRWhwc1hHazl6Z08wbzRRcm1VdWcxNlhuT1EzY05YRkZrTEM4QmI5Q3YzYWFBYzY5NkdWOUp0TG51QndzeHcwdU4zMlhYVlA0NWJKZTB5ZkEyTnpNLVdVRWVBS2FVc05TWDc2Um15eG02U0l3dGduTkRzVFRBWXVGZw?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "8e19ea952f85",
-     "date": "2026-11-24",
-     "titre": "HLD Europe et Crédit Agricole Assurances lancent une OPA simplifiée sur Clariane",
-     "source": "Zonebourse Suisse",
-     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORmFibkZtV1BhaTdXMm1GZVJYbzNpZF9NSC1YM3ZNbUQwU043eEw4b2VqMU5Jc0F5M2sya1FaMDdrWnR6TWppNkpnYndlS2FaS0drZnUtcmhOQnFPMWZDMFp0bTVmQW5YUzhDS1NLcEZUSGF0U0VxZGZGdkp5Wk5pSzZFS2lYQjFRLXZRUjkwS3ZWQkF5SVlFc0ROQ0l2MU1BNWhrUEJYdXZIZVRDSkNrX0VVVFljd0Z1SXlmeFozUWtHMWp0STVRcEJQSEFSa1I1dDNCVU8xOA?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "a7aa78deb905",
-     "date": "2026-11-24",
-     "titre": "Clariane renaît en Bourse tandis que Coats Group perd le fil",
-     "source": "Zonebourse Suisse",
-     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHlMUXdxYjk5OWwwSDNjNHQzLW9YRHBWODFaU1c0empIVVZjWTQ1YjBrMG9YdkZxS2c4eWYzNUFRM2NpWWJjaHlxRHB2WEc3YjFwc29oVDNFdjJBMjJkeTJ2bUFjbm9iTk9MWmdSQVppd0RLY2d2em1QRUt6ak9jbGc0WkxLcXdqdE5ldmMyeWtsUkhoaE91d05MZWZiVm90SW9FNnpSQ3I4Z2tJbExJeGVFVG85aWZibzZDRg?oc=5",
+     "id": "78aebab73f2b",
+     "date": "2026-11-25",
+     "titre": "Clariane : une OPA à 4,60 euros, mais les actionnaires devront-ils vendre ?",
+     "source": "Economie Matin",
+     "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BTVM4S3lCdlFuQUlMenc5blBYTGEtSUlxX3M3Y0dMTHk1T2N0NXFvcTBWdVYzVE9HTmNkemNSVE1QWWhId0tMSjA2OGhNWkhUTDZvTkhwbmJEcFhydWdXUEN4TG5BaXZNX01jTUlHbw?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -187,28 +187,28 @@
     "devise": "€",
     "bourse": "Euronext Bruxelles",
     "actuel": {
-     "valeur": 72.68,
-     "date_valeur": "2026-11-24"
+     "valeur": 72.66,
+     "date_valeur": "2026-11-25"
     },
     "periodes": {
      "1m": {
       "valeur": 75.4,
       "date_valeur": "2026-10-23",
-      "variation": -3.61,
+      "variation": -3.63,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "1a": {
-      "valeur": 53.86,
-      "date_valeur": "2025-11-24",
-      "variation": 34.94,
+      "valeur": 54.5,
+      "date_valeur": "2025-11-25",
+      "variation": 33.32,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 52.38,
-      "date_valeur": "2021-11-24",
-      "variation": 38.76,
+      "valeur": 54.35,
+      "date_valeur": "2021-11-25",
+      "variation": 33.69,
       "unite_variation": "%",
       "impact": "favorable"
      }
@@ -236,27 +236,27 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 10.97,
-     "date_valeur": "2026-11-24"
+     "valeur": 10.96,
+     "date_valeur": "2026-11-25"
     },
     "periodes": {
      "1m": {
       "valeur": 9.75,
       "date_valeur": "2026-10-23",
-      "variation": 12.51,
+      "variation": 12.41,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 13.36,
-      "date_valeur": "2025-11-24",
-      "variation": -17.89,
+      "valeur": 13.24,
+      "date_valeur": "2025-11-25",
+      "variation": -17.22,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "5a": {
-      "valeur": 5682.624,
-      "date_valeur": "2021-11-24",
+      "valeur": 5668.5737,
+      "date_valeur": "2021-11-25",
       "variation": -99.81,
       "unite_variation": "%",
       "impact": "defavorable"
@@ -269,6 +269,26 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "4e5603142898",
+     "date": "2026-11-26",
+     "titre": "Emeis : pénurie de lits en vue avec l'arrivée de la vague des baby-boomeurs",
+     "source": "Investir Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVWU0X2tNaFN1enh1OE03cFVLRzVCZ3IwLTZJTlppUUV3dERuWVZ5b0RSVnRnRFNBRnBYZF84MTUzdUhlV1Q4UVI5cGFpYjB2Z1NBWTVVNUYwSXhDOHBPRmY3ems2WGFka2I4ZldGdHUwRmhTVUk5T1BNcWsyUHhxZ2RQRVVLYjRjajZiQW1aT1oxUGFiR0JhY3VrbWpia0o2SnZJMWpoekpKQ092Y1hDUEF3RlFNeGhaLWFDRUZpZnZpU0pEMzRWNlRzVW5xbUFaN2VWYWdXNjRLR0ZyaFE?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "f1126756911f",
+     "date": "2026-11-26",
+     "titre": "L'action Emeis signe +11 % sur la semaine et repasse au-dessus des 10,97 €",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDdvb3NOYXFJZ0R3T0lkaEJWT19OaVpVX1lGRC1aM0NITnFrdHhnczJxM1Q1WHhpOGxvY056aDZPRWtnUVg1VUlYd2JiOFlmNkM5ZXBRQ2dSQjVZQWwxeEluMEMtRmY2S1Z2RFBzb0taT040SGJBQnpXTUNXV28xbndIcjFacFdsSTVSaE9qNlo3ci05Ti1SLVRGU25yTnY2d0lXZ2tIUjZnWHVndWl2YzZaMWpDSUNhMlB4bmRMdw?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "570ad67ce6e4",
      "date": "2026-11-25",
@@ -325,26 +345,6 @@
      "titre": "L'action Emeis reprend 5,8 % sur un mois et repasse au-dessus de sa MM20",
      "source": "Idéal Investisseur",
      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2QxaWlYM3Z6NGNfcU1iN0lxNFhraFBfd19JS0o5aS1ORWFaWmo1UkdIZU83X1Zmb2pNaVVZa2ZzTTFwWmhoQXV5eEFjRTNhWUVPRHdkNzRRNEtiOW5xa3JXcjcyMk1ISWFNYVYyek04ZWJOTTN0dWxEYzRpU2t3V01ENTd0Q2hHUGVRLXZyOW9nR05tdVZ6Z1U5TjVlTzNoT19kc2swcFJxczZxenRnS3N0TzkzUzY2aHRkeFRmSFc?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "b9b868159acc",
-     "date": "2026-11-04",
-     "titre": "L'action Emeis rebondit de 3 % mais reste à -27 % sur le trimestre",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2pNN21ndEtnTEhaTjNldjBOb1hzWkl4YmkwdHctOFlIaDc3QVJQWEhVQWtxaWRrcXdnckpfaURIYmszN0FSb09Hel9UVzlvN0c4c1piWXhFMW1WY210dmFKVnBYbDJYUzNMeWw3VGxhSWFxSl9MMXFoTkFLNkVOeURlYUs2WU52eC1VU1lVaGJLZnpScW4xUmhUdG1HRENyMFcweWxfcVFMVldmYjlKZ0NCelVEUQ?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "f0208ac0219f",
-     "date": "2026-10-30",
-     "titre": "emeis : le redressement se confirme, TP ICAP Midcap reste à l'achat",
-     "source": "Bourse Direct",
-     "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYU5pZ1R1M1pKSVJNWERpN1lGdGx4LWg1OTZ1b0xCZ20yTUpDZzVGVk04b2p2NEl5WkJQUmRMeGgyNWRoME54YW9IMkQ1V2hOeGt1YzJvR2dvSWgtQ3VlcFRmQWk3Z3JHbUlqU2l4WDNNeGMwQmhtZ1JLQTdXd2YwNkdrek5PR2JsXzUyY1RsZ2pWSHEwMG1KZG16bXV0eUc3cjRXZjF1QmxrQzh1TDQzYnNkVVJBZzNrWXdXRkJCeUN5VWIyNHhRWUo3R3FfcmJhWi1uUWRLS3d1eURXV2VfcE4yckxRaktzLWgyY0wwUXJ3OU42T2Jvd21Kb1NyMXFpenFveDM0YmFWZUxpMlpWNGxGNEJPekU1QWtnYUlacTYwejRmS2dveEdRQkZQNnNhNkF0a1ZZMEZNa1RuZzhDdm5Odnk?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -545,28 +545,28 @@
     "devise": "SEK",
     "bourse": "Nasdaq Stockholm",
     "actuel": {
-     "valeur": 135.3,
-     "date_valeur": "2026-11-24"
+     "valeur": 133.6,
+     "date_valeur": "2026-11-25"
     },
     "periodes": {
      "1m": {
       "valeur": 114.8,
       "date_valeur": "2026-10-23",
-      "variation": 17.86,
+      "variation": 16.38,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 81.4,
-      "date_valeur": "2025-11-24",
-      "variation": 66.22,
+      "valeur": 82.9,
+      "date_valeur": "2025-11-25",
+      "variation": 61.16,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 33.82,
-      "date_valeur": "2021-11-24",
-      "variation": 300.06,
+      "valeur": 34.46,
+      "date_valeur": "2021-11-25",
+      "variation": 287.7,
       "unite_variation": "%",
       "impact": "favorable"
      }

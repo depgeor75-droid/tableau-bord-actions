@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-26T02:11:42+01:00",
+ "genere_le": "2026-11-27T02:10:44+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -12,19 +12,19 @@
   "autres": "Autres"
  },
  "synthese": {
-  "debut": "2026-05-26",
-  "fin": "2026-11-26",
-  "total": 102,
+  "debut": "2026-05-27",
+  "fin": "2026-11-27",
+  "total": 108,
   "officiels": 15,
   "compteurs": {
-   "resultats": 15,
+   "resultats": 17,
    "dividende": 3,
-   "cessions": 0,
+   "cessions": 2,
    "acquisitions": 25,
-   "financement": 9,
+   "financement": 10,
    "locataires": 0,
    "cofinimmo": 12,
-   "autres": 38
+   "autres": 39
   },
   "par_mois": [
    {
@@ -75,35 +75,36 @@
    {
     "mois": "2026-09",
     "libelle": "sept. 26",
-    "total": 22,
+    "total": 23,
     "officiels": 3,
     "par_categorie": {
      "resultats": 3,
      "dividende": 2,
      "acquisitions": 6,
      "cofinimmo": 3,
-     "autres": 8
+     "autres": 9
     }
    },
    {
     "mois": "2026-10",
     "libelle": "oct. 26",
-    "total": 14,
+    "total": 15,
     "officiels": 2,
     "par_categorie": {
      "acquisitions": 2,
-     "financement": 4,
+     "financement": 5,
      "autres": 8
     }
    },
    {
     "mois": "2026-11",
     "libelle": "nov. 26",
-    "total": 28,
+    "total": 32,
     "officiels": 2,
     "par_categorie": {
-     "resultats": 10,
+     "resultats": 12,
      "dividende": 1,
+     "cessions": 2,
      "acquisitions": 1,
      "financement": 3,
      "cofinimmo": 2,
@@ -121,6 +122,54 @@
  },
  "synthese_ia": null,
  "articles": [
+  {
+   "id": "3a9058848d0f",
+   "date": "2026-11-26",
+   "titre": "Aedifica chiffre jusqu'à 2,5 Md€ de cessions possibles, maisons de repos en tête",
+   "source": "Idéal Investisseur",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckd3ekFGR2FwMWFiS2w4cXBRLUwxc3hqNmlCRUlDZl9VUldpN2gxaFN6ZnZsSmt1N01tNGgxZ3dlQXBxZVJSM1AxYUNySGxzU0ZwNkxOX2Y3SkdIRHVrR20xVS1xMFV2SHBPTlNvck93UXhlNWZjNzZvYnM0My1fWDdjNFk3WllMNXpIcEFrb2JBN2p4d2JIbkV1Y0FLZElJdUNWQTh3LTlIZXNiRWRRbzVqSkNZUVl4c1lfWmNEQ2x5QUsyTThHRFg1UQ?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cessions",
+   "vu_le": "2026-11-27"
+  },
+  {
+   "id": "491a81e57d72",
+   "date": "2026-11-26",
+   "titre": "Winstgroei Aedifica hangt af van desinvesteringen",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGZyOVNWOUNHVXBBREJEUkZFNDNpWFh4NnJ5bXlhcGRUcnlyUThDNGFGR1VFOVRQMXVsNDFYek16RE05NWtleDJFR3RiVHVxVmU2WVg2N3AzZzZQTWNZb0MzYW1YSEM5SVJBbXBocVYzX3ZUN05hVUtiNlQ2NDVweXRDcm5fSng4dmk4ZHVtZFQxMDZ5cGNCXzd1aTU2dzJFNmFnTUxqTE9EMC1p?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "resultats",
+   "vu_le": "2026-11-27"
+  },
+  {
+   "id": "4740aa6b0394",
+   "date": "2026-11-26",
+   "titre": "Beursblik: winstgroei Aedifica hangt af van desinvesteringen",
+   "source": "De AandeelHouder",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGNDOHFTQ1VSVng5RkJ3MzdVX2J1Z2dLQVJYbzkzRFlBTVF5ZzN0Yi1BNjlsR3J6WjQ4MUFpTWlYWWdTN2p0OTNjQWI5cEJia1F4S3BhdHRSTHUzNzZYSWhscTBraW8xMGl1Z3ZsOUo4SzdNUEt5YjZ3VXNBOENyVnNfWnotdkhja1J1MHpQY01Cal9zRzYwaDdfRjF4VlhpYVY0UHloc0J5bGdTa3c?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "resultats",
+   "vu_le": "2026-11-27"
+  },
+  {
+   "id": "251bc8f356c8",
+   "date": "2026-11-26",
+   "titre": "Aedifica unlocks up to €2.5 billion in possible disposals, with care homes leading the way",
+   "source": "Idéal Investisseur",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnhBS3RBU01TY1FfQ1VKN0NfalljcHNwR0hrWTNrUDBPZnNFWVhoQ2VtdHg5YjVjMklGd3BZTEotQ1N2TC1lV3ZRdVVGNEhFcURTekNHQ0VuQUNXOUpZTE1JT095T2RJMW9WX3l1N2gzQUdJX21aSmswZlEteDVITHJoREM1Q2dqVGJ2aFZDbEhRbjVjcllCaVFuRU5kTXVlSW9RQUE3Q25CNS0tYkJTTURQOGdVa1F0eVhpc2lIU25sRTg4YkwzUE1ObXRDMnZEOHB3YS1vRWhlYkN1b21VOEh5UHc?oc=5",
+   "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cessions",
+   "vu_le": "2026-11-27"
+  },
   {
    "id": "cf5535bf3306",
    "date": "2026-11-25",
@@ -147,7 +196,7 @@
   },
   {
    "id": "32622d2eae2e",
-   "date": "2026-11-24",
+   "date": "2026-11-23",
    "titre": "Aedifica, BASF, CMB. Tech, l'indice Ifo... Ce qu'il faut suivre ce mardi 24 novembre",
    "source": "L'Echo",
    "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRNZldHckNFZ21hQ0U3NGpXbS1rSHZhZEVNeGh4dkQ4ZU9KMjFhSk9tZ1NRU3NLbUV4NUwzeDFMeHNWbURUQnRzTlM5VlhVZFZXVjJqYmd2YUw1VTZMbjhPVV9VX2kzSkVjaEFiM2V1VUYwUXo3SUhiS3YtM0hHZkl5ZXQ5ZGJ3X0V3MW9YUnlDU0ZXc2xweTQtTlkwSy05Mmh4c05lYU5uU3hwTmZWUmZ0NnFFek1pSi13Rk1jcUtERm5sUUlfd1pGdw?oc=5",
@@ -458,6 +507,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "5b49b8a7097f",
+   "date": "2026-10-29",
+   "titre": "De sterke fundamenten van Aedifica compenseren de hogere rente en hogere schuld",
+   "source": "De Belegger",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1BLSlFpbFhpcVQzWm5XbTBOQTZkWWZXVFF4YXFPS3pjTGlNVFRNRHI1REJUVkprTjJpeUJMZmhpRXh4VU9SREVHN3JrR25yZFhISmVXX0U4dXNINW12R2ZIWGNGR2tIMVgwTmJBQmRSbXcybE1SbEhMQUtfZUFuQ1JEejhwSGVPRGZnRGgyU1FiM25hcFJPcmRTdXJlNXhaRmdiQTZCZEJDc3lNbXZPS3RiU2x6Ty1SM3NxaWhnSXlMdll6T3AweHpDdFpNODZZZ2c?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "financement",
+   "vu_le": "2026-11-27"
+  },
+  {
    "id": "043422942fc8",
    "date": "2026-10-28",
    "titre": "Aedifica : Découvrez Aedifica à Finance Avenue",
@@ -708,6 +769,18 @@
    "officiel": false,
    "categorie": "acquisitions",
    "vu_le": "2026-11-25"
+  },
+  {
+   "id": "a1e330fbaf77",
+   "date": "2026-09-10",
+   "titre": "Aedifica stock pre-market at EUR 61.03: plus 0.05 percent",
+   "source": "ad-hoc-news.de",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzVOeHFEenllN0phSHloYzcyb3dhcVJWdHpPTF84cU1lRXVKUU1kUGpueVNrMHowbzJxLVlHVVIzWVcwUkZaZXU3X3FlV3RXNUtkRFVYbF9RbUpEdGZwemlFdktnZ25HNzMzRy1aQ1ZwWkl2RVNQWUNzSTdWdnI3RGx4cTJHQkdWQkFLWkZHS1Y1aGV2YXRLTndFdjNrM3BZUG5LcGw0MXdWRml4VlFqQlV6cW8?oc=5",
+   "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-27"
   },
   {
    "id": "098c31cff6ad",
@@ -2114,6 +2187,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "83ee905f1fb2",
+   "date": "2025-12-17",
+   "titre": "Amazon, LVMH, Novo ou Aedifica… Voici les 20 actions préférées de Leleux pour 2026",
+   "source": "L'Echo",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTl2X0Vzc2F3bGxKMGtuVGd5a0xwNnJpMG9ZQkFNTXdPaDFra0l2eldDY2dpdGpDaEl3VmVfeWcxRlBMOWtfeWxMa1lGemFFSktjd1BiYVhTQmhidks0ZzNzV095RjRtbFhJQWF3RTg1eko4MG9xNGoxZzA1TkpnLTVJbFkyV0xxUWtmbl9hUGxjSk9sM1c5amJfVHFSMXdPMFZ1SUVxZ3RTekhJcGJ0bGljVk40VTYwTFk0cVk2NFJzWkVSLU0ta0dCbXJXdE0?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-27"
+  },
+  {
    "id": "53238f2421ea",
    "date": "2025-12-16",
    "titre": "Bernstein verhoogt Aedifica naar kopen door fusie met Cofinimmo",
@@ -3132,6 +3217,18 @@
    "officiel": false,
    "categorie": "cofinimmo",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "f6f0a4df3e43",
+   "date": "2025-05-02",
+   "titre": "Aedifica overname voorstel voor Cofinimmo",
+   "source": "Forbes Belgique",
+   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84RUQxRFY0aWI1STVSS2ZvSDUxYlJkNTFaWS0zckx3amExUHB4VFRfT1dlN0xveXRlWC1EZm1Mc3g4QWdZSURfWmF5MEF2VkY2OENQcVNCd3ZXVDJHRzI3SnlhTU14OHVUVi1VSFV6TXd5dncxZW44ME5R?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-27"
   },
   {
    "id": "8a29eaf8ad83",
