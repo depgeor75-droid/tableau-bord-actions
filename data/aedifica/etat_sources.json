@@ -1,9 +1,9 @@
 {
- "genere_le": "2026-11-27T02:10:57+01:00",
- "duree_secondes": 38.8,
+ "genere_le": "2026-11-28T01:43:25+01:00",
+ "duree_secondes": 33.3,
  "resume": {
-  "ok": 24,
-  "ko": 2,
+  "ok": 26,
+  "ko": 0,
   "total": 26
  },
  "sources": [
@@ -20,14 +20,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3301,
+   "points": 3302,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 66.75,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 67.65,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:19+01:00",
-   "derniere_reussite": "2026-11-27T02:10:19+01:00"
+   "verifie_le": "2026-11-28T01:42:52+01:00",
+   "derniere_reussite": "2026-11-28T01:42:52+01:00"
   },
   {
    "id": "cours_ajuste",
@@ -42,14 +42,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3301,
+   "points": 3302,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 66.75,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 67.65,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:19+01:00",
-   "derniere_reussite": "2026-11-27T02:10:19+01:00"
+   "verifie_le": "2026-11-28T01:42:52+01:00",
+   "derniere_reussite": "2026-11-28T01:42:52+01:00"
   },
   {
    "id": "taux_depot_bce",
@@ -64,14 +64,14 @@
      "etat": "OK"
     }
    ],
-   "points": 4714,
+   "points": 4715,
    "premiere_date": "2014-01-01",
-   "derniere_date": "2026-11-27",
+   "derniere_date": "2026-11-28",
    "derniere_valeur": 2.5,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:21+01:00",
-   "derniere_reussite": "2026-11-27T02:10:21+01:00"
+   "verifie_le": "2026-11-28T01:42:54+01:00",
+   "derniere_reussite": "2026-11-28T01:42:54+01:00"
   },
   {
    "id": "estr",
@@ -86,14 +86,14 @@
      "etat": "OK"
     }
    ],
-   "points": 1833,
+   "points": 1834,
    "premiere_date": "2019-10-01",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 2.444,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 2.445,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:23+01:00",
-   "derniere_reussite": "2026-11-27T02:10:23+01:00"
+   "verifie_le": "2026-11-28T01:42:55+01:00",
+   "derniere_reussite": "2026-11-28T01:42:55+01:00"
   },
   {
    "id": "euribor3m",
@@ -114,8 +114,8 @@
    "derniere_valeur": 2.634682,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:25+01:00",
-   "derniere_reussite": "2026-11-27T02:10:25+01:00"
+   "verifie_le": "2026-11-28T01:42:57+01:00",
+   "derniere_reussite": "2026-11-28T01:42:57+01:00"
   },
   {
    "id": "bund10",
@@ -130,14 +130,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3273,
+   "points": 3274,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-26",
-   "derniere_valeur": 3.25,
+   "derniere_date": "2026-11-27",
+   "derniere_valeur": 3.29,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:25+01:00",
-   "derniere_reussite": "2026-11-27T02:10:25+01:00"
+   "verifie_le": "2026-11-28T01:42:58+01:00",
+   "derniere_reussite": "2026-11-28T01:42:58+01:00"
   },
   {
    "id": "bund10_mensuel",
@@ -158,8 +158,8 @@
    "derniere_valeur": 3.416,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:26+01:00",
-   "derniere_reussite": "2026-11-27T02:10:26+01:00"
+   "verifie_le": "2026-11-28T01:42:59+01:00",
+   "derniere_reussite": "2026-11-28T01:42:59+01:00"
   },
   {
    "id": "olo10",
@@ -180,8 +180,8 @@
    "derniere_valeur": 4.38,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:27+01:00",
-   "derniere_reussite": "2026-11-27T02:10:27+01:00"
+   "verifie_le": "2026-11-28T01:43:00+01:00",
+   "derniere_reussite": "2026-11-28T01:43:00+01:00"
   },
   {
    "id": "vix",
@@ -196,14 +196,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3278,
+   "points": 3279,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 28.29,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 26.8,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:28+01:00",
-   "derniere_reussite": "2026-11-27T02:10:28+01:00"
+   "verifie_le": "2026-11-28T01:43:01+01:00",
+   "derniere_reussite": "2026-11-28T01:43:01+01:00"
   },
   {
    "id": "vstoxx",
@@ -218,14 +218,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3286,
+   "points": 3287,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-26",
-   "derniere_valeur": 23.9979,
+   "derniere_date": "2026-11-27",
+   "derniere_valeur": 22.2891,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:28+01:00",
-   "derniere_reussite": "2026-11-27T02:10:28+01:00"
+   "verifie_le": "2026-11-28T01:43:01+01:00",
+   "derniere_reussite": "2026-11-28T01:43:01+01:00"
   },
   {
    "id": "bel20",
@@ -240,14 +240,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3301,
+   "points": 3302,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 5837.71,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 5929.4399,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:28+01:00",
-   "derniere_reussite": "2026-11-27T02:10:28+01:00"
+   "verifie_le": "2026-11-28T01:43:01+01:00",
+   "derniere_reussite": "2026-11-28T01:43:01+01:00"
   },
   {
    "id": "immo_europe",
@@ -262,14 +262,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3275,
+   "points": 3276,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 27.85,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 28.345,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:29+01:00",
-   "derniere_reussite": "2026-11-27T02:10:29+01:00"
+   "verifie_le": "2026-11-28T01:43:01+01:00",
+   "derniere_reussite": "2026-11-28T01:43:01+01:00"
   },
   {
    "id": "care_property",
@@ -284,14 +284,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3301,
+   "points": 3302,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 12.86,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 13.12,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:29+01:00",
-   "derniere_reussite": "2026-11-27T02:10:29+01:00"
+   "verifie_le": "2026-11-28T01:43:02+01:00",
+   "derniere_reussite": "2026-11-28T01:43:02+01:00"
   },
   {
    "id": "welltower",
@@ -306,14 +306,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3245,
+   "points": 3246,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 246.18,
+   "derniere_date": "2026-11-27",
+   "derniere_valeur": 249.69,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:29+01:00",
-   "derniere_reussite": "2026-11-27T02:10:29+01:00"
+   "verifie_le": "2026-11-28T01:43:02+01:00",
+   "derniere_reussite": "2026-11-28T01:43:02+01:00"
   },
   {
    "id": "eur_gbp",
@@ -328,14 +328,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3303,
+   "points": 3304,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-26",
-   "derniere_valeur": 0.83755,
+   "derniere_date": "2026-11-27",
+   "derniere_valeur": 0.83504,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:31+01:00",
-   "derniere_reussite": "2026-11-27T02:10:31+01:00"
+   "verifie_le": "2026-11-28T01:43:04+01:00",
+   "derniere_reussite": "2026-11-28T01:43:04+01:00"
   },
   {
    "id": "inflation",
@@ -356,18 +356,18 @@
    "derniere_valeur": 4.0,
    "ancienne": false,
    "categorie": "marche",
-   "verifie_le": "2026-11-27T02:10:32+01:00",
-   "derniere_reussite": "2026-11-27T02:10:32+01:00"
+   "verifie_le": "2026-11-28T01:43:04+01:00",
+   "derniere_reussite": "2026-11-28T01:43:04+01:00"
   },
   {
    "id": "officiel_fr",
    "libelle": "Aedifica — communiqué officiel",
    "categorie": "actualites",
-   "etat": "KO",
-   "message": "aucune publication PDF datée trouvée sur la page (mise en page modifiée ?)",
-   "elements": 0,
-   "verifie_le": "2026-11-27T02:10:44+01:00",
-   "derniere_reussite": "2026-11-26T02:11:42+01:00"
+   "etat": "OK",
+   "message": "",
+   "elements": 61,
+   "verifie_le": "2026-11-28T01:43:11+01:00",
+   "derniere_reussite": "2026-11-28T01:43:11+01:00"
   },
   {
    "id": "presse_fr",
@@ -375,9 +375,9 @@
    "categorie": "actualites",
    "etat": "OK",
    "message": "",
-   "elements": 93,
-   "verifie_le": "2026-11-27T02:10:44+01:00",
-   "derniere_reussite": "2026-11-27T02:10:44+01:00"
+   "elements": 89,
+   "verifie_le": "2026-11-28T01:43:11+01:00",
+   "derniere_reussite": "2026-11-28T01:43:11+01:00"
   },
   {
    "id": "presse_nl",
@@ -385,9 +385,9 @@
    "categorie": "actualites",
    "etat": "OK",
    "message": "",
-   "elements": 107,
-   "verifie_le": "2026-11-27T02:10:44+01:00",
-   "derniere_reussite": "2026-11-27T02:10:44+01:00"
+   "elements": 160,
+   "verifie_le": "2026-11-28T01:43:11+01:00",
+   "derniere_reussite": "2026-11-28T01:43:11+01:00"
   },
   {
    "id": "presse_en",
@@ -395,9 +395,9 @@
    "categorie": "actualites",
    "etat": "OK",
    "message": "",
-   "elements": 26,
-   "verifie_le": "2026-11-27T02:10:44+01:00",
-   "derniere_reussite": "2026-11-27T02:10:44+01:00"
+   "elements": 60,
+   "verifie_le": "2026-11-28T01:43:11+01:00",
+   "derniere_reussite": "2026-11-28T01:43:11+01:00"
   },
   {
    "id": "loc_clariane",
@@ -412,14 +412,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3303,
+   "points": 3304,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 4.5,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 4.69,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-27T02:10:44+01:00",
-   "derniere_reussite": "2026-11-27T02:10:44+01:00"
+   "verifie_le": "2026-11-28T01:43:11+01:00",
+   "derniere_reussite": "2026-11-28T01:43:11+01:00"
   },
   {
    "id": "loc_abinbev",
@@ -434,14 +434,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3301,
+   "points": 3302,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 72.66,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 71.46,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-27T02:10:48+01:00",
-   "derniere_reussite": "2026-11-27T02:10:48+01:00"
+   "verifie_le": "2026-11-28T01:43:15+01:00",
+   "derniere_reussite": "2026-11-28T01:43:15+01:00"
   },
   {
    "id": "loc_emeis",
@@ -456,14 +456,14 @@
      "etat": "OK"
     }
    ],
-   "points": 3303,
+   "points": 3304,
    "premiere_date": "2014-01-02",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 10.96,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 11.68,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-27T02:10:49+01:00",
-   "derniere_reussite": "2026-11-27T02:10:49+01:00"
+   "verifie_le": "2026-11-28T01:43:16+01:00",
+   "derniere_reussite": "2026-11-28T01:43:16+01:00"
   },
   {
    "id": "loc_attendo",
@@ -478,14 +478,14 @@
      "etat": "OK"
     }
    ],
-   "points": 2763,
+   "points": 2764,
    "premiere_date": "2015-11-30",
-   "derniere_date": "2026-11-25",
-   "derniere_valeur": 133.6,
+   "derniere_date": "2026-11-26",
+   "derniere_valeur": 133.4,
    "ancienne": false,
    "categorie": "locataires",
-   "verifie_le": "2026-11-27T02:10:55+01:00",
-   "derniere_reussite": "2026-11-27T02:10:55+01:00"
+   "verifie_le": "2026-11-28T01:43:22+01:00",
+   "derniere_reussite": "2026-11-28T01:43:22+01:00"
   },
   {
    "id": "locataires_actus",
@@ -494,17 +494,18 @@
    "etat": "OK",
    "elements": 40,
    "message": "",
-   "verifie_le": "2026-11-27T02:10:56+01:00",
-   "derniere_reussite": "2026-11-27T02:10:56+01:00"
+   "verifie_le": "2026-11-28T01:43:23+01:00",
+   "derniere_reussite": "2026-11-28T01:43:23+01:00"
   },
   {
    "id": "rapports",
-   "libelle": "Surveillance des rapports financiers",
+   "libelle": "Page des rapports financiers de la société",
    "categorie": "rapports",
-   "etat": "KO",
-   "message": "erreur inattendue : aucune publication PDF datée trouvée sur la page (mise en page modifiée ?)",
-   "verifie_le": "2026-11-27T02:10:57+01:00",
-   "derniere_reussite": "2026-11-26T02:11:56+01:00"
+   "etat": "OK",
+   "elements": 0,
+   "verifie_le": "2026-11-28T01:43:24+01:00",
+   "message": "",
+   "derniere_reussite": "2026-11-28T01:43:24+01:00"
   }
  ]
 }

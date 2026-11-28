@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-27T02:10:56+01:00",
+ "genere_le": "2026-11-28T01:43:23+01:00",
  "date_parts": "2026-06-30",
  "source_parts": {
   "titre": "Rapport financier semestriel 2026, p. 42 à 44 (répartition des loyers contractuels par groupe de locataires)",
@@ -22,28 +22,28 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 4.5,
-     "date_valeur": "2026-11-25"
+     "valeur": 4.69,
+     "date_valeur": "2026-11-26"
     },
     "periodes": {
      "1m": {
-      "valeur": 3.144,
-      "date_valeur": "2026-10-23",
-      "variation": 43.13,
+      "valeur": 3.106,
+      "date_valeur": "2026-10-26",
+      "variation": 51.0,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 3.538,
-      "date_valeur": "2025-11-25",
-      "variation": 27.19,
+      "valeur": 3.58,
+      "date_valeur": "2025-11-26",
+      "variation": 31.01,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 27.4,
-      "date_valeur": "2021-11-25",
-      "variation": -83.58,
+      "valeur": 26.42,
+      "date_valeur": "2021-11-26",
+      "variation": -82.25,
       "unite_variation": "%",
       "impact": "defavorable"
      }
@@ -55,6 +55,56 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "88af15283cee",
+     "date": "2026-11-27",
+     "titre": "L'action Clariane cède 2 %, au prix exact de l'offre à 4,60 €",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXM4OTJuTE5qWHhTazdUam5pQUtlNUpNcFZmaWJlVE1TMk1TckhZOVptc1YzNV9KQ0NJNXo4YUpCd1k0R3VTZS1ETHJDMTVTekFzZVg3a1pjajg0YzlQSGlCak9KalFTMThuMjZjT3pjWUVqV3hMN1hmb185ZUc2S1gxQTJIem95ejhtTGlGNFB1ejN4UkF4aHlYZ2F1OVo3QlNWUnZsdmlTZzVU?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "28c404c28b20",
+     "date": "2026-11-27",
+     "titre": "A&O Shearman advises on HLD's Clariane tender offer",
+     "source": "A&O Shearman",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1drSWRNSXRlaTZaaXNNajNzREE1bHpaNGtJQlh4RjNsUV9kSmlISEhwVHFlb1cxVE5pY3hpdHJsSWFCWEZMME1yY1RaMWlqYm1hbTlRMmpSQ0VXYXg1ZnNTWGFjY0Z6NHcwYXhWbi1uNUdwSWgzWVlSUlpZcFZrSTRhX2NmeUNFNEd1elR5b25oS0ZLd0Y1Z1FJcVZXR212QVFhS0xVbFZXS1JNR3Y1cEhZcnVHVHNXQmFudg?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "57435a74d939",
+     "date": "2026-11-27",
+     "titre": "HLD Europe Plans €4.60-Per-Share Clariane Tender Offer In Bid For Control",
+     "source": "Pulse 2.0",
+     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXhKU1BNTndGNV9lR0hVeHZxUFoxZjZqZE1Od0tweVpZckF6bkRBOTdNX3BMX1lHMUdTbkw5dURfREM1eVppbF9Ta0ZWeWc1SWJSb1ZFYnlEV3I3bGtnRmw3eUtkRXFOVUdtcHJwMXJTOEU1bkdpMi1sdDJmbmVSVGJBYzZqMWhjQUpvN3gwc3FOMVhBdzhJRQ?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "9a468d2e79d4",
+     "date": "2026-11-27",
+     "titre": "Clifford Chance advises lenders on financing for HLD’s proposed tender offer for Clariane",
+     "source": "Legal Desire",
+     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUNxLV9TQmN1eDU1VEtqRE5XbVlGZ0hFczJTcF9GbkNIRzVzaWFXRmVsWEw5SGcwRmNLWXpaR1hZNmM1Nkc5NzNVUWdOTkpIQWxneVNOM2E3ejgtSjFBVVBGNmFkMHkyZ29fQXhFWl9sbklGZlhwZjVPenY4THJ0elFmZ09Dd0JVemZoNFpmRy0tSW1vQzltMEdsN2YtdjdldGw3ZjlNaWJiMFhHQXp1STJtRQ?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "44cfd299a891",
+     "date": "2026-11-27",
+     "titre": "Clariane shares fall 2%, exactly at the €4.60 offer price",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDN6ak4xMGF3YVR2eFhFNHNxV3JPVHQ3V2RPd0V6andpWEJHNnZWZjRadWNWT1BNTHJNVnNYbFU3eERHSTMxVl9KbXA5LUVYNzV1cmgwT2RrTWthRE9wTk4wMWhoeGV6VUhnbi0tX2NDNGFZYkpiM2tsUkZTRmdaai1nQjFLdVBsUVR6ZnVoUGZiMlJiU1dCNVB6NWVwQVp5YkNLb290cXJZLWctRzNzdXNfOVpyWUE?oc=5",
+     "langue": "en",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "b3302407955f",
      "date": "2026-11-26",
@@ -76,62 +126,12 @@
      "mots_risque": []
     },
     {
-     "id": "ffc2d613a440",
-     "date": "2026-11-25",
-     "titre": "Clariane va faire l'objet d'une prise de contrôle par ses deux premiers actionnaires, il faudra choisir son horizon d'investissement",
-     "source": "Investir Les Echos",
-     "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTkw3QVQ4ZmtkdlRubUlabXRHYlJkRVJmREk1blFDcFRPWXY0M0dwYWtTbHg4dTNfNFJpVGxQTGRaUWJieGh0X213YkFGVHNMMFY0emJISG9udERXNzUtX01UTW1idTRicEFQbWRWTTBPS3BmWGpNRHE2UkNPa2NGb3NaaXdfX3dERTFNakpwekVrSTdQdGZjcV9PV0h2LW5BbjNpTllIRzMtbm1xTURIZ2dFdnFLbnZEdnpPaTBMdEhzUjlNY0k3eDIxcTVZdFhQUlhfZHVEb3poeUJyU1N2UlFmS0xlb0dod0VJVXVVQWdYby1ZRHRtNjFlclozOTVaRjR3MF9XNDY3Y0prX19VUzJXMWtTVWhFaExEOGRuTXVKcXZlSjdKNQ?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "2b0382f76691",
-     "date": "2026-11-25",
-     "titre": "Clariane : HLD Europe et Crédit Agricole Assurances préparent une offre à 4,60 euros par action",
-     "source": "Revue économique de France",
-     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV29aTThNX1ZkbHdOMVNaMmRFb0hlaHZxa0V0czZBRkhOYkFhSWhodXp2clNjb2d6Z054VFY2cUZLb0dZLWM1SUt4X0RabkR1Um9pTjFMY2ltX1dFbHJMSkVHZUtiTGFnZnp6MVN3LWxOTlZZbllCVVNOUnpVY1JhUFNMRE04TkhOMEo4aldBcGxZb2FrcWdFeVpfTlFNNEpyY1Frc3AzWEZkSjNWcjlnQ25vUQ?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "be31ec102802",
-     "date": "2026-11-25",
-     "titre": "rdv de l’année, EHPAD korian bois Robillard, Nantes – 25 novembre 2026",
-     "source": "Unidivers",
-     "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3F2UThMdGE4RUhLdk5RdDFSY1ZvLWZsVkJBOUhuQWdnaU4xeUl6dzNqcUhMQVdxQkxDY1c4Y3RjUnc2ZlFSUkZtWnhsV0dNS3VfRnJncDZIWHp0Y0tYeE9uTGRjazVUV1dmRUNpZjR0c3ktN1p0bm52ZjV6LWNjbHgyYkVPcF9KZV80eXpfSl9kNXd3b0N1aHlscHRNZjQ?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "517d50535dfc",
-     "date": "2026-11-25",
-     "titre": "HLD plans €4.60-per-share Clariane takeover at 38.3% premium",
-     "source": "Dealroom",
-     "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGx1c1Z6RG0zdzBvQ010V1gtc2NLeVpRZ0xkYVQ3d0p4dXFSdE41b0dBM3BJeEhKX0dwal9qeUF0dXhfQ0JXT1IwRVdIcENNeWVJdkxhb0RuQjNaOFZxWmFsbHJWd0dwdG13UmFpYkd1R1hSb0NPR3o5cVltTl9ZY0hPVF8wS2tnaHZRVGpKZ1ZJa1U2cEdB?oc=5",
-     "langue": "en",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "749147fced81",
-     "date": "2026-11-25",
-     "titre": "France: HLD Europe plans €4.60 per share tender offer for care provider Clariane",
-     "source": "Investors in Healthcare",
-     "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakZwcnAzRFdXbXRBZ0xYYmxQeXdNZm9YTWdlSmRRYklHQ1VXenJWMFRCYzBva0RHWW91bXRGZGpBU0ZCbVBHR1VhVU9MeUZQTlZNVE8ySVlIam5sczVlbV85amtKSF9QRGZjSGVBcDJjTTVRNjJKanQxbGExeHVXNDljbm1zN3djencydDgydVF1Mm1sbE5XZmJWMWRpVk9kNkFRaDNSRDZyNGhaR2JDMnhHMEF6S1NyNnd2eDl2d1NpcG56Um1kX2pPV2dUYjRTX1R6RnF2RmQ?oc=5",
-     "langue": "en",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "78aebab73f2b",
-     "date": "2026-11-25",
-     "titre": "Clariane : une OPA à 4,60 euros, mais les actionnaires devront-ils vendre ?",
-     "source": "Economie Matin",
-     "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BTVM4S3lCdlFuQUlMenc5blBYTGEtSUlxX3M3Y0dMTHk1T2N0NXFvcTBWdVYzVE9HTmNkemNSVE1QWWhId0tMSjA2OGhNWkhUTDZvTkhwbmJEcFhydWdXUEN4TG5BaXZNX01jTUlHbw?oc=5",
-     "langue": "fr",
+     "id": "73030a8bd259",
+     "date": "2026-11-26",
+     "titre": "A5UBXU | Clariane SE-Anleihe: bis 27.01.2027",
+     "source": "Finanzen.net",
+     "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTW5nTkFnaE54amJST0NVVXl4c1V5MzdXVG8xM2liQWw4THY3VHJ1ZnBELWZXMUh1eEx2STRYRFNjX1RZODRYTlUwUGg2b3hjMnV6X1dKQVNadE55aklxTkdIZENWbFBtQ1lSeA?oc=5",
+     "langue": "de",
      "risque": false,
      "mots_risque": []
     }
@@ -187,28 +187,28 @@
     "devise": "€",
     "bourse": "Euronext Bruxelles",
     "actuel": {
-     "valeur": 72.66,
-     "date_valeur": "2026-11-25"
+     "valeur": 71.46,
+     "date_valeur": "2026-11-26"
     },
     "periodes": {
      "1m": {
-      "valeur": 75.4,
-      "date_valeur": "2026-10-23",
-      "variation": -3.63,
+      "valeur": 73.6,
+      "date_valeur": "2026-10-26",
+      "variation": -2.91,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "1a": {
-      "valeur": 54.5,
-      "date_valeur": "2025-11-25",
-      "variation": 33.32,
+      "valeur": 53.42,
+      "date_valeur": "2025-11-26",
+      "variation": 33.77,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 54.35,
-      "date_valeur": "2021-11-25",
-      "variation": 33.69,
+      "valeur": 51.19,
+      "date_valeur": "2021-11-26",
+      "variation": 39.6,
       "unite_variation": "%",
       "impact": "favorable"
      }
@@ -236,28 +236,28 @@
     "devise": "€",
     "bourse": "Euronext Paris",
     "actuel": {
-     "valeur": 10.96,
-     "date_valeur": "2026-11-25"
+     "valeur": 11.68,
+     "date_valeur": "2026-11-26"
     },
     "periodes": {
      "1m": {
-      "valeur": 9.75,
-      "date_valeur": "2026-10-23",
-      "variation": 12.41,
+      "valeur": 9.77,
+      "date_valeur": "2026-10-26",
+      "variation": 19.55,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 13.24,
-      "date_valeur": "2025-11-25",
-      "variation": -17.22,
+      "valeur": 13.19,
+      "date_valeur": "2025-11-26",
+      "variation": -11.45,
       "unite_variation": "%",
       "impact": "defavorable"
      },
      "5a": {
-      "valeur": 5668.5737,
-      "date_valeur": "2021-11-25",
-      "variation": -99.81,
+      "valeur": 5367.1353,
+      "date_valeur": "2021-11-26",
+      "variation": -99.78,
       "unite_variation": "%",
       "impact": "defavorable"
      }
@@ -269,6 +269,36 @@
    },
    "veille_actualites": true,
    "actualites": [
+    {
+     "id": "52b6b00d8db9",
+     "date": "2026-11-27",
+     "titre": "« Les auditeurs auraient dû être le rempart face aux manipulations comptables de dirigeants peu scrupuleux » : le gendarme de l'audit réclame une lourde sanction contre les commissaires aux comptes d'Orpea",
+     "source": "Les Echos",
+     "lien": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPT0trN3ZqdXVydkRnZjI2Y3NYbDZmYS1BUURqeWlLYUNtUmdSMHduSzgtZTVsZm5QakJOdGlIam9MRXU5NWpmNzM4S3hpN2hDRUIyM3lMcnBKOUJSRTRxcExJLWtycUlsbUtWOVprSFNLTUxCY3dXNkt3TkdjcU0tRk9uYWZqd3B2UHBac1pzNVVFeDJzck92a2ZESzAyYnRabmFPQVNVMkpUa1VOclZmMUFnYzdzU3B6b3ZpQUduRmx3WUwtOFM4bEE5a2loUXJvc1hrNjlDVnhBQ2FIZFc1VlpvSUNPSkM0aDNiMnlLVzJOQ0dHYS1GYWwtYktSeW83R3Y2cDhrVEdZb0pENjQxcWVXR0dxZlNOTG1EYkZlM3ctQ0o2RGM1cThnWlJJYzB4WGhPdFk4UG01Q2RYU19iVWNkeC00cEkwRGJFOXVHUVFjNFN5cEtnSkJ1dHkyaWdSUWxMTTNfNGJYM0Z4bmtDOUx5RE1sTGF3WFBJLQ?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "7135ff8dbbac",
+     "date": "2026-11-27",
+     "titre": "L'action Emeis cède 2 % mais garde +17 % sur un mois, dos à sa résistance",
+     "source": "Idéal Investisseur",
+     "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORU5NXzZtaUplQWhGckE1ZEMtUm1fbFMxbEdidTdaLVVWMGxDaFFtM2FFQ3VzNHpGRHZHbGo4REpzUzU0ZW03bS1MNHh2VzZIMkIydU5CdDdSWndJMzhCc0d5cXdZcTd3WHdST2lxOFZReVFWdDg1TkNEY3l2Q3lVSVVUN3pTU1d6WURYZE80b19OUVVKRmtfcnVpOEVQY093UEZUZGNXRWpqeUJVbF93VnhqZldXNzlhMUlSenRB?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
+    {
+     "id": "7cd315d72551",
+     "date": "2026-11-27",
+     "titre": "« Prendre la vie comme elle vient » : à Bourges, Andrée Bonnet a fêté ses 105 ans à la résidence Emeis Clos des Bénédictins",
+     "source": "Le Berry Républicain",
+     "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQzlPRGlJSFRzN1F4X3Q5dW5Dak0xMUw1ZjVfQWotaUlhNktDY1dNN3VPWVRVYlJMSTN6VkNrMXgxNjhmNlFaMEhNTlpOd0FnRWdHaFhVamMzOERwejlsSTVmUm1ZdUhwVjBDTHFJNU9EYzBybnBzdUw3NjRmVG5tOUtkdEl4N0V0TlhCZE9oelRNUmRuUXZ6bkNrRDQtZXlXcTNSZkJ5WnZ5MFlVV2xlNDV6blVLYkF6bGxjVWRNTDZHbWhnc1Ywbk9LdW16TFpHdy0yaEF1SGE0Tm1xTjFHUW9kcEdqUE9LaTFaTmJVbWhEbUlFZjlQVHJ6ZTVNUTF0NzZB?oc=5",
+     "langue": "fr",
+     "risque": false,
+     "mots_risque": []
+    },
     {
      "id": "4e5603142898",
      "date": "2026-11-26",
@@ -315,36 +345,6 @@
      "titre": "L'action Emeis grimpe de 5 %, dans le peloton de tête du SBF 120 après l'avis de Kepler",
      "source": "Idéal Investisseur",
      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1JHaHc0NGN2clNYbWVFUW1aMTAxcURxbHVfWWw0c0xSbDkxWHBzU29ORGE2dFI0YVVMV0xZc3ktOXNSTThJQnhlNDZ6Wi1HOHNxSmZsTjR4M3NhRlVIakJ4MVlLX25MRVhWUWdycGlQc0NxZUdfcXRiRGdQYTZBZFhmOHBSTHlFMFlwUllIVnlVd1ZpX25qU0NWalBGS0J1ME9xNlJnQjA1TVUyaEVYVlRqT3RCeGhRclM5cUZHcTY4dFBwRV9kaVN6Qnd1Y2ZDLUFj?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "90cafa5a1a46",
-     "date": "2026-11-23",
-     "titre": "L'action Emeis se reprend après un trimestre difficile",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXBGZnNBbHgtQlA2TzJKZ1VMcjgwZDJXenotQWVXWDdMT1hlazBCbWQxQWJhU1UzcmdsWXZHQkJaUVBBUUk0MV9YcXNfRTFXZ2NGUWVnUW9hcEo2c09pQUwwQmhFSzhFNk5CRm1qbF9LTXY4OHFNMXFlZExOZ1NOYWNKc2FtcndUYjMwU0pYREtsblJ3Q2dMeXVUc3kxTm0wZVB2aG8tSG1KenFk?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "9d28aab0f7e5",
-     "date": "2026-11-17",
-     "titre": "L'action Emeis lâche 28,5 % sur trois mois et repasse sous sa MM20",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmNjQzNxTkY4UWl3MXJOeDVVTG1MRVlvbURWUkRtSFpDeXVxeU00NFhkNDdVQklCUDBrQWxLUDJTLXJ0U2M2Y3hReUFmWUJvSEt2bVBYU0hLMExxOUZKSlhBQ25wQ255ai1OaGxoQzRNT2NXUS0ydmdmT1BpNkIyODdDVVJVc0RNbEstMDEyYldXc1Nna3kxVjRsSlBjMmhSalNXQ210OWlXaGtJZUZzSTJTSk1iR2FR?oc=5",
-     "langue": "fr",
-     "risque": false,
-     "mots_risque": []
-    },
-    {
-     "id": "5159ee889149",
-     "date": "2026-11-05",
-     "titre": "L'action Emeis reprend 5,8 % sur un mois et repasse au-dessus de sa MM20",
-     "source": "Idéal Investisseur",
-     "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2QxaWlYM3Z6NGNfcU1iN0lxNFhraFBfd19JS0o5aS1ORWFaWmo1UkdIZU83X1Zmb2pNaVVZa2ZzTTFwWmhoQXV5eEFjRTNhWUVPRHdkNzRRNEtiOW5xa3JXcjcyMk1ISWFNYVYyek04ZWJOTTN0dWxEYzRpU2t3V01ENTd0Q2hHUGVRLXZyOW9nR05tdVZ6Z1U5TjVlTzNoT19kc2swcFJxczZxenRnS3N0TzkzUzY2aHRkeFRmSFc?oc=5",
      "langue": "fr",
      "risque": false,
      "mots_risque": []
@@ -545,28 +545,28 @@
     "devise": "SEK",
     "bourse": "Nasdaq Stockholm",
     "actuel": {
-     "valeur": 133.6,
-     "date_valeur": "2026-11-25"
+     "valeur": 133.4,
+     "date_valeur": "2026-11-26"
     },
     "periodes": {
      "1m": {
-      "valeur": 114.8,
-      "date_valeur": "2026-10-23",
-      "variation": 16.38,
+      "valeur": 117.7,
+      "date_valeur": "2026-10-26",
+      "variation": 13.34,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "1a": {
-      "valeur": 82.9,
-      "date_valeur": "2025-11-25",
-      "variation": 61.16,
+      "valeur": 82.5,
+      "date_valeur": "2025-11-26",
+      "variation": 61.7,
       "unite_variation": "%",
       "impact": "favorable"
      },
      "5a": {
-      "valeur": 34.46,
-      "date_valeur": "2021-11-25",
-      "variation": 287.7,
+      "valeur": 33.1,
+      "date_valeur": "2021-11-26",
+      "variation": 303.02,
       "unite_variation": "%",
       "impact": "favorable"
      }

@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-27T02:10:44+01:00",
+ "genere_le": "2026-11-28T01:43:11+01:00",
  "mois_affiches": 6,
  "categories": {
   "resultats": "Résultats",
@@ -12,51 +12,50 @@
   "autres": "Autres"
  },
  "synthese": {
-  "debut": "2026-05-27",
-  "fin": "2026-11-27",
-  "total": 108,
+  "debut": "2026-05-28",
+  "fin": "2026-11-28",
+  "total": 121,
   "officiels": 15,
   "compteurs": {
-   "resultats": 17,
-   "dividende": 3,
+   "resultats": 16,
+   "dividende": 4,
    "cessions": 2,
-   "acquisitions": 25,
-   "financement": 10,
+   "acquisitions": 31,
+   "financement": 12,
    "locataires": 0,
-   "cofinimmo": 12,
-   "autres": 39
+   "cofinimmo": 14,
+   "autres": 42
   },
   "par_mois": [
    {
     "mois": "2026-05",
     "libelle": "mai 26",
-    "total": 5,
+    "total": 3,
     "officiels": 0,
     "par_categorie": {
-     "resultats": 1,
      "acquisitions": 1,
-     "autres": 3
+     "autres": 2
     }
    },
    {
     "mois": "2026-06",
     "libelle": "juin 26",
-    "total": 12,
+    "total": 14,
     "officiels": 4,
     "par_categorie": {
      "acquisitions": 2,
      "financement": 2,
-     "cofinimmo": 5,
-     "autres": 3
+     "cofinimmo": 6,
+     "autres": 4
     }
    },
    {
     "mois": "2026-07",
     "libelle": "juil. 26",
-    "total": 16,
+    "total": 17,
     "officiels": 3,
     "par_categorie": {
-     "acquisitions": 11,
+     "acquisitions": 12,
      "cofinimmo": 2,
      "autres": 3
     }
@@ -64,34 +63,34 @@
    {
     "mois": "2026-08",
     "libelle": "août 26",
-    "total": 5,
+    "total": 7,
     "officiels": 1,
     "par_categorie": {
      "resultats": 1,
-     "acquisitions": 2,
-     "autres": 2
+     "acquisitions": 3,
+     "autres": 3
     }
    },
    {
     "mois": "2026-09",
     "libelle": "sept. 26",
-    "total": 23,
+    "total": 28,
     "officiels": 3,
     "par_categorie": {
      "resultats": 3,
-     "dividende": 2,
-     "acquisitions": 6,
-     "cofinimmo": 3,
-     "autres": 9
+     "dividende": 3,
+     "acquisitions": 8,
+     "cofinimmo": 4,
+     "autres": 10
     }
    },
    {
     "mois": "2026-10",
     "libelle": "oct. 26",
-    "total": 15,
+    "total": 17,
     "officiels": 2,
     "par_categorie": {
-     "acquisitions": 2,
+     "acquisitions": 4,
      "financement": 5,
      "autres": 8
     }
@@ -99,16 +98,16 @@
    {
     "mois": "2026-11",
     "libelle": "nov. 26",
-    "total": 32,
+    "total": 35,
     "officiels": 2,
     "par_categorie": {
      "resultats": 12,
      "dividende": 1,
      "cessions": 2,
      "acquisitions": 1,
-     "financement": 3,
+     "financement": 5,
      "cofinimmo": 2,
-     "autres": 11
+     "autres": 12
     }
    }
   ],
@@ -243,6 +242,18 @@
    "vu_le": "2026-11-24"
   },
   {
+   "id": "117b09d9b34a",
+   "date": "2026-11-20",
+   "titre": "De Belegger Aan Tafel van vrijdag 20 november onder meer over Anthropic, NVIDIA, EVS, Aedifica en de tik voor bitcoin",
+   "source": "De Belegger",
+   "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeFFibnNPUjJfQncwczRzWDdheHNzVExpd2ZDakwweW5UVEdGSE9nSlN1T1U1YTBaRUhlNzFYR3FWR2NzM0hSMmhsMFhkNUxDRFBOTFJBb1FIOVNqYWpJanRhREl2dS0tVV9GbWdZUVJFRGlDUmFhdVR4eWxjNWdkbENNQ25BMjE2Q2c2TkEybWhnN1E4SkRtd29kWGx6Z19MQnJ4d0hyQ01wUkh6YXM5SVlxN3JQV0xhZzdBaDlHMFRXeHRwclhYUzhoSGIzZ1htSVJ5TU9oWEJfZ2VVRUgwTXRJbzZ0UDNkMGNJYUlsaXF1MEhwMG1rczRjUUUxNnNwMTRPNVNiUjk?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "1584fbac7008",
    "date": "2026-11-19",
    "titre": "AB InBev en Aedifica wegen op Bel20",
@@ -294,8 +305,8 @@
    "id": "0c2d84f55b05",
    "date": "2026-11-19",
    "titre": "KBC Securities verlaagt koersdoel Aedifica",
-   "source": "Beursduivel.be",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS012VkNvNTFQQU1YOXAyZkxIc2tNbnh0bmZLVjIzekdGTU9rMzh5WUZNY2thWVB1UFFvczY3bWpwLXJERUZZTlhWWFN6QS1abEx6b1NEV0VGQzVxcXhlaW1xcTdMbmRiSjF0UjdycFhyU2VVb1BKZHV6T3A5M0RYYlRDSFNvMW1GaEJVUi1CaV9tZw?oc=5",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZjFFN19HZmd2b0JWMTRhZGMtbXJjaUsyRlNyYzJEejdnMlZ6cUNOZS0zTUM0UXZMM0k0UHYyYURueEQ5YjJRSHFDdUt3X21uN3lESlJrUUFZNU5OVGJBdEtqQkdmNENzSEVQU1R5SFJLNTF3OEVieGo2V2lhRHhFOU1uNmU5ODVFdXdIcVpzNXgzcDZTOG1qN3pPUXJTYTJnX21R?oc=5",
    "langue": "nl",
    "extrait": "",
    "officiel": false,
@@ -450,8 +461,8 @@
    "id": "eef7b4ec3a77",
    "date": "2026-11-18",
    "titre": "Aedifica bevestigt outlook na hogere winst",
-   "source": "Beursduivel.be",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjZQbkpHNnJxUTVRbF9pVWszdXFVdEJ6WWtxZU8zS2NWbTZKbHhQUlQzS0ZURmxxTWcyQVk1aXJyTG52SFhfQVVwU2Q2WFN6Z0lXbkRTUWUwUnkxS1VKYWVhNGlpbU1XUFpNMWQxNE1MVFI1Sk4xS2FHbExuMjZpNDlxTEdjc2J0M2JUbnpLUklhZw?oc=5",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3Q3clZ5U1luUlI1Zzh0R0JyTWZxaDc1SWhWQ0ZJdXNreEZ6MW5nUmFoUUxHV3h1aHRoMHAtYWx5LTZXZ1VOWDdWZnI5enR1dDBERzE4YXhpTG9oS0xhLTVQZVdQbXh0Zmt6eEpicV9LcUd5QU9feHc0VW5zQWg4ZnJtYWo3OHcyVTZQbTdDWGw0NUZPV0VUb2hZeHNBdHFNbjJF?oc=5",
    "langue": "nl",
    "extrait": "",
    "officiel": false,
@@ -483,6 +494,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "4f6d684608e1",
+   "date": "2026-11-12",
+   "titre": "Aedifica haalt 500 miljoen euro op met duurzaamheidsobligatie na orderboek van 3 miljard euro",
+   "source": "www.dvo.be",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUFPOENpbFNCMmpUckhDVDQ0djA0cDQ3TElNaThQRzNhVTN6TEJJR2JXVHRxb2ttTnFGMGdYVWRNazVzb3ROTzgtcXAtdnRDRk1nRlh5RzI3bVJUUWpUS0o2bU5HWDdBdEJtSWIxVXFPVVBZX2w3MHg2UkROZnJTN0x4WGhhM002MU1LUGJpX2tPcnByWV9iQVk1bUlmZHV1ZlBSVjFIaTB1VlpzZjhMTkZCWnJOWlFfQUdQeA?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "financement",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "eda009445d4b",
    "date": "2026-11-11",
    "titre": "Aedifica issues €500m sustainability bond",
@@ -493,6 +516,18 @@
    "officiel": false,
    "categorie": "financement",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "73983aa1907b",
+   "date": "2026-11-11",
+   "titre": "Aedifica haalt 500 miljoen euro op met duurzame obligatie",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0F2ZzNzOGQ2anZBa0x5NWQwNUFDVUlVUVhvQTVYa1hMbmZBX3oyd2ZpSFFWbGJJbXVMRXgtMER0MERhM0pfTUp6dnFnQXA4X09jTUVNeXpVWnhtVXNjZEpvSDhSeEVYVEFnVmlHQkh1RDM5OTEtckxQcy1KalNjSzZuZmt5QzUtUkJaNVU5U0RYRGdhMUNCX2ItSjU2bzRMVUZueFJB?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "financement",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "a868c1e40631",
@@ -618,13 +653,25 @@
    "id": "7bd8ccecdcff",
    "date": "2026-10-16",
    "titre": "Aedifica krijgt A3 rating van Moody’s",
-   "source": "deaandeelhouder.be",
+   "source": "De AandeelHouder",
    "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGZLVlkteGtvQkJPZmkwQjc0c1dlT004VHFCNTFPN3E2Xy1Ca3N4eWEzS2hoeF9DTFJnMkI2ODVfSUtFMG5MY2V6d0FhOUpSVFlUUC11dDE4bDJrdURXNDNMazdkYS1nXzc5WlZmUlBNa0ZVYnB6LVJXTDlxZ3VmOVRiWnM1TGVmY1RKeHdJNA?oc=5",
    "langue": "nl",
    "extrait": "",
    "officiel": false,
    "categorie": "financement",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "8abc86f4a8dd",
+   "date": "2026-10-16",
+   "titre": "Moody's kent Aedifica voor het eerst een rating toe na overname van Cofinimmo",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX09FWnRiUk9IdUxiR0ZDRTY5ZmFjVHdNRWh2dTBWaTVSWmk2MExXV1FaTHpXNG5IMGx0Q1JZZnVMY1NLWkd2NlRxWUt0YXZ0ZG5GMGtKQ0g5UnIxUEVoVEZha1RvSXRDbU1vOFBxbkE5QnpERW1wOXNOeVMzVFM2V3k5RVpwWDJXbFZsbWFRUTVQRUlWSDFLRzJLTHZTeHhRMnR0Y1ZjSS1CUjNyc0h4VE5fOENpaC1tWVNvVVB1V3FSX3hmQXo0Yk01LTR5ZFh4VlE?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "b57a47b0e924",
@@ -651,6 +698,18 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "454420a6b5ce",
+   "date": "2026-10-10",
+   "titre": "Aedifica NV/SA: Aedifica invests €21 million in two care properties in Spain and Finland",
+   "source": "ASSETPHYSICS",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkJFUkRra0FoTEE1Yi1RbjhjMFpkQ2hyZlZXXzVRcjBIOFNSakVfU1BDZk51bEEyVkVNRC1iSFhITXVqMzBzcEpJTWJYLTU1QXB1V0R1SXNTQUc2S3h1STVLYUE5MVA5S3owMnNnRUhDYVloTDlrOW9mOVFyeUJPbngwVVNnZlZwNjBZSnQ1eFNSdWY5M1ZrQUlPR2JsenNyejZKakFUWDFPaHpwcFRfRG8yMkxxdw?oc=5",
+   "langue": "en",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "3b277da6a25d",
    "date": "2026-10-05",
    "titre": "Econocom s'envole | \"Vendez Colruyt\" | Avis de brokers sur Ageas et Aedifica | Position \"short\" sur Azelis (+Briefing)",
@@ -666,8 +725,8 @@
    "id": "8977681f590e",
    "date": "2026-10-05",
    "titre": "Citi Research verlaagt koersdoel Aedifica",
-   "source": "Beursduivel.be",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXVOcUdJOUdVMS1UaHBUYVZtaTRHZFRzZkpNT0swMVVpdkxQaWIyOXM0UFlJczF3XzhDMm5ETkplNHVTSE1uWXZJUm9oem1EN2VFaU81T2p3SUV4MkxXRG1DSjNCY1JTSE1BTjU1NDVCSjk3b1hVbmF4TGF6MlpjMkY3Q202bFNzd2gxZlBXOWg?oc=5",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3JUSEp2TWRYTXFIOENOSjVDM1oybzE3Q0ZLZ21BeXRqbmZldXR1dzIxMUNSTksySnhjT3NSZGJzZXdoaThpZXRzd3Z6VXZqclVidWhpVDQ4cWxMcHV5X1I4ZFZiSGxDRThjNEVUazhnUmxET2pZenJ3bUVtaGNxVE1PblA3cWlGeU5xaGc2cU1ITHY0ODhQVTVVdW0xcWdXVmc?oc=5",
    "langue": "nl",
    "extrait": "",
    "officiel": false,
@@ -783,6 +842,30 @@
    "vu_le": "2026-11-27"
   },
   {
+   "id": "338cf8007237",
+   "date": "2026-09-10",
+   "titre": "Aedifica investeert ruim 12 miljoen in Spaanse zorgcampus",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmw5Y3pLUEstVEtJNUgzQWxkX1loT0ZYaVlmWFdISUZNbXVnOTRlWnpPOGxiVmljaGtPUFlzR25KbkMwcW1qcDhJbzlLZEM5ZjJldEE3SktQRjhjNkhwbVp3RmxJUU9qWTVUXzAxQ3NOWWZrT05iLXVDcHk1S3FQRW5uNmp2MTRKRkVaRHEwNUdjTEZDR1BUZl9OaDR4X0VkcWFUVTJn?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-28"
+  },
+  {
+   "id": "52a426695155",
+   "date": "2026-09-10",
+   "titre": "Aedifica investeert circa 12,5 miljoen euro in Spanje",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRG4yM0VTaGJJV1NlN3c3dGVzTXJ4dXNmNl9BTFF1YlF4ZDB0d2JfRzZSZm1WTlZIZThCQ2VRMGtHMC01YmR3cjcxa1liZkZBR1JKdU1KVVM0NW1OWWpmX0xZZnVPZWxlM2xPQk1reC1wY1JUbTNiTER3RlpGRzVBdFBlbnlFUFJnbTc2VFF6bUVISzJFN2p2UGdWelFweGR1QkJGWk1oLVNicFpQU2V1UFJR?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "098c31cff6ad",
    "date": "2026-09-09",
    "titre": "Aedifica reste dans l’ombre des taux d’intérêt",
@@ -829,6 +912,18 @@
    "officiel": false,
    "categorie": "autres",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "711a558013a3",
+   "date": "2026-09-07",
+   "titre": "Aedifica, Atenor, NBB, Gimv",
+   "source": "Testaankoop",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3VlamRKQjVZcmhFbWVuSXJ6RlU3MVFOWXctdzRLMnU4bnRma1dRU1JpMWRUbmVOU0Z2c3pmbjMwc2RiSVVwemJRU0RxYWVTWWdET2tGSlp1WlVDRHJubjVjeURLMGRBVGZ3a0tqWlp4YXRmNGY4N1VTeUp3LUpna1JrdXFrZWhvQ21nLU5yd1lZYVQ2Q2dTRXRla0ZET3JMcjZNUmRWUGVRelpf?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "c2c3073e0e09",
@@ -963,6 +1058,30 @@
    "vu_le": "2026-11-25"
   },
   {
+   "id": "55a427d06af0",
+   "date": "2026-09-01",
+   "titre": "Eerste voordelen van fusie al zichtbaar bij Aedifica",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWNZRDlzVU9vMHFEMmpMNUE0MkdMQUJWS0VycHlfRWNZX3V3eDV6aEtTeHRGM0tZS2pJNXNXT1ptNVpzQzkzTnNxazZoQi1RbExYZTZTZlZqajNmSjJHR1E3eHgwbXJfdjVkdFVlaDBVX3N6NXIzT19ORzVXaGNjN3NkSjViMFh1Mi1fel9keFNZM0otM2I5MUYwU205djZnNGZubUpBVnQxelk?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-28"
+  },
+  {
+   "id": "8092a1d3e020",
+   "date": "2026-09-01",
+   "titre": "Aedifica | Dividendrendement zal oplopen tot 6,5%",
+   "source": "IEX.nl",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1VMMnBIVXNjZEtaWHY1S3pSUTlrcURSQ1pQc0NHb2pfZktDNTlFaXZnOVdfZS1iOVVUUlpzckp3WXZ2YzhkNnBveWNzc0dXNTZjbmJoMHk5cmRnUXJNUDVOOWIyWnpDWVJWZDRKUjgyYVFJSEUxSzlzN2NRdGFoeENFVGhOTC11cW5JV2FUZ1Rhd25lbnoxOVRyRHRqalp2N0E?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "dividende",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "f25f8f736a84",
    "date": "2026-08-31",
    "titre": "Aedifica, Ekopak, Shein, l'inflation en zone euro... Ce qu'il faut suivre ce mardi 1er septembre",
@@ -987,16 +1106,40 @@
    "vu_le": "2026-11-24"
   },
   {
+   "id": "b94f24600537",
+   "date": "2026-08-31",
+   "titre": "Van Aedifica tot Broadcom: 4 bedrijven om deze beursweek in de gaten te houden",
+   "source": "De Belegger",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazV6Z1R1ZW14a1ZKN2VyeVp5ZDNFZEM3YzhhQnFHbV8zczhZN3JQV3FyeE8yVEN5UGE3VGY5aEhsQ2pvdTQwcWQzeE14YnpVRkpoNGdGOWZQQ1llVVRuME0xTklqYk5jVHdtYzQwbWI0OGhFMDFwU2dIMnVuMTBVbXpzS2Vid3N0SllZX0hFWFR6SWY0TEtFMU1xdm5rNlBpRTVEQzBtandzWGFjYnc2YWpwUEJUX3NSM0dfVjBnaTktQnFrWDhBUUdndFp1NEFsOFJn?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "079545d78aa2",
    "date": "2026-08-18",
    "titre": "Aedifica invests €20 million in the development of 2 care homes in Finland",
    "source": "ASSETPHYSICS",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaF9hakd0LWtGMnJBcUtGM2pVQURfWnhDaGNzanhOMWpKbW9GNVlhbTk5MDlXSHVoSFFwN18zNUxZUVhkN0NYYVJBWExMQ3d3SWdGTFlERy1ObXY1QlZvQnRrNXNNOW9EdkJhYW1HSkZvMzEtWUFVVnY2NGM5WENGb3lJaDBQM1dmazBXQlFCbFZVYXhYbjFwRS10eUM5Q3Jh?oc=5",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFZqWVdvand3aDBDdF9QcWNCTF9UMEhiSHJLbjhDOUxzX0NoVktpNXJfNjE4cFVsV0E3UVhWM21aRXF6SEs3M2Zsa3RGc2ktV3FzQ2xhWS1jdTg5QzhFY0l0cERPQVpva2pwWlZONU1TUWhPd045NDB0dG9XMi1FT2NqemluOG9IdjdLZm9OSjZqM21EdEw5YjBjRVpLYjNXTlBR?oc=5",
    "langue": "en",
    "extrait": "",
    "officiel": false,
    "categorie": "acquisitions",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "7f89f5db1acc",
+   "date": "2026-08-18",
+   "titre": "Aedifica investeert in twee nieuwe Finse woonzorgcentra",
+   "source": "Beursduivel.be",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVZNV0ZoektrZ00tZ1Bha0djeVRjQlpqTnF2Y2FCdnJYSHpERFJ2bVI0THdzandPdUdWYmt6a0tKTDR3NDRuR0pPaUFPaGdYNjJiVl9jSTFaZnB5dEtabmw5LU9HazlsZlJpckZ3dHUzdncxM21UZGJHaVpxYVVNMlR5WTJ3a2tnOWl2MDFFdHJENGdENjVlNGZTMGF3eURFdl9Z?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "2f2ae6bc383f",
@@ -1117,6 +1260,18 @@
    "officiel": true,
    "categorie": "acquisitions",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "5f030d61ebcf",
+   "date": "2026-07-16",
+   "titre": "Aedifica investeert circa 21 miljoen euro in twee zorgvastgoedprojecten in Spanje en Finland",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa3pBd2xLYlhxTzdKWU85THB0ckNyeTlpcFUtTTdZbkNrWGlFazRRalJWUDZJRGZpaHRxamIxaVNaejdnNHIwdnR3X0hidXlmRnp1d0t0QlBMZ1EzTXo2WkxhVjZYQ1l4TFoyWTFBMENVa2JYS3BZLU9wYTg5NUpsclVYWTJUXzFPTHFJU2QzU1Q4UlozT0hiSjdYUi1nUHJ3aVh1cnkwNHF4bTVYWXdjYWpNR1FYbFVVU0UzdF9HQWdUcmdOSVpGdVpuQmJJcWsyWTZpZ1I0WXZ5amdYb2tTdmdyUU1LZw?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "acquisitions",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "a45a76b34b79",
@@ -1311,6 +1466,18 @@
    "vu_le": "2026-11-25"
   },
   {
+   "id": "a2d88f817008",
+   "date": "2026-06-29",
+   "titre": "Aedifica koopt zorgcampus in Duitsland voor 20 miljoen euro",
+   "source": "made-in.be",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUhwaV9xbDVtQzZZMTdOX0s5cGhZSkNhQ0lkYng2THNuWGF6YjZxb2hQTVQ1SHVTNWZaQVp5SERwdUFQYW1iYzJUZ0tuUldHTFNGMlAza1FmNjhETk9oYVJ5clZNcWRVRUVIRmxKZDhpM0JPRm91YmZRaGFDa01ydTBSbkNrWjVxTzYzSkNiVk9sb085dUdRQmMteUNLVDg?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "883cafe91b53",
    "date": "2026-06-15",
    "titre": "Publication relative à une notification de transparence de Stichting Pensioenfonds ABP",
@@ -1333,6 +1500,18 @@
    "officiel": false,
    "categorie": "cofinimmo",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "1ec84d352903",
+   "date": "2026-06-15",
+   "titre": "Les actionnaires d'Aedifica ont approuvé la fusion avec Cofinimmo",
+   "source": "Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZkNXNXNhNFh6R2ZaV0p1TC1jQnl2OVl6aDdnYlh3aDRiZ25tdk5yTjRRSmptOFNVQ0Q1TmhraHMybGZHLVZpdGZLcE12bF9tdUJsa2QxWVVXZnhabzZtdlpHNEVRUGRRN0J4cUpHWDFxQjhRczk0VF9KcXBKbXplS0t3WFRfbzdWQzBMX3VvbjVYVjBFb1NuZF9oQlhESlU4eGRoTVV0a0lUNnpiVDNjRXdVWUJyMnB2blduUzZJTUFDcENkSjgxY2pOb2hLVThBVTNPc0VVQnFoT0hpQVgtUm5HakUxVy1LUThRODJad3pQRFh4MDYxaVFaSFlQOWdEb2NJZFByNGlLWXM2c3FzS0FVck4?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "f94240701cff",
@@ -1453,6 +1632,18 @@
    "officiel": false,
    "categorie": "resultats",
    "vu_le": "2026-11-24"
+  },
+  {
+   "id": "de9af9ceafaa",
+   "date": "2026-05-20",
+   "titre": "Aedifica | Nieuwe groeifase na fusie met zorgvastgoedbedrijf Cofinimmo",
+   "source": "IEX.nl",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0NnTzJYbmYzcjJaVTdFall4dzhqZzdkQUlQWWNwNDgtdm9oREZjcGVIUG5Xd0g5ZEVTQkJWNmtnVTFWUnpXYUhBdEZxSGtubmI0SkQtaHNBMW5UNzlBXzhKelpzOFMxQ1VENlFEeHJhVXc3S0F1M1NNUERzTVplVG5ManRrRjZ4Q01Zc1o4S1RYbmhZVFZwWEJCbUs5Zm1KS0Z1VVRuSQ?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "cdc00fcebeae",
@@ -1585,6 +1776,18 @@
    "officiel": false,
    "categorie": "autres",
    "vu_le": "2026-11-25"
+  },
+  {
+   "id": "3daab06e2d1d",
+   "date": "2026-03-31",
+   "titre": "Aedifica: koersdoel en analistenconsensus | AED | BE0003851681",
+   "source": "MarketScreener Nederland",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haE9qZk4tOE9aUjJoLVdNeWRzY1U0azdtN3g1R0hyYzVkTEE5Wm1kQzdJOEpKc19GVXFyN2VyRXMtWE81ajc3WTlYSzhDRWNCQTh5amRubGF3ZUp0bUV0UkV5bHZCUmhoZmFkX2l0Y2tSS1ktU1dGUQ?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "ceac5b1093c1",
@@ -1767,6 +1970,30 @@
    "vu_le": "2026-11-21"
   },
   {
+   "id": "438ee6141cb3",
+   "date": "2026-03-03",
+   "titre": "Une OPA réussie : Aedifica et Cofinimmo peuvent fusionner",
+   "source": "Trends-Tendances",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYURHYUh3U3hRY1hNQ0g0Y2FESjZPeDdObzhLMElaRnNUd19EbXVCQklJODM0dnhhNkh2TU5TTnBZMmtMSk1yeE1sOUEtUkZFTkJEZWszV1ZvU05CbmtOOURERG85X2oxWVZSdmU1MGlOTnZYYjMxS0FXUklaNHVVc0NhcEZLUkdNNWJJSnhRMFM?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-28"
+  },
+  {
+   "id": "12e841671d41",
+   "date": "2026-03-03",
+   "titre": "Pari réussi pour Aedifica qui prend le contrôle de Cofinimmo",
+   "source": "L'Echo",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX00yb21mcFJ1cWZVNzV5bUI4Q2VUbmNvNzVVWUJ6Qk1vT2prQXlITkU3NHNmR3dnUWRQZ1Y1US1ZMk9yRkkxVm4tQU5Sa21aWVVXeFlHX0FieXNqZWpEYmRYOEtseVVaeFZYVzB4Q2FYam82NE9DN2dONG9xZUxRTXZkbzF6c00wNENhQTRhSzFBaG9zaUM0ejJOYkNaVURPSU1ycnR5RE1KbElJclJoZDJSQzM2OVYzVlE?oc=5",
+   "langue": "fr",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "cofinimmo",
+   "vu_le": "2026-11-28"
+  },
+  {
    "id": "f74179874df3",
    "date": "2026-03-02",
    "titre": "Le Bel 20 en rouge vif | Avis de brokers sur Syensqo, UCB et argenx | Positions \"short\" sur UCB, Aedifica et D'Ieteren (+Briefing)",
@@ -1789,6 +2016,18 @@
    "officiel": false,
    "categorie": "acquisitions",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "cb208573d259",
+   "date": "2026-02-24",
+   "titre": "CFO Podcast met Ingrid Daerden (Aedifica): ‘Financiering zorgoperatoren is ons risico’",
+   "source": "Trends.be",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3hJd0MyR1RKTE9yMjBMMTgyc0lRWEtPYUQzamJONW5zQnVYT2NSY0h3MlpzaEkyaGFiaVd5LTZhWUNybG4yemplMXdsUWQzRWlRMWIzOXJaQjM2ZkV4T2JpY0p4clhvaWF6U2I2a0JWTklyMFZHeDRiejQzMVlvSWFtTzd6eTNZVU0zWDhFNnVsX2JnbXVIdmFDR0J2eHVRQnJtSGJ0THA?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "financement",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "511b05fb277d",
@@ -2221,6 +2460,18 @@
    "officiel": false,
    "categorie": "autres",
    "vu_le": "2026-11-21"
+  },
+  {
+   "id": "201e42383f41",
+   "date": "2025-12-12",
+   "titre": "Analisten zien Sofina, Aedifica en D’Ieteren schitteren in 2026",
+   "source": "De Tijd",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmdiWHpjNWs4c1BzMXl6MjFxU3BVS0l5c3g3a29pVHMtRkNISzNGVlFGMjRwdldTZ281UEZKRzBmSzJEbk9jWmVSRXRSRHlLNHViZHlPRVJfZXZMd0VSUS01OThfNnROeFpFS1dBa0pOSFlzSFRObU50SDRyaFowTVljNGMtSlRTb0Z1UHlDMG5NSmozcHF1emNVTlc3TDFWMFNWSHFuU0FCaEgtSWx2c3ZJeERSdzNz?oc=5",
+   "langue": "nl",
+   "extrait": "",
+   "officiel": false,
+   "categorie": "autres",
+   "vu_le": "2026-11-28"
   },
   {
    "id": "18c771f3c0d1",
